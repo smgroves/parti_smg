@@ -1,3 +1,7 @@
+This code was forked and appended by Sarah Maddox Groves in 2020.
+
+Below is from the original code at http://www.weizmann.ac.il/mcb/UriAlon/download/ParTI
+
 # ParTI
 
 Biological research increasingly depends on interpreting large datasets in high dimensional space. The main approaches for analyzing such data are dimensionality reduction techniques such as principal component analysis, and clustering techniques that split data points into groups. Recently, a theoretical advance (Shoval et al., Science 2012) has suggested a complementary way to understand large biological datasets. This approach is based on Pareto optimality of organisms with respect to multiple evolutionary tasks. It predicts that cells or organisms that need to perform multiple tasks have phenotypes that fall on low dimensional polytopes such as lines, triangles, tetrahedrons; phenotypes optimal for each task – called archetypes – are at the vertices of these polytopes.
