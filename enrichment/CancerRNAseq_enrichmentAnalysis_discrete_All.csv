@@ -1,0 +1,2461 @@
+archetype #,Feature Name,P value (Hypergeom.),Significant after Benjamini-Hochberg correction?,Is first bin maximal?
+1,breast carcinoma estrogen receptor status: Negative,0,1,1
+1,PAM50: Basal,0,1,1
+1,breast carcinoma progesterone receptor status: Negative,2.2204e-15,1,1
+1,route of administration: Intravenous (IV),2.0877e-05,1,0
+1,breast carcinoma immunohistochemistry pos cell score: 0,3.1898e-05,1,1
+1,er level cell percentage category: <10,9.7719e-05,1,1
+1,drug therapy ongoing: NO,0.00015892,1,0
+1,pathologic T: T2,0.00016838,1,1
+1,tumor necrosis percent: 5,0.00033227,1,1
+1,PAM50 sample type: tumor,0.00034053,1,1
+1,pathologic stage: Stage IIA,0.00048213,1,1
+1,immunohistochemistry positive cell score: 0,0.00072796,1,1
+1,sample type: Primary Tumor,0.00090596,1,1
+1,method of normal sample procurement: Excisional biopsy,0.0010869,1,1
+1,icd o 3 site: C50.4,0.0022047,1,1
+1,drug name: cytoxan,doxorubicin,paclitaxel,0.0024302,1,1
+1,her2 immunohistochemistry level result: 0,0.0043168,0,1
+1,tumor nuclei percent: 85,0.0043752,0,1
+1,menopause status: Indeterminate (neither Pre or Postmenopausal),0.0044823,0,1
+1,margin status: Negative,0.0053971,0,1
+1,prior dx: No,0.0070306,0,1
+1,histological type: Medullary Carcinoma,0.0070572,0,1
+1,icd o 3 histology: 8510/3,0.0070572,0,1
+1,icd o 3 histology: 8500/3,0.007349,0,0
+1,breast carcinoma surgical procedure name: Simple Mastectomy,0.0083008,0,1
+1,progesterone receptor level cell percent category: <10,0.010104,0,1
+1,anatomic neoplasm subdivision: Right Upper Inner Quadrant,0.010346,0,1
+1,histological type: Infiltrating Ductal Carcinoma,0.011033,0,0
+1,breast carcinoma estrogen receptor status: [Not Evaluated],0.013664,0,1
+1,breast carcinoma progesterone receptor status: [Not Evaluated],0.013664,0,1
+1,vital status: alive,0.014476,0,1
+1,gender: FEMALE,0.01453,0,1
+1,history of neoadjuvant treatment: No,0.01453,0,1
+1,pathologic N: N0 (i-),0.016693,0,1
+1,pathologic M: M0,0.01731,0,1
+1,cytokeratin immunohistochemistry staining method micrometastasis indicator: YES,0.018956,0,1
+1,normal tissue anatomic site: BREAST,0.019091,0,1
+1,tissue prospective collection indicator: NO,0.020522,0,1
+1,tissue retrospective collection indicator: YES,0.020522,0,1
+1,initial pathologic diagnosis method: Excisional Biopsy,0.023933,0,1
+1,icd 10: C50.9,0.02455,0,1
+1,lab procedure her2 neu in situ hybrid outcome type: [Not Evaluated],0.024882,0,1
+1,lab proc her2 neu immunohistochemistry receptor status: Negative,0.027782,0,0
+1,tumor nuclei percent: 80,0.03083,0,0
+1,axillary lymph node stage method type: Sentinel lymph node biopsy plus axillary dissection,0.030934,0,1
+1,lab proc her2 neu immunohistochemistry receptor status: [Not Evaluated],0.039112,0,1
+1,oct embedded: true,0.040779,0,1
+1,drug name: adriamycin,capecetabine,cytoxan,docetaxel,tamoxifen,zometa,0.049729,0,1
+1,drug name: adriamycin,cyclophosphamide,taxol,0.049729,0,1
+1,drug name: carboplatin,docetaxel,fareston,tamoxifen,trastuzumab,zoledronic,0.049729,0,1
+1,drug name: cyclophosphamide,doxorubicin,paclitaxel,paclitaxel,0.049729,0,1
+1,drug name: cytoxan,docetaxel,0.049729,0,1
+1,drug name: tamoxifen,na,0.049729,0,1
+1,icd o 3 histology: 8013/3,0.049729,0,1
+1,surgical procedure purpose other text: Pateys surgery,0.049729,0,1
+1,initial pathologic diagnosis method: Fine needle aspiration biopsy,0.050179,0,0
+1,tumor necrosis percent: 15,0.056078,0,1
+1,route of administration: Oral,NA,0.056078,0,1
+1,her2 erbb pos finding cell percent category: <10,0.067972,0,1
+1,pathologic N: N0,0.068366,0,1
+1,section location: BOTTOM,TOP,0.069607,0,0
+1,drug name: cyclophosphamide,doxorubicin,paclitaxel,0.069842,0,0
+1,axillary lymph node stage method type: Other (specify),0.069842,0,1
+1,race: BLACK OR AFRICAN AMERICAN,0.072972,0,1
+1,pathologic N: N1,0.076417,0,1
+1,anatomic treatment site: none,0.078361,0,0
+1,radiation treatment ongoing: none,0.078361,0,0
+1,radiation type: none,0.078361,0,0
+1,radiation regimen indication: none,0.078361,0,0
+1,tumor necrosis percent: 20,0.078547,0,0
+1,tumor necrosis percent: 2,0.084579,0,1
+1,initial pathologic diagnosis method: Tumor resection,0.08655,0,0
+1,drug name: anastrozole,arimidex,bevacizumab,cyclophosphamide,doxorubicin,paclitaxel,taxol,0.097027,0,1
+1,drug name: cyclophosphamide,doxorubicin,0.097027,0,1
+1,drug name: taxane,arimidex,cytoxan,doxorubicin,0.097027,0,1
+1,drug regimen indication: ADJUVANT,PALLIATIVE,0.097027,0,1
+1,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right Upper Outer Quadrant,0.097027,0,1
+1,surgical procedure purpose other text: Modified radical mastectomy with left breast biopsy,0.097027,0,1
+1,surgical procedure purpose other text: Total Mastectomy,0.097027,0,1
+1,surgical procedure purpose other text: Wide Local Excision,0.097027,0,1
+1,surgical procedure purpose other text: localized segmental mastectomy with axillary node dissection,0.097027,0,1
+1,anatomic treatment site: Distant site,Primary Tumor Field,0.097027,0,1
+1,drug name: none,0.099113,0,0
+1,drug regimen indication: none,0.099113,0,0
+1,drug regimen number: none,0.099113,0,0
+1,route of administration: none,0.099113,0,0
+1,drug therapy ongoing: none,0.099113,0,0
+1,pathologic stage: Stage IIB,0.10078,0,0
+1,person neoplasm cancer status: TUMOR FREE,0.11713,0,0
+1,axillary lymph node stage method type: No axillary staging,0.12353,0,0
+1,anatomic neoplasm subdivision: Left Upper Outer Quadrant,0.12529,0,0
+1,tumor nuclei percent: 90,0.12794,0,1
+1,cytokeratin immunohistochemistry staining method micrometastasis indicator: NO,0.13572,0,0
+1,anatomic neoplasm subdivision: Right Upper Outer Quadrant,0.14131,0,0
+1,tumor necrosis percent: 3,0.14201,0,1
+1,drug name: cyclophosphamide,docetaxel,doxorubicin,0.14201,0,1
+1,drug name: cytoxan,taxotere,0.14201,0,1
+1,drug regimen indication: ADJUVANT,PROGRESSION,0.14201,0,1
+1,number of lymphnodes positive by ihc: 4,0.14201,0,1
+1,pathologic T: TX,0.14201,0,1
+1,radiation regimen indication: ADJUVANT,PALLIATIVE,0.14201,0,1
+1,axillary lymph node stage method type: Axillary lymph node dissection alone,0.1681,0,0
+1,number of lymphnodes positive by ihc: 0,0.18135,0,0
+1,anatomic neoplasm subdivision: Right Lower Inner Quadrant|Right Lower Outer Quadrant|Right,0.1848,0,0
+1,icd 10: C50.4,0.1848,0,1
+1,system version: 6th,0.19866,0,0
+1,radiation type: EXTERNAL BEAM,0.21559,0,0
+1,menopause status: Pre (<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),0.21861,0,0
+1,drug regimen number: 1,2,0.22282,0,0
+1,drug regimen number: 1,2,3,0.22314,0,0
+1,anatomic neoplasm subdivision: Left Upper Outer Quadrant|Left,0.22314,0,0
+1,race: WHITE,0.22728,0,0
+1,radiation treatment ongoing: NO,0.26197,0,0
+1,drug name: doxorubicine,0.26417,0,1
+1,er level cell percentage category: 20-29,0.26417,0,0
+1,anatomic treatment site: Primary Tumor Field,Regional site,0.26417,0,1
+1,pathologic N: N1b,0.27791,0,0
+1,race: ASIAN,0.27791,0,0
+1,icd o 3 site: C50.9,0.28085,0,0
+1,drug regimen indication: ADJUVANT,0.29088,0,0
+1,section location: TOP,0.29301,0,0
+1,tumor nuclei percent: 60,0.30096,0,0
+1,drug name: adriamycin,cytoxan,taxol,0.30096,0,0
+1,drug regimen number: 1,2,3,4,5,6,0.30096,0,0
+1,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant,0.30096,0,1
+1,immunohistochemistry positive cell score: 1+,0.30096,0,1
+1,number of lymphnodes positive by ihc: 2,0.30096,0,0
+1,breast carcinoma surgical procedure name: Other,0.30522,0,0
+1,lab procedure her2 neu in situ hybrid outcome type: Negative,0.30542,0,0
+1,progesterone receptor level cell percent category: NA,0.30565,0,0
+1,tumor nuclei percent: 95,0.3186,0,0
+1,radiation regimen indication: ADJUVANT,0.33189,0,0
+1,surgical procedure purpose other text: segmental mastectomy,0.33595,0,0
+1,menopause status: Post (prior bilateral ovariectomy OR >12 mo since LMP with no prior hysterectomy),0.33935,0,0
+1,axillary lymph node stage method type: Sentinel node biopsy alone,0.3459,0,0
+1,anatomic neoplasm subdivision: Right Upper Outer Quadrant|Right,0.35593,0,0
+1,breast carcinoma surgical procedure name: Modified Radical Mastectomy,0.36069,0,0
+1,tumor nuclei percent: 100,0.36921,0,0
+1,surgical procedure purpose other text: Excisional biopsy,0.36921,0,1
+1,lab proc her2 neu immunohistochemistry receptor status: Equivocal,0.37833,0,0
+1,histological type: Other  specify,0.39256,0,0
+1,drug regimen number: 1,2,3,4,5,0.40084,0,0
+1,er level cell percentage category: 10-19,0.40084,0,0
+1,oct embedded: false,0.42498,0,0
+1,her2 immunohistochemistry level result: 2+,0.43074,0,0
+1,surgical procedure purpose other text: Wide local excision,0.4309,0,0
+1,anatomic treatment site: Primary Tumor Field,0.44312,0,0
+1,icd o 3 site: C50.1,0.48666,0,0
+1,immunohistochemistry positive cell score: NA,0.49197,0,0
+1,margin status: Positive,0.49819,0,0
+1,er level cell percentage category: NA,0.50018,0,0
+1,surgical procedure purpose other text: Surgical Resection,0.52098,0,0
+1,drug regimen number: 1,0.52484,0,0
+1,anatomic neoplasm subdivision: Left Lower Inner Quadrant,0.53705,0,0
+1,icd o 3 histology: 8523/3,0.53705,0,0
+1,anatomic treatment site: Regional site,0.55925,0,0
+1,pathologic M: M1,0.58257,0,0
+1,pathologic stage: Stage IV,0.58257,0,0
+1,pathologic stage: Stage X,0.58257,0,0
+1,system version: NA,0.59091,0,0
+1,anatomic neoplasm subdivision: Left,0.59602,0,0
+1,tumor nuclei percent: 75,0.60275,0,0
+1,anatomic neoplasm subdivision: Left Lower Outer Quadrant,0.60365,0,0
+1,pathologic N: N0 (i+),0.60365,0,0
+1,tissue prospective collection indicator: YES,0.60465,0,0
+1,tissue retrospective collection indicator: NO,0.60465,0,0
+1,tumor necrosis percent: 1,0.62369,0,0
+1,pathologic N: N1mi,0.62369,0,0
+1,system version: 5th,0.63008,0,0
+1,breast carcinoma surgical procedure name: Lumpectomy,0.63606,0,0
+1,her2 immunohistochemistry level result: 1+,0.63624,0,0
+1,menopause status: Peri (6-12 months since last menstrual period),0.64273,0,0
+1,surgical procedure purpose other text: Patey's Surgery,0.64273,0,0
+1,initial pathologic diagnosis method: Other method, specify:,0.64302,0,0
+1,pathologic stage: Stage IA,0.65573,0,0
+1,tumor necrosis percent: 10,0.66082,0,0
+1,anatomic neoplasm subdivision: Right,0.66156,0,0
+1,tumor necrosis percent: 0,0.67328,0,0
+1,icd o 3 site: C50.2,0.67801,0,0
+1,pathologic N: N3a,0.67801,0,0
+1,initial pathologic diagnosis method: Core needle biopsy,0.67948,0,0
+1,surgical procedure purpose other text: NA,0.6835,0,0
+1,vital status: dead,0.68795,0,0
+1,her2 erbb pos finding cell percent category: NA,0.70903,0,0
+1,pathologic stage: Stage IIIC,0.72462,0,0
+1,anatomic neoplasm subdivision: Right Lower Outer Quadrant,0.73863,0,0
+1,pathologic M: MX,0.73863,0,0
+1,pathologic T: T1,0.75194,0,0
+1,pathologic T: T3,0.75352,0,0
+1,anatomic neoplasm subdivision: Left Upper Inner Quadrant,0.80913,0,0
+1,her2 immunohistochemistry level result: NA,0.83806,0,0
+1,tumor nuclei percent: 70,0.8393,0,0
+1,person neoplasm cancer status: NA,0.84775,0,0
+1,pathologic N: N2,0.85332,0,0
+1,breast carcinoma immunohistochemistry pos cell score: NA,0.8688,0,0
+1,tumor necrosis percent: 30,0.87334,0,0
+1,person neoplasm cancer status: WITH TUMOR,0.88714,0,0
+1,pathologic N: N2a,0.88743,0,0
+1,number of lymphnodes positive by ihc: NA,0.89982,0,0
+1,pathologic T: T1c,0.93462,0,0
+1,lab procedure her2 neu in situ hybrid outcome type: Positive,0.95704,0,0
+1,route of administration: Intravenous (IV),Oral,0.95978,0,0
+1,pathologic stage: Stage IIIA,0.9663,0,0
+1,pathologic stage: Stage I,0.96722,0,0
+1,drug therapy ongoing: NO,YES,0.9688,0,0
+1,pathologic N: N1a,0.97335,0,0
+1,lab procedure her2 neu in situ hybrid outcome type: NA,0.97683,0,0
+1,drug regimen number: NA,0.97844,0,0
+1,system version: 7th,0.9788,0,0
+1,race: NA,0.98204,0,0
+1,drug name: NA,0.98215,0,0
+1,lab proc her2 neu immunohistochemistry receptor status: Positive,0.98427,0,0
+1,initial pathologic diagnosis method: NA,0.99077,0,0
+1,oct embedded: NA,0.99121,0,0
+1,sample type: NA,0.99121,0,0
+1,normal tissue anatomic site: NA,0.99121,0,0
+1,section location: NA,0.99121,0,0
+1,drug therapy ongoing: NA,0.99121,0,0
+1,anatomic neoplasm subdivision: NA,0.99121,0,0
+1,breast carcinoma estrogen receptor status: NA,0.99121,0,0
+1,breast carcinoma progesterone receptor status: NA,0.99121,0,0
+1,gender: NA,0.99121,0,0
+1,icd 10: NA,0.99121,0,0
+1,icd o 3 histology: NA,0.99121,0,0
+1,icd o 3 site: NA,0.99121,0,0
+1,pathologic M: NA,0.99121,0,0
+1,pathologic N: NA,0.99121,0,0
+1,pathologic T: NA,0.99121,0,0
+1,prior dx: NA,0.99121,0,0
+1,tissue prospective collection indicator: NA,0.99121,0,0
+1,tissue retrospective collection indicator: NA,0.99121,0,0
+1,vital status: NA,0.99121,0,0
+1,radiation treatment ongoing: NA,0.99121,0,0
+1,histological type: NA,0.99153,0,0
+1,history of neoadjuvant treatment: NA,0.99153,0,0
+1,pathologic stage: NA,0.99184,0,0
+1,drug regimen indication: NA,0.99214,0,0
+1,anatomic treatment site: NA,0.99214,0,0
+1,radiation type: NA,0.99214,0,0
+1,radiation regimen indication: NA,0.99214,0,0
+1,route of administration: NA,0.9935,0,0
+1,lab proc her2 neu immunohistochemistry receptor status: NA,0.99421,0,0
+1,menopause status: NA,0.99527,0,0
+1,breast carcinoma surgical procedure name: NA,0.99625,0,0
+1,margin status: NA,0.99718,0,0
+1,cytokeratin immunohistochemistry staining method micrometastasis indicator: NA,0.99735,0,0
+1,method of normal sample procurement: NA,0.99772,0,0
+1,PAM50 sample type: NA,0.99958,0,0
+1,PAM50: NA,0.99958,0,0
+1,tumor necrosis percent: NA,0.99965,0,0
+1,tumor nuclei percent: NA,0.99965,0,0
+1,axillary lymph node stage method type: NA,0.99989,0,0
+1,PAM50: LumA,1,0,0
+1,breast carcinoma estrogen receptor status: Positive,1,0,0
+1,breast carcinoma progesterone receptor status: Positive,1,0,0
+1,sample type: Metastatic,1,0,0
+1,sample type: Solid Tissue Normal,1,0,0
+1,tumor necrosis percent: 25,1,0,0
+1,tumor nuclei percent: 65,1,0,0
+1,tumor nuclei percent: 99,1,0,0
+1,method of normal sample procurement: Other method (please specify),1,0,0
+1,method of normal sample procurement: Tumor Resection,1,0,0
+1,section location: BOTTOM,1,0,0
+1,drug name: abraxane,carboplatin,herceptin,taxotere,1,0,0
+1,drug name: adriamicin,1,0,0
+1,drug name: adriamycin+,1,0,0
+1,drug name: adriamycin+cyclophosphamid,1,0,0
+1,drug name: adriamycin,,1,0,0
+1,drug name: adriamycin,anastrozole,cytoxan,1,0,0
+1,drug name: adriamycin,anastrozole,cytoxan,exemestane,gemzar,letrozole,tamoxifen,taxol,1,0,0
+1,drug name: adriamycin,anastrozole,cytoxan,letrozole,tamoxifen,taxol,1,0,0
+1,drug name: adriamycin,anastrozole,cytoxan,taxol,1,0,0
+1,drug name: adriamycin,anastrozole,cytoxan,taxol,tamoxifen,1,0,0
+1,drug name: adriamycin,arimidex,aromasin,cytoxan,femara,tamoxifen,taxol,1,0,0
+1,drug name: adriamycin,arimidex,cyotxan,1,0,0
+1,drug name: adriamycin,arimidex,cytoxan,1,0,0
+1,drug name: adriamycin,arimidex,cytoxan,docetaxel,e-75,1,0,0
+1,drug name: adriamycin,arimidex,cytoxan,docetaxel,herceptin,lapatinib,1,0,0
+1,drug name: adriamycin,arimidex,cytoxan,femara,taxol,1,0,0
+1,drug name: adriamycin,arimidex,cytoxan,herceptin,taxol,taxotere,1,0,0
+1,drug name: adriamycin,arimidex,cytoxan,herceptin,taxotere,1,0,0
+1,drug name: adriamycin,arimidex,cytoxan,paclitaxel,1,0,0
+1,drug name: adriamycin,arimidex,cytoxan,tamoxifen,1,0,0
+1,drug name: adriamycin,arimidex,cytoxan,tamoxifen,taxol,1,0,0
+1,drug name: adriamycin,arimidex,cytoxan,tamoxifen,taxol,zometa,1,0,0
+1,drug name: adriamycin,arimidex,cytoxan,taxol,1,0,0
+1,drug name: adriamycin,arimidex,cytoxan,taxotere,1,0,0
+1,drug name: adriamycin,carboplatin,cytoxan,gemcitabine,xeloda,1,0,0
+1,drug name: adriamycin,cisplatin,exemestane,gemzar,navelbine,taxol,taxotere,xeloda,1,0,0
+1,drug name: adriamycin,cyclophosphamide,herceptin,paclitaxel,1,0,0
+1,drug name: adriamycin,cyclophosphamide,herceptin,paclitaxel,tamoxifen,triptorelin,zoledronic,1,0,0
+1,drug name: adriamycin,cytoxan,1,0,0
+1,drug name: adriamycin,cytoxan,docetaxel,1,0,0
+1,drug name: adriamycin,cytoxan,exemestane,letrozole,tamoxifen,xeloda,1,0,0
+1,drug name: adriamycin,cytoxan,femara,taxol,1,0,0
+1,drug name: adriamycin,cytoxan,femara,taxotere,1,0,0
+1,drug name: adriamycin,cytoxan,herceptin,letrozole,tamoxifen,taxol,zoladex,1,0,0
+1,drug name: adriamycin,cytoxan,herceptin,tamoxifen,taxol,1,0,0
+1,drug name: adriamycin,cytoxan,herceptin,tamoxifen,taxol,zometa,1,0,0
+1,drug name: adriamycin,cytoxan,herceptin,taxol,1,0,0
+1,drug name: adriamycin,cytoxan,herceptin,taxol,zometa,1,0,0
+1,drug name: adriamycin,cytoxan,paclitaxel,tamoxifen,1,0,0
+1,drug name: adriamycin,cytoxan,tamoxifen,1,0,0
+1,drug name: adriamycin,cytoxan,tamoxifen,taxol,1,0,0
+1,drug name: adriamycin,cytoxan,tamoxifen,taxotere,1,0,0
+1,drug name: adriamycin,cytoxan,tamoxifen,taxotere,zoladex,1,0,0
+1,drug name: adriamycin,cytoxan,taxotere,1,0,0
+1,drug name: adriamycin,cytoxan,taxotere,zometa,1,0,0
+1,drug name: adrimycin,arimidex,cyotxan,taxotere,1,0,0
+1,drug name: ae-37,adriamycin,arimidex,cytoxan,1,0,0
+1,drug name: ae-37,adriamycin,cytoxan,herceptin,paclitaxel,1,0,0
+1,drug name: albumin-bound,1,0,0
+1,drug name: anastrozole,1,0,0
+1,drug name: anastrozole,cytoxan,docetaxel,doxorubicin,letrozole,paclitaxel,1,0,0
+1,drug name: anastrozole,cytoxan,docetaxel,exemestane,1,0,0
+1,drug name: anastrozole,cytoxan,doxorubicin,paclitaxel,tamoxifen,1,0,0
+1,drug name: anastrozole,tamoxifen,1,0,0
+1,drug name: anastrozole,zometa,1,0,0
+1,drug name: anastrozolum,1,0,0
+1,drug name: arimidex,1,0,0
+1,drug name: arimidex,aromasin,1,0,0
+1,drug name: arimidex,aromasin,cyclophosphamide,doxorubicin,femara,paclitaxel,tamoxifen,1,0,0
+1,drug name: arimidex,aromasin,femara,1,0,0
+1,drug name: arimidex,aromasin,hercptin,taxotere,1,0,0
+1,drug name: arimidex,bevacizumab,1,0,0
+1,drug name: arimidex,bevacizumab,carboplatin,paclitaxel,pemetrexed,1,0,0
+1,drug name: arimidex,carboplatin,docetaxel,1,0,0
+1,drug name: arimidex,carboplatin,docetaxel,trastuzumab,1,0,0
+1,drug name: arimidex,carboplatin,taxol,1,0,0
+1,drug name: arimidex,clodronate,cyclophosphamide,doxorubicin,paclitaxel,1,0,0
+1,drug name: arimidex,cyclophosphamide,cytoxan,1,0,0
+1,drug name: arimidex,cyclophosphamide,docetaxel,1,0,0
+1,drug name: arimidex,cyclophosphamide,docetaxel,doxorubicin,tamoxifen,1,0,0
+1,drug name: arimidex,cyclophosphamide,docetaxel,paclitaxel,1,0,0
+1,drug name: arimidex,cyclophosphamide,docetaxel,zolendronic,1,0,0
+1,drug name: arimidex,cyclophosphamide,doxorubicin,1,0,0
+1,drug name: arimidex,cyclophosphamide,doxorubicin,lapatinib,paclitaxel,1,0,0
+1,drug name: arimidex,cyclophosphamide,doxorubicin,paclitaxel,1,0,0
+1,drug name: arimidex,cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,1,0,0
+1,drug name: arimidex,cyclophosphamide,doxorubicin,taxol,1,0,0
+1,drug name: arimidex,cyclophosphamide,doxorubicin,taxotere,1,0,0
+1,drug name: arimidex,cyclophosphamide,fluorouracil,methotrexate,1,0,0
+1,drug name: arimidex,cyclophosphamide,fluorouracil,methotrexate,tamoxifen,1,0,0
+1,drug name: arimidex,cytoxan,tamoxifen,taxotere,1,0,0
+1,drug name: arimidex,cytoxan,taxotere,1,0,0
+1,drug name: arimidex,fulvestrant,xeloda,zometa,1,0,0
+1,drug name: arimidex,herceptin,taxol,1,0,0
+1,drug name: arimidex,tamoxifen,1,0,0
+1,drug name: armidex,1,0,0
+1,drug name: aromasin,1,0,0
+1,drug name: aromasin,[unknown],1,0,0
+1,drug name: aromasin,clodronate,cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,trastuzumab,1,0,0
+1,drug name: aromasin,cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,1,0,0
+1,drug name: aromasin,cytoxan,taxotere,1,0,0
+1,drug name: avastin,clodronic,1,0,0
+1,drug name: carboplatin,docetaxel,herceptin,tamoxifen,1,0,0
+1,drug name: carboplatin,docetaxel,trastuzumab,1,0,0
+1,drug name: carboplatin,femara,herceptin,taxotere,1,0,0
+1,drug name: carboplatin,herceptin,taxotere,1,0,0
+1,drug name: clodronate,cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,triptorelin,1,0,0
+1,drug name: cyclophasphamide,doxorubicin,paclitaxel,1,0,0
+1,drug name: cyclophosphamid+metotreksat+,1,0,0
+1,drug name: cyclophosphamide,docetaxel,doxorubicin,paclitaxel,1,0,0
+1,drug name: cyclophosphamide,docetaxel,tamoxifen,1,0,0
+1,drug name: cyclophosphamide,doxorubicin,femara,taxotere,1,0,0
+1,drug name: cyclophosphamide,doxorubicin,letrozole,1,0,0
+1,drug name: cyclophosphamide,doxorubicin,lupron,paclitaxel,tamoxifen,1,0,0
+1,drug name: cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,1,0,0
+1,drug name: cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,trastuzumab,1,0,0
+1,drug name: cyclophosphamide,doxorubicin,paclitaxel,trastuzumab,1,0,0
+1,drug name: cyclophosphamide,doxorubicin,paclitaxel,zoledronic,1,0,0
+1,drug name: cyclophosphamide,doxorubicin,paxlitaxel,tamoxifen,1,0,0
+1,drug name: cyclophosphamide,doxorubicin,tamoxifen,1,0,0
+1,drug name: cyclophosphamide,doxorubicin,taxol,1,0,0
+1,drug name: cyclophosphamide,flourouracil,letrozole,1,0,0
+1,drug name: cyclophosphamide,fluorouracil,methotrexate,1,0,0
+1,drug name: cyclophosphamide,fluorouracil,methotrexate,tamoxifen,zoladex,1,0,0
+1,drug name: cyclophosphamide,taxotere,1,0,0
+1,drug name: cytoxan,docetaxel,herceptin,tamoxifen,1,0,0
+1,drug name: cytoxan,doxorubicin,paclitaxel,tamoxifen,1,0,0
+1,drug name: cytoxan,tamoxifen,taxol,1,0,0
+1,drug name: cytoxan,tamoxifen,taxotere,1,0,0
+1,drug name: docetaxel,doxorubicin,na,1,0,0
+1,drug name: docetaxel,tamoxifen,1,0,0
+1,drug name: doxorubicin+cyclophosphamid,1,0,0
+1,drug name: e-75,exemestane,tamoxifen,1,0,0
+1,drug name: femara,1,0,0
+1,drug name: fulvestrant,letrozole,1,0,0
+1,drug name: herceptin,1,0,0
+1,drug name: leuprolide,1,0,0
+1,drug name: lupron,tamoxifen,zoladex,1,0,0
+1,drug name: nolvadex,1,0,0
+1,drug name: tamoxifen,1,0,0
+1,drug name: tamoxifen,zoladex,1,0,0
+1,drug name: tamoxifen,zoladex,zometa,1,0,0
+1,drug name: taxotere/cytoxan,1,0,0
+1,drug name: tc,1,0,0
+1,drug name: trastuzumab,1,0,0
+1,drug name: xeloda,1,0,0
+1,drug regimen indication: ADJUVANT,NA,1,0,0
+1,drug regimen indication: ADJUVANT,OTHER: SPECIFY IN NOTES,1,0,0
+1,drug regimen indication: ADJUVANT,PROGRESSION,RECURRENCE,1,0,0
+1,drug regimen indication: ADJUVANT,RECURRENCE,1,0,0
+1,drug regimen indication: OTHER: SPECIFY IN NOTES,1,0,0
+1,drug regimen indication: OTHER: SPECIFY IN NOTES,PROGRESSION,1,0,0
+1,drug regimen indication: OTHER: SPECIFY IN NOTES,RECURRENCE,1,0,0
+1,drug regimen indication: PROGRESSION,RECURRENCE,1,0,0
+1,drug regimen number: 1,2,3,4,1,0,0
+1,drug regimen number: 1,2,3,4,5,6,7,1,0,0
+1,drug regimen number: 1,2,3,4,5,6,7,8,1,0,0
+1,drug regimen number: 1,2,3,4,5,6,7,8,9,1,0,0
+1,drug regimen number: 1,2,3,4,5,7,1,0,0
+1,drug regimen number: 1,3,1,0,0
+1,drug regimen number: 1,5,1,0,0
+1,drug regimen number: 1,NA,1,0,0
+1,drug regimen number: 4x chemotherapy,1,0,0
+1,drug regimen number: 4x chemotherapy+hormonotherapy,1,0,0
+1,drug regimen number: AC,1,0,0
+1,drug regimen number: AC then TH,1,0,0
+1,drug regimen number: AC,NA,1,0,0
+1,drug regimen number: Arimidex,TC,1,0,0
+1,drug regimen number: Arimidex,TCH,1,0,0
+1,drug regimen number: Aromasin,1,0,0
+1,drug regimen number: CMF,1,0,0
+1,drug regimen number: Femara,1,0,0
+1,drug regimen number: TAC,TAM,Zoladex,1,0,0
+1,drug regimen number: TC regimen,1,0,0
+1,drug regimen number: hormone therapy,1,0,0
+1,drug regimen number: tamoxifen daily,1,0,0
+1,route of administration: Intramuscular (IM),Intravenous (IV),Oral,1,0,0
+1,route of administration: Intramuscular (IM),Oral,1,0,0
+1,route of administration: Intramuscular (IM),Oral,Subcutaneous (SC),1,0,0
+1,route of administration: Intramuscular (IM)|Intravenous (IV),Intravenous (IV),Oral,1,0,0
+1,route of administration: Intravenous (IV),NA,1,0,0
+1,route of administration: Intravenous (IV),Oral,NA,1,0,0
+1,route of administration: Intravenous (IV),Oral,Subcutaneous (SC),1,0,0
+1,route of administration: Oral,1,0,0
+1,route of administration: Oral,Subcutaneous (SC),1,0,0
+1,drug therapy ongoing: NO,NA,1,0,0
+1,drug therapy ongoing: YES,1,0,0
+1,anatomic neoplasm subdivision: Left Lower Inner Quadrant|Left,1,0,0
+1,anatomic neoplasm subdivision: Left Lower Inner Quadrant|Left Lower Outer Quadrant|Left,1,0,0
+1,anatomic neoplasm subdivision: Left Lower Outer Quadrant|Left,1,0,0
+1,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left,1,0,0
+1,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Lower Inner Quadrant,1,0,0
+1,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Lower Inner Quadrant|Left,1,0,0
+1,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Lower Inner Quadrant|Left Lower Outer Quadrant|Left,1,0,0
+1,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant|Left,1,0,0
+1,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant|Left Lower Inner Quadrant|Left,1,0,0
+1,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant|Left Lower Inner Quadrant|Left Lower Outer Quadrant,1,0,0
+1,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant|Left Lower Inner Quadrant|Left Lower Outer Quadrant|Left,1,0,0
+1,anatomic neoplasm subdivision: Left Upper Outer Quadrant|Left Lower Outer Quadrant,1,0,0
+1,anatomic neoplasm subdivision: Left Upper Outer Quadrant|Left Lower Outer Quadrant|Left,1,0,0
+1,anatomic neoplasm subdivision: Left Upper Outer Quadrant|Right,1,0,0
+1,anatomic neoplasm subdivision: Right Lower Inner Quadrant,1,0,0
+1,anatomic neoplasm subdivision: Right Lower Inner Quadrant|Right,1,0,0
+1,anatomic neoplasm subdivision: Right Lower Inner Quadrant|Right Lower Outer Quadrant,1,0,0
+1,anatomic neoplasm subdivision: Right Lower Outer Quadrant|Right,1,0,0
+1,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right,1,0,0
+1,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right Lower Inner Quadrant|Right,1,0,0
+1,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right Upper Outer Quadrant|Right,1,0,0
+1,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right Upper Outer Quadrant|Right Lower Inner Quadrant|Right Lower Outer Quadrant|Right,1,0,0
+1,anatomic neoplasm subdivision: Right Upper Outer Quadrant|Left,1,0,0
+1,anatomic neoplasm subdivision: Right Upper Outer Quadrant|Right Lower Outer Quadrant,1,0,0
+1,anatomic neoplasm subdivision: Right Upper Outer Quadrant|Right Lower Outer Quadrant|Right,1,0,0
+1,breast carcinoma estrogen receptor status: Indeterminate,1,0,0
+1,breast carcinoma immunohistochemistry pos cell score: 1+,1,0,0
+1,breast carcinoma immunohistochemistry pos cell score: 2+,1,0,0
+1,breast carcinoma immunohistochemistry pos cell score: 3+,1,0,0
+1,breast carcinoma immunohistochemistry pos cell score: 4+,1,0,0
+1,breast carcinoma progesterone receptor status: Indeterminate,1,0,0
+1,er level cell percentage category: 40-49,1,0,0
+1,er level cell percentage category: 50-59,1,0,0
+1,er level cell percentage category: 60-69,1,0,0
+1,er level cell percentage category: 70-79,1,0,0
+1,er level cell percentage category: 80-89,1,0,0
+1,er level cell percentage category: 90-99,1,0,0
+1,gender: MALE,1,0,0
+1,her2 erbb pos finding cell percent category: 10-19,1,0,0
+1,her2 erbb pos finding cell percent category: 20-29,1,0,0
+1,her2 erbb pos finding cell percent category: 30-39,1,0,0
+1,her2 erbb pos finding cell percent category: 40-49,1,0,0
+1,her2 erbb pos finding cell percent category: 50-59,1,0,0
+1,her2 erbb pos finding cell percent category: 60-69,1,0,0
+1,her2 erbb pos finding cell percent category: 70-79,1,0,0
+1,her2 erbb pos finding cell percent category: 90-99,1,0,0
+1,her2 immunohistochemistry level result: 3+,1,0,0
+1,histological type: Infiltrating Lobular Carcinoma,1,0,0
+1,histological type: Mixed Histology (please specify),1,0,0
+1,histological type: Mucinous Carcinoma,1,0,0
+1,history of neoadjuvant treatment: Yes,1,0,0
+1,icd 10: C50.2,1,0,0
+1,icd 10: C50.3,1,0,0
+1,icd 10: C50.5,1,0,0
+1,icd 10: C50.8,1,0,0
+1,icd o 3 histology: 8022/3,1,0,0
+1,icd o 3 histology: 8050/3,1,0,0
+1,icd o 3 histology: 8401/3,1,0,0
+1,icd o 3 histology: 8480/3,1,0,0
+1,icd o 3 histology: 8490/3,1,0,0
+1,icd o 3 histology: 8502/3,1,0,0
+1,icd o 3 histology: 8503/3,1,0,0
+1,icd o 3 histology: 8520/3,1,0,0
+1,icd o 3 histology: 8522/3,1,0,0
+1,icd o 3 histology: 8524/3,1,0,0
+1,icd o 3 histology: 8541/3,1,0,0
+1,icd o 3 histology: 8575/3,1,0,0
+1,icd o 3 site: C50.3,1,0,0
+1,icd o 3 site: C50.5,1,0,0
+1,icd o 3 site: C50.8,1,0,0
+1,immunohistochemistry positive cell score: 2+,1,0,0
+1,immunohistochemistry positive cell score: 3+,1,0,0
+1,immunohistochemistry positive cell score: 4+,1,0,0
+1,initial pathologic diagnosis method: Incisional Biopsy,1,0,0
+1,lab proc her2 neu immunohistochemistry receptor status: Indeterminate,1,0,0
+1,lab procedure her2 neu in situ hybrid outcome type: Equivocal,1,0,0
+1,lab procedure her2 neu in situ hybrid outcome type: Not Performed,1,0,0
+1,margin status: Close,1,0,0
+1,number of lymphnodes positive by ihc: 1,1,0,0
+1,pathologic M: cM0 (i+),1,0,0
+1,pathologic N: N1c,1,0,0
+1,pathologic N: N3,1,0,0
+1,pathologic N: N3c,1,0,0
+1,pathologic N: NX,1,0,0
+1,pathologic T: T1a,1,0,0
+1,pathologic T: T1b,1,0,0
+1,pathologic T: T2b,1,0,0
+1,pathologic T: T4,1,0,0
+1,pathologic T: T4b,1,0,0
+1,pathologic T: T4d,1,0,0
+1,pathologic stage: Stage IB,1,0,0
+1,pathologic stage: Stage IIIB,1,0,0
+1,pathologic stage: Stage Tis,1,0,0
+1,prior dx: Yes,1,0,0
+1,progesterone receptor level cell percent category: 10-19,1,0,0
+1,progesterone receptor level cell percent category: 20-29,1,0,0
+1,progesterone receptor level cell percent category: 30-39,1,0,0
+1,progesterone receptor level cell percent category: 40-49,1,0,0
+1,progesterone receptor level cell percent category: 50-59,1,0,0
+1,progesterone receptor level cell percent category: 60-69,1,0,0
+1,progesterone receptor level cell percent category: 70-79,1,0,0
+1,progesterone receptor level cell percent category: 80-89,1,0,0
+1,progesterone receptor level cell percent category: 90-99,1,0,0
+1,race: AMERICAN INDIAN OR ALASKA NATIVE,1,0,0
+1,surgical procedure purpose other text: Left segmental mastectomy with axillary lymph node dissection,1,0,0
+1,surgical procedure purpose other text: Left segmental mastectomy with left axillary lymph node dissection,1,0,0
+1,surgical procedure purpose other text: Left segmental mastectomy with level 1 and level 2 axillary dissection,1,0,0
+1,surgical procedure purpose other text: Modified Radical Masectomy,1,0,0
+1,surgical procedure purpose other text: Modified radical mastectomy with left sentinel node biopsy,1,0,0
+1,surgical procedure purpose other text: Modified radical mastectomy with sentinel lymph node biopsy and with total mastectomy of left breast,1,0,0
+1,surgical procedure purpose other text: Quadrantectomy,1,0,0
+1,surgical procedure purpose other text: Right segmental mastectomy,1,0,0
+1,surgical procedure purpose other text: Right segmental mastectomy with sentinel lymph node and axillary lymph node biopsy,1,0,0
+1,surgical procedure purpose other text: Right total mastectomy with lymph node left axillary lymph node excision,1,0,0
+1,surgical procedure purpose other text: Segmental mastectomy,1,0,0
+1,surgical procedure purpose other text: Segmental mastectomy with left axillary lymph node dissection,1,0,0
+1,surgical procedure purpose other text: Segmental mastectomy with sentinel axillary lymph node biopsy,1,0,0
+1,surgical procedure purpose other text: Segmental mastectomy with sentinel lymph node biopsy,1,0,0
+1,surgical procedure purpose other text: Segmental mastectomy with sentinel node biopsy,1,0,0
+1,surgical procedure purpose other text: Sentinel lymph node biopsy,1,0,0
+1,surgical procedure purpose other text: Simple mastectomy with left lymph node sentinel biopsy,1,0,0
+1,surgical procedure purpose other text: Surgical resection,1,0,0
+1,surgical procedure purpose other text: TOTAL MASTECTOMY,1,0,0
+1,surgical procedure purpose other text: Total mastectomy,1,0,0
+1,surgical procedure purpose other text: Total mastectomy with left sentinel lymph node biospy,1,0,0
+1,surgical procedure purpose other text: Total mastectomy with retromammary lymph node excision,1,0,0
+1,surgical procedure purpose other text: Total mastectomy with sentinel lymoh node biopsy,1,0,0
+1,surgical procedure purpose other text: Total mastectomy with sentinel lymph node biopsy,1,0,0
+1,surgical procedure purpose other text: With sentinel lymph node biopsy (right) with simple mastectomy of left breast,1,0,0
+1,surgical procedure purpose other text: bilateral total mastectomies with right sentinel node biopsy,1,0,0
+1,surgical procedure purpose other text: biopsy,1,0,0
+1,surgical procedure purpose other text: excisional biopsy,1,0,0
+1,surgical procedure purpose other text: left segmental mastectomy with axillary sentinel lymph node biopsy,1,0,0
+1,surgical procedure purpose other text: left segmental mastectomy with sentinel node dissection,1,0,0
+1,surgical procedure purpose other text: modified radical mastectomy with axillary dissection,1,0,0
+1,surgical procedure purpose other text: needle directed right breast biopsy with left segmental mastectomy with axillary lymph node dissection,1,0,0
+1,surgical procedure purpose other text: needle localized segmental mastectomy,1,0,0
+1,surgical procedure purpose other text: quadrantectomy,1,0,0
+1,surgical procedure purpose other text: right segmental mastectomy,1,0,0
+1,surgical procedure purpose other text: right segmental mastectomy witrh axillary node dissection,1,0,0
+1,surgical procedure purpose other text: right total mastectomy with sentinel lymph node dissection right reconstruction with TRAMP,1,0,0
+1,surgical procedure purpose other text: segmental mastectomy with axillary dissection,1,0,0
+1,surgical procedure purpose other text: segmental mastectomy with axillary lymph node dissection,1,0,0
+1,surgical procedure purpose other text: segmental mastectomy with excision of mass on chest wall and axillary node dissection,1,0,0
+1,surgical procedure purpose other text: segmental mastectomy with sentinel lymph node dissection,1,0,0
+1,surgical procedure purpose other text: segmental mastectomy with sentinel lymph node excision and biopsy,1,0,0
+1,surgical procedure purpose other text: sentinel lymph node biopsy,1,0,0
+1,surgical procedure purpose other text: surgical resection,1,0,0
+1,surgical procedure purpose other text: toilet mastectomy,1,0,0
+1,surgical procedure purpose other text: total mastectomy,1,0,0
+1,surgical procedure purpose other text: total mastectomy and sentinel node biopsy,1,0,0
+1,surgical procedure purpose other text: total mastectomy with rigth axillary lymph node and sentinel lymph node dissection,1,0,0
+1,surgical procedure purpose other text: total mastectomy with sentinel lymph node biopsy with tissue reconstruction,1,0,0
+1,surgical procedure purpose other text: wide local excision,1,0,0
+1,surgical procedure purpose other text: with axillary lymph nodes dissection,1,0,0
+1,surgical procedure purpose other text: with axillary node dissection,1,0,0
+1,surgical procedure purpose other text: with left axilla sentinel lymph node biopsy,1,0,0
+1,surgical procedure purpose other text: with left lymphatic mapping and left axillary biopsy,1,0,0
+1,surgical procedure purpose other text: with sentinel lymph node biopsy,1,0,0
+1,anatomic treatment site: Distant Recurrence,1,0,0
+1,anatomic treatment site: Distant Recurrence,Local Recurrence,Primary Tumor Field,1,0,0
+1,anatomic treatment site: Distant Recurrence,Primary Tumor Field,1,0,0
+1,anatomic treatment site: Local Recurrence,1,0,0
+1,radiation treatment ongoing: YES,1,0,0
+1,radiation type: EXTERNAL BEAM,IMPLANTS,1,0,0
+1,radiation type: External,1,0,0
+1,radiation type: OTHER: SPECIFY IN NOTES,1,0,0
+1,radiation regimen indication: ADJUVANT,PROGRESSION,RECURRENCE,1,0,0
+1,radiation regimen indication: PALLIATIVE,1,0,0
+1,radiation regimen indication: RECURRENCE,1,0,0
+1,PAM50 sample type: metastatic,1,0,0
+1,PAM50 sample type: tumor-adjacent normal,1,0,0
+1,PAM50: Her2,1,0,0
+1,PAM50: LumB,1,0,0
+1,PAM50: Normal,1,0,0
+2,PAM50: LumB,1.3827e-08,1,1
+2,anatomic neoplasm subdivision: Left Lower Inner Quadrant|Left Lower Outer Quadrant|Left,0.00011667,1,1
+2,breast carcinoma estrogen receptor status: Positive,0.00020689,1,1
+2,route of administration: Intravenous (IV),Oral,NA,0.00045017,1,1
+2,lab proc her2 neu immunohistochemistry receptor status: Equivocal,0.00072145,1,1
+2,system version: 7th,0.0022047,1,1
+2,drug name: adriamycin,cytoxan,femara,taxotere,0.0024302,1,1
+2,method of normal sample procurement: Excisional biopsy,0.0027885,1,0
+2,menopause status: Post (prior bilateral ovariectomy OR >12 mo since LMP with no prior hysterectomy),0.0039579,0,0
+2,breast carcinoma progesterone receptor status: Positive,0.0046359,0,0
+2,sample type: Primary Tumor,0.005619,0,0
+2,her2 immunohistochemistry level result: 2+,0.0059178,0,1
+2,lab procedure her2 neu in situ hybrid outcome type: Negative,0.0066224,0,0
+2,section location: TOP,0.0068491,0,1
+2,tumor necrosis percent: 0,0.010516,0,0
+2,immunohistochemistry positive cell score: 4+,0.012151,0,1
+2,icd o 3 histology: 8500/3,0.015514,0,0
+2,breast carcinoma surgical procedure name: Modified Radical Mastectomy,0.017587,0,1
+2,drug name: arimidex,0.02072,0,1
+2,drug therapy ongoing: NO,YES,0.022357,0,0
+2,histological type: Infiltrating Ductal Carcinoma,0.022433,0,0
+2,cytokeratin immunohistochemistry staining method micrometastasis indicator: NO,0.022931,0,0
+2,tumor nuclei percent: 95,0.023933,0,1
+2,icd 10: C50.9,0.02455,0,0
+2,number of lymphnodes positive by ihc: 1,0.031754,0,1
+2,race: WHITE,0.031827,0,1
+2,er level cell percentage category: 50-59,0.032028,0,1
+2,pathologic M: M0,0.034135,0,0
+2,her2 erbb pos finding cell percent category: 10-19,0.034615,0,1
+2,normal tissue anatomic site: BREAST,0.037954,0,0
+2,drug regimen number: 1,2,3,4,0.040924,0,1
+2,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant,0.043424,0,1
+2,margin status: Negative,0.044081,0,0
+2,icd o 3 site: C50.9,0.045666,0,1
+2,radiation treatment ongoing: NO,0.049603,0,1
+2,pathologic stage: Stage IIIA,0.049716,0,0
+2,drug name: adriamycin,anastrozole,cytoxan,taxol,0.049729,0,1
+2,drug name: adriamycin,arimidex,cytoxan,docetaxel,e-75,0.049729,0,1
+2,drug name: adriamycin,arimidex,cytoxan,tamoxifen,taxol,0.049729,0,1
+2,drug name: adriamycin,cytoxan,tamoxifen,taxotere,zoladex,0.049729,0,1
+2,drug name: arimidex,cyclophosphamide,doxorubicin,0.049729,0,1
+2,drug name: arimidex,cyclophosphamide,doxorubicin,taxol,0.049729,0,1
+2,drug name: armidex,0.049729,0,1
+2,drug name: carboplatin,femara,herceptin,taxotere,0.049729,0,1
+2,drug regimen indication: ADJUVANT,NA,0.049729,0,1
+2,drug regimen number: 1,NA,0.049729,0,1
+2,drug regimen number: TAC,TAM,Zoladex,0.049729,0,1
+2,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Lower Inner Quadrant,0.049729,0,1
+2,tumor nuclei percent: 90,0.05288,0,0
+2,gender: FEMALE,0.055813,0,0
+2,history of neoadjuvant treatment: No,0.055813,0,0
+2,anatomic neoplasm subdivision: Left Lower Outer Quadrant,0.055875,0,1
+2,breast carcinoma immunohistochemistry pos cell score: 4+,0.056078,0,1
+2,breast carcinoma surgical procedure name: Lumpectomy,0.057448,0,1
+2,prior dx: No,0.057524,0,0
+2,pathologic N: N1a,0.064828,0,0
+2,tissue prospective collection indicator: NO,0.069841,0,0
+2,tissue retrospective collection indicator: YES,0.069841,0,0
+2,radiation regimen indication: ADJUVANT,0.070632,0,1
+2,person neoplasm cancer status: TUMOR FREE,0.071302,0,0
+2,oct embedded: true,0.071529,0,0
+2,pathologic N: N1,0.076417,0,1
+2,pathologic T: T3,0.080865,0,0
+2,drug therapy ongoing: YES,0.081374,0,0
+2,er level cell percentage category: 10-19,0.084579,0,1
+2,initial pathologic diagnosis method: Incisional Biopsy,0.084579,0,1
+2,axillary lymph node stage method type: Axillary lymph node dissection alone,0.093113,0,0
+2,lab procedure her2 neu in situ hybrid outcome type: Not Performed,0.097027,0,1
+2,progesterone receptor level cell percent category: 20-29,0.097027,0,1
+2,surgical procedure purpose other text: With sentinel lymph node biopsy (right) with simple mastectomy of left breast,0.097027,0,1
+2,surgical procedure purpose other text: total mastectomy and sentinel node biopsy,0.097027,0,1
+2,vital status: dead,0.10326,0,0
+2,pathologic N: N2,0.10686,0,1
+2,anatomic treatment site: Regional site,0.10686,0,1
+2,er level cell percentage category: 90-99,0.11695,0,0
+2,drug regimen indication: ADJUVANT,0.12198,0,0
+2,radiation type: EXTERNAL BEAM,0.12874,0,0
+2,anatomic neoplasm subdivision: Right Upper Outer Quadrant,0.14131,0,1
+2,sample type: Metastatic,0.14201,0,1
+2,drug name: arimidex,cyclophosphamide,fluorouracil,methotrexate,0.14201,0,1
+2,route of administration: Intravenous (IV),Oral,Subcutaneous (SC),0.14201,0,1
+2,icd o 3 histology: 8503/3,0.14201,0,1
+2,radiation type: External,0.14201,0,1
+2,PAM50 sample type: metastatic,0.14201,0,1
+2,histological type: Other  specify,0.14667,0,0
+2,route of administration: Oral,0.14823,0,0
+2,initial pathologic diagnosis method: Core needle biopsy,0.1553,0,0
+2,tumor necrosis percent: 5,0.15584,0,0
+2,tumor nuclei percent: 80,0.15859,0,0
+2,icd o 3 histology: 8523/3,0.16874,0,0
+2,pathologic stage: Stage IIB,0.18322,0,0
+2,lab proc her2 neu immunohistochemistry receptor status: Indeterminate,0.1848,0,1
+2,surgical procedure purpose other text: Segmental mastectomy,0.1848,0,1
+2,surgical procedure purpose other text: with axillary node dissection,0.1848,0,0
+2,vital status: alive,0.2153,0,0
+2,drug regimen number: hormone therapy,0.22548,0,1
+2,surgical procedure purpose other text: Surgical resection,0.22548,0,0
+2,tumor necrosis percent: 1,0.243,0,0
+2,pathologic N: N1mi,0.243,0,0
+2,pathologic T: T1c,0.25226,0,0
+2,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right Upper Outer Quadrant|Right Lower Inner Quadrant|Right Lower Outer Quadrant|Right,0.26417,0,1
+2,pathologic stage: Stage IB,0.26417,0,1
+2,anatomic treatment site: Primary Tumor Field,Regional site,0.26417,0,1
+2,route of administration: Intravenous (IV),Oral,0.27574,0,0
+2,pathologic N: N1b,0.27791,0,0
+2,race: ASIAN,0.27791,0,0
+2,tumor nuclei percent: 70,0.2787,0,0
+2,tumor necrosis percent: 10,0.28085,0,0
+2,pathologic T: T4b,0.28085,0,0
+2,anatomic treatment site: Primary Tumor Field,0.29467,0,0
+2,icd o 3 site: C50.2,0.29976,0,0
+2,pathologic stage: Stage IIIB,0.29976,0,0
+2,tumor nuclei percent: 60,0.30096,0,1
+2,drug name: adriamycin,cytoxan,taxol,0.30096,0,0
+2,anatomic neoplasm subdivision: Right Lower Inner Quadrant,0.30096,0,0
+2,history of neoadjuvant treatment: Yes,0.30096,0,0
+2,initial pathologic diagnosis method: Tumor resection,0.30197,0,0
+2,pathologic T: T2,0.31142,0,0
+2,lab proc her2 neu immunohistochemistry receptor status: Negative,0.31447,0,0
+2,pathologic stage: Stage IIA,0.31758,0,0
+2,progesterone receptor level cell percent category: 70-79,0.3186,0,0
+2,progesterone receptor level cell percent category: 90-99,0.33397,0,0
+2,drug name: none,0.33583,0,0
+2,drug regimen indication: none,0.33583,0,0
+2,drug regimen number: none,0.33583,0,0
+2,route of administration: none,0.33583,0,0
+2,drug therapy ongoing: none,0.33583,0,0
+2,drug name: arimidex,cyclophosphamide,doxorubicin,paclitaxel,0.33595,0,1
+2,route of administration: Oral,NA,0.33595,0,0
+2,gender: MALE,0.33595,0,0
+2,axillary lymph node stage method type: Sentinel node biopsy alone,0.3459,0,0
+2,pathologic N: N2a,0.34803,0,0
+2,tumor nuclei percent: 100,0.36921,0,0
+2,drug name: anastrozole,0.36921,0,1
+2,drug regimen indication: ADJUVANT,OTHER: SPECIFY IN NOTES,0.36921,0,0
+2,surgical procedure purpose other text: Excisional biopsy,0.36921,0,0
+2,axillary lymph node stage method type: Sentinel lymph node biopsy plus axillary dissection,0.37,0,0
+2,anatomic neoplasm subdivision: Right Lower Outer Quadrant,0.37435,0,0
+2,pathologic M: MX,0.37435,0,0
+2,anatomic treatment site: none,0.37949,0,0
+2,radiation treatment ongoing: none,0.37949,0,0
+2,radiation type: none,0.37949,0,0
+2,radiation regimen indication: none,0.37949,0,0
+2,breast carcinoma immunohistochemistry pos cell score: 2+,0.39256,0,0
+2,system version: 5th,0.39548,0,0
+2,tissue prospective collection indicator: YES,0.39718,0,0
+2,tissue retrospective collection indicator: NO,0.39718,0,0
+2,drug regimen number: 1,2,3,4,5,0.40084,0,0
+2,prior dx: Yes,0.41055,0,0
+2,oct embedded: false,0.42498,0,0
+2,surgical procedure purpose other text: NA,0.42706,0,0
+2,progesterone receptor level cell percent category: 60-69,0.4309,0,0
+2,surgical procedure purpose other text: Wide local excision,0.4309,0,0
+2,breast carcinoma immunohistochemistry pos cell score: 3+,0.43145,0,0
+2,drug regimen number: 1,2,0.44506,0,0
+2,immunohistochemistry positive cell score: 3+,0.45358,0,0
+2,pathologic N: N3,0.45949,0,0
+2,progesterone receptor level cell percent category: 80-89,0.45949,0,0
+2,number of lymphnodes positive by ihc: 0,0.46534,0,0
+2,PAM50 sample type: tumor,0.47789,0,0
+2,anatomic neoplasm subdivision: Left Upper Inner Quadrant,0.4798,0,0
+2,drug regimen number: 1,2,3,0.49636,0,0
+2,anatomic neoplasm subdivision: Left Upper Outer Quadrant|Left,0.49636,0,0
+2,icd o 3 site: C50.4,0.49888,0,0
+2,cytokeratin immunohistochemistry staining method micrometastasis indicator: YES,0.49943,0,0
+2,her2 erbb pos finding cell percent category: <10,0.50998,0,0
+2,icd o 3 site: C50.5,0.51249,0,0
+2,initial pathologic diagnosis method: Fine needle aspiration biopsy,0.52385,0,0
+2,drug regimen number: 1,0.52484,0,0
+2,tumor necrosis percent: 30,0.5288,0,0
+2,progesterone receptor level cell percent category: <10,0.53187,0,0
+2,anatomic neoplasm subdivision: Left Lower Inner Quadrant,0.53705,0,0
+2,lab procedure her2 neu in situ hybrid outcome type: [Not Evaluated],0.55555,0,0
+2,pathologic N: NX,0.56039,0,0
+2,lab proc her2 neu immunohistochemistry receptor status: [Not Evaluated],0.57424,0,0
+2,er level cell percentage category: 80-89,0.58257,0,0
+2,pathologic stage: Stage X,0.58257,0,0
+2,progesterone receptor level cell percent category: 40-49,0.58257,0,0
+2,anatomic neoplasm subdivision: Left,0.59602,0,0
+2,tumor nuclei percent: 75,0.60275,0,0
+2,PAM50 sample type: NA,0.60355,0,0
+2,PAM50: NA,0.60355,0,0
+2,surgical procedure purpose other text: Patey's Surgery,0.64273,0,0
+2,initial pathologic diagnosis method: Other method, specify:,0.64302,0,0
+2,pathologic stage: Stage IA,0.65573,0,0
+2,anatomic neoplasm subdivision: Right,0.66156,0,0
+2,her2 immunohistochemistry level result: 0,0.66179,0,0
+2,pathologic N: N0 (i-),0.66397,0,0
+2,section location: BOTTOM,TOP,0.68456,0,0
+2,tumor necrosis percent: 20,0.68796,0,0
+2,immunohistochemistry positive cell score: 2+,0.69435,0,0
+2,initial pathologic diagnosis method: Excisional Biopsy,0.69435,0,0
+2,her2 erbb pos finding cell percent category: NA,0.70903,0,0
+2,er level cell percentage category: 70-79,0.70987,0,0
+2,anatomic neoplasm subdivision: Right Upper Outer Quadrant|Right,0.72462,0,0
+2,axillary lymph node stage method type: No axillary staging,0.72462,0,0
+2,pathologic stage: Stage IIIC,0.72462,0,0
+2,surgical procedure purpose other text: Surgical Resection,0.73688,0,0
+2,pathologic T: T1,0.75194,0,0
+2,her2 immunohistochemistry level result: NA,0.75997,0,0
+2,anatomic neoplasm subdivision: Right Upper Inner Quadrant,0.76459,0,0
+2,anatomic neoplasm subdivision: Left Upper Outer Quadrant,0.76564,0,0
+2,breast carcinoma immunohistochemistry pos cell score: NA,0.76805,0,0
+2,her2 immunohistochemistry level result: 1+,0.77321,0,0
+2,system version: 6th,0.78299,0,0
+2,progesterone receptor level cell percent category: NA,0.80476,0,0
+2,breast carcinoma surgical procedure name: Other,0.81237,0,0
+2,lab procedure her2 neu in situ hybrid outcome type: Positive,0.81412,0,0
+2,menopause status: Indeterminate (neither Pre or Postmenopausal),0.81891,0,0
+2,breast carcinoma immunohistochemistry pos cell score: 0,0.84538,0,0
+2,breast carcinoma progesterone receptor status: Negative,0.87348,0,0
+2,er level cell percentage category: <10,0.8813,0,0
+2,immunohistochemistry positive cell score: NA,0.88257,0,0
+2,person neoplasm cancer status: WITH TUMOR,0.88714,0,0
+2,breast carcinoma surgical procedure name: Simple Mastectomy,0.89498,0,0
+2,number of lymphnodes positive by ihc: NA,0.89982,0,0
+2,person neoplasm cancer status: NA,0.90427,0,0
+2,margin status: NA,0.90653,0,0
+2,race: BLACK OR AFRICAN AMERICAN,0.90899,0,0
+2,menopause status: NA,0.92556,0,0
+2,margin status: Positive,0.93739,0,0
+2,histological type: Infiltrating Lobular Carcinoma,0.94066,0,0
+2,tumor nuclei percent: 85,0.94376,0,0
+2,pathologic N: N0,0.94576,0,0
+2,er level cell percentage category: NA,0.94791,0,0
+2,system version: NA,0.94989,0,0
+2,icd o 3 histology: 8520/3,0.95214,0,0
+2,axillary lymph node stage method type: NA,0.95988,0,0
+2,menopause status: Pre (<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),0.96016,0,0
+2,anatomic treatment site: NA,0.96534,0,0
+2,radiation type: NA,0.96534,0,0
+2,radiation regimen indication: NA,0.96534,0,0
+2,pathologic stage: Stage I,0.96722,0,0
+2,route of administration: NA,0.9703,0,0
+2,initial pathologic diagnosis method: NA,0.98079,0,0
+2,oct embedded: NA,0.98091,0,0
+2,sample type: NA,0.98091,0,0
+2,normal tissue anatomic site: NA,0.98091,0,0
+2,section location: NA,0.98091,0,0
+2,drug therapy ongoing: NA,0.98091,0,0
+2,anatomic neoplasm subdivision: NA,0.98091,0,0
+2,breast carcinoma estrogen receptor status: NA,0.98091,0,0
+2,breast carcinoma progesterone receptor status: NA,0.98091,0,0
+2,gender: NA,0.98091,0,0
+2,icd 10: NA,0.98091,0,0
+2,icd o 3 histology: NA,0.98091,0,0
+2,icd o 3 site: NA,0.98091,0,0
+2,pathologic M: NA,0.98091,0,0
+2,pathologic N: NA,0.98091,0,0
+2,pathologic T: NA,0.98091,0,0
+2,prior dx: NA,0.98091,0,0
+2,tissue prospective collection indicator: NA,0.98091,0,0
+2,tissue retrospective collection indicator: NA,0.98091,0,0
+2,vital status: NA,0.98091,0,0
+2,radiation treatment ongoing: NA,0.98091,0,0
+2,drug therapy ongoing: NO,0.98092,0,0
+2,breast carcinoma surgical procedure name: NA,0.98112,0,0
+2,histological type: NA,0.98154,0,0
+2,history of neoadjuvant treatment: NA,0.98154,0,0
+2,race: NA,0.98204,0,0
+2,drug name: NA,0.98215,0,0
+2,pathologic stage: NA,0.98215,0,0
+2,drug regimen indication: NA,0.98275,0,0
+2,lab proc her2 neu immunohistochemistry receptor status: Positive,0.98427,0,0
+2,lab proc her2 neu immunohistochemistry receptor status: NA,0.98692,0,0
+2,cytokeratin immunohistochemistry staining method micrometastasis indicator: NA,0.98719,0,0
+2,lab procedure her2 neu in situ hybrid outcome type: NA,0.98856,0,0
+2,drug regimen number: NA,0.98981,0,0
+2,method of normal sample procurement: NA,0.99441,0,0
+2,PAM50: LumA,0.99468,0,0
+2,tumor necrosis percent: NA,0.99901,0,0
+2,tumor nuclei percent: NA,0.99901,0,0
+2,breast carcinoma estrogen receptor status: Negative,0.9996,0,0
+2,sample type: Solid Tissue Normal,1,0,0
+2,tumor necrosis percent: 15,1,0,0
+2,tumor necrosis percent: 2,1,0,0
+2,tumor necrosis percent: 25,1,0,0
+2,tumor necrosis percent: 3,1,0,0
+2,tumor nuclei percent: 65,1,0,0
+2,tumor nuclei percent: 99,1,0,0
+2,method of normal sample procurement: Other method (please specify),1,0,0
+2,method of normal sample procurement: Tumor Resection,1,0,0
+2,section location: BOTTOM,1,0,0
+2,drug name: abraxane,carboplatin,herceptin,taxotere,1,0,0
+2,drug name: adriamicin,1,0,0
+2,drug name: adriamycin+,1,0,0
+2,drug name: adriamycin+cyclophosphamid,1,0,0
+2,drug name: adriamycin,,1,0,0
+2,drug name: adriamycin,anastrozole,cytoxan,1,0,0
+2,drug name: adriamycin,anastrozole,cytoxan,exemestane,gemzar,letrozole,tamoxifen,taxol,1,0,0
+2,drug name: adriamycin,anastrozole,cytoxan,letrozole,tamoxifen,taxol,1,0,0
+2,drug name: adriamycin,anastrozole,cytoxan,taxol,tamoxifen,1,0,0
+2,drug name: adriamycin,arimidex,aromasin,cytoxan,femara,tamoxifen,taxol,1,0,0
+2,drug name: adriamycin,arimidex,cyotxan,1,0,0
+2,drug name: adriamycin,arimidex,cytoxan,1,0,0
+2,drug name: adriamycin,arimidex,cytoxan,docetaxel,herceptin,lapatinib,1,0,0
+2,drug name: adriamycin,arimidex,cytoxan,femara,taxol,1,0,0
+2,drug name: adriamycin,arimidex,cytoxan,herceptin,taxol,taxotere,1,0,0
+2,drug name: adriamycin,arimidex,cytoxan,herceptin,taxotere,1,0,0
+2,drug name: adriamycin,arimidex,cytoxan,paclitaxel,1,0,0
+2,drug name: adriamycin,arimidex,cytoxan,tamoxifen,1,0,0
+2,drug name: adriamycin,arimidex,cytoxan,tamoxifen,taxol,zometa,1,0,0
+2,drug name: adriamycin,arimidex,cytoxan,taxol,1,0,0
+2,drug name: adriamycin,arimidex,cytoxan,taxotere,1,0,0
+2,drug name: adriamycin,capecetabine,cytoxan,docetaxel,tamoxifen,zometa,1,0,0
+2,drug name: adriamycin,carboplatin,cytoxan,gemcitabine,xeloda,1,0,0
+2,drug name: adriamycin,cisplatin,exemestane,gemzar,navelbine,taxol,taxotere,xeloda,1,0,0
+2,drug name: adriamycin,cyclophosphamide,herceptin,paclitaxel,1,0,0
+2,drug name: adriamycin,cyclophosphamide,herceptin,paclitaxel,tamoxifen,triptorelin,zoledronic,1,0,0
+2,drug name: adriamycin,cyclophosphamide,taxol,1,0,0
+2,drug name: adriamycin,cytoxan,1,0,0
+2,drug name: adriamycin,cytoxan,docetaxel,1,0,0
+2,drug name: adriamycin,cytoxan,exemestane,letrozole,tamoxifen,xeloda,1,0,0
+2,drug name: adriamycin,cytoxan,femara,taxol,1,0,0
+2,drug name: adriamycin,cytoxan,herceptin,letrozole,tamoxifen,taxol,zoladex,1,0,0
+2,drug name: adriamycin,cytoxan,herceptin,tamoxifen,taxol,1,0,0
+2,drug name: adriamycin,cytoxan,herceptin,tamoxifen,taxol,zometa,1,0,0
+2,drug name: adriamycin,cytoxan,herceptin,taxol,1,0,0
+2,drug name: adriamycin,cytoxan,herceptin,taxol,zometa,1,0,0
+2,drug name: adriamycin,cytoxan,paclitaxel,tamoxifen,1,0,0
+2,drug name: adriamycin,cytoxan,tamoxifen,1,0,0
+2,drug name: adriamycin,cytoxan,tamoxifen,taxol,1,0,0
+2,drug name: adriamycin,cytoxan,tamoxifen,taxotere,1,0,0
+2,drug name: adriamycin,cytoxan,taxotere,1,0,0
+2,drug name: adriamycin,cytoxan,taxotere,zometa,1,0,0
+2,drug name: adrimycin,arimidex,cyotxan,taxotere,1,0,0
+2,drug name: ae-37,adriamycin,arimidex,cytoxan,1,0,0
+2,drug name: ae-37,adriamycin,cytoxan,herceptin,paclitaxel,1,0,0
+2,drug name: albumin-bound,1,0,0
+2,drug name: anastrozole,arimidex,bevacizumab,cyclophosphamide,doxorubicin,paclitaxel,taxol,1,0,0
+2,drug name: anastrozole,cytoxan,docetaxel,doxorubicin,letrozole,paclitaxel,1,0,0
+2,drug name: anastrozole,cytoxan,docetaxel,exemestane,1,0,0
+2,drug name: anastrozole,cytoxan,doxorubicin,paclitaxel,tamoxifen,1,0,0
+2,drug name: anastrozole,tamoxifen,1,0,0
+2,drug name: anastrozole,zometa,1,0,0
+2,drug name: anastrozolum,1,0,0
+2,drug name: arimidex,aromasin,1,0,0
+2,drug name: arimidex,aromasin,cyclophosphamide,doxorubicin,femara,paclitaxel,tamoxifen,1,0,0
+2,drug name: arimidex,aromasin,femara,1,0,0
+2,drug name: arimidex,aromasin,hercptin,taxotere,1,0,0
+2,drug name: arimidex,bevacizumab,1,0,0
+2,drug name: arimidex,bevacizumab,carboplatin,paclitaxel,pemetrexed,1,0,0
+2,drug name: arimidex,carboplatin,docetaxel,1,0,0
+2,drug name: arimidex,carboplatin,docetaxel,trastuzumab,1,0,0
+2,drug name: arimidex,carboplatin,taxol,1,0,0
+2,drug name: arimidex,clodronate,cyclophosphamide,doxorubicin,paclitaxel,1,0,0
+2,drug name: arimidex,cyclophosphamide,cytoxan,1,0,0
+2,drug name: arimidex,cyclophosphamide,docetaxel,1,0,0
+2,drug name: arimidex,cyclophosphamide,docetaxel,doxorubicin,tamoxifen,1,0,0
+2,drug name: arimidex,cyclophosphamide,docetaxel,paclitaxel,1,0,0
+2,drug name: arimidex,cyclophosphamide,docetaxel,zolendronic,1,0,0
+2,drug name: arimidex,cyclophosphamide,doxorubicin,lapatinib,paclitaxel,1,0,0
+2,drug name: arimidex,cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,1,0,0
+2,drug name: arimidex,cyclophosphamide,doxorubicin,taxotere,1,0,0
+2,drug name: arimidex,cyclophosphamide,fluorouracil,methotrexate,tamoxifen,1,0,0
+2,drug name: arimidex,cytoxan,tamoxifen,taxotere,1,0,0
+2,drug name: arimidex,cytoxan,taxotere,1,0,0
+2,drug name: arimidex,fulvestrant,xeloda,zometa,1,0,0
+2,drug name: arimidex,herceptin,taxol,1,0,0
+2,drug name: arimidex,tamoxifen,1,0,0
+2,drug name: aromasin,1,0,0
+2,drug name: aromasin,[unknown],1,0,0
+2,drug name: aromasin,clodronate,cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,trastuzumab,1,0,0
+2,drug name: aromasin,cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,1,0,0
+2,drug name: aromasin,cytoxan,taxotere,1,0,0
+2,drug name: avastin,clodronic,1,0,0
+2,drug name: carboplatin,docetaxel,fareston,tamoxifen,trastuzumab,zoledronic,1,0,0
+2,drug name: carboplatin,docetaxel,herceptin,tamoxifen,1,0,0
+2,drug name: carboplatin,docetaxel,trastuzumab,1,0,0
+2,drug name: carboplatin,herceptin,taxotere,1,0,0
+2,drug name: clodronate,cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,triptorelin,1,0,0
+2,drug name: cyclophasphamide,doxorubicin,paclitaxel,1,0,0
+2,drug name: cyclophosphamid+metotreksat+,1,0,0
+2,drug name: cyclophosphamide,docetaxel,doxorubicin,1,0,0
+2,drug name: cyclophosphamide,docetaxel,doxorubicin,paclitaxel,1,0,0
+2,drug name: cyclophosphamide,docetaxel,tamoxifen,1,0,0
+2,drug name: cyclophosphamide,doxorubicin,1,0,0
+2,drug name: cyclophosphamide,doxorubicin,femara,taxotere,1,0,0
+2,drug name: cyclophosphamide,doxorubicin,letrozole,1,0,0
+2,drug name: cyclophosphamide,doxorubicin,lupron,paclitaxel,tamoxifen,1,0,0
+2,drug name: cyclophosphamide,doxorubicin,paclitaxel,1,0,0
+2,drug name: cyclophosphamide,doxorubicin,paclitaxel,paclitaxel,1,0,0
+2,drug name: cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,1,0,0
+2,drug name: cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,trastuzumab,1,0,0
+2,drug name: cyclophosphamide,doxorubicin,paclitaxel,trastuzumab,1,0,0
+2,drug name: cyclophosphamide,doxorubicin,paclitaxel,zoledronic,1,0,0
+2,drug name: cyclophosphamide,doxorubicin,paxlitaxel,tamoxifen,1,0,0
+2,drug name: cyclophosphamide,doxorubicin,tamoxifen,1,0,0
+2,drug name: cyclophosphamide,doxorubicin,taxol,1,0,0
+2,drug name: cyclophosphamide,flourouracil,letrozole,1,0,0
+2,drug name: cyclophosphamide,fluorouracil,methotrexate,1,0,0
+2,drug name: cyclophosphamide,fluorouracil,methotrexate,tamoxifen,zoladex,1,0,0
+2,drug name: cyclophosphamide,taxotere,1,0,0
+2,drug name: cytoxan,docetaxel,1,0,0
+2,drug name: cytoxan,docetaxel,herceptin,tamoxifen,1,0,0
+2,drug name: cytoxan,doxorubicin,paclitaxel,1,0,0
+2,drug name: cytoxan,doxorubicin,paclitaxel,tamoxifen,1,0,0
+2,drug name: cytoxan,tamoxifen,taxol,1,0,0
+2,drug name: cytoxan,tamoxifen,taxotere,1,0,0
+2,drug name: cytoxan,taxotere,1,0,0
+2,drug name: docetaxel,doxorubicin,na,1,0,0
+2,drug name: docetaxel,tamoxifen,1,0,0
+2,drug name: doxorubicin+cyclophosphamid,1,0,0
+2,drug name: doxorubicine,1,0,0
+2,drug name: e-75,exemestane,tamoxifen,1,0,0
+2,drug name: femara,1,0,0
+2,drug name: fulvestrant,letrozole,1,0,0
+2,drug name: herceptin,1,0,0
+2,drug name: leuprolide,1,0,0
+2,drug name: lupron,tamoxifen,zoladex,1,0,0
+2,drug name: nolvadex,1,0,0
+2,drug name: tamoxifen,1,0,0
+2,drug name: tamoxifen,na,1,0,0
+2,drug name: tamoxifen,zoladex,1,0,0
+2,drug name: tamoxifen,zoladex,zometa,1,0,0
+2,drug name: taxane,arimidex,cytoxan,doxorubicin,1,0,0
+2,drug name: taxotere/cytoxan,1,0,0
+2,drug name: tc,1,0,0
+2,drug name: trastuzumab,1,0,0
+2,drug name: xeloda,1,0,0
+2,drug regimen indication: ADJUVANT,PALLIATIVE,1,0,0
+2,drug regimen indication: ADJUVANT,PROGRESSION,1,0,0
+2,drug regimen indication: ADJUVANT,PROGRESSION,RECURRENCE,1,0,0
+2,drug regimen indication: ADJUVANT,RECURRENCE,1,0,0
+2,drug regimen indication: OTHER: SPECIFY IN NOTES,1,0,0
+2,drug regimen indication: OTHER: SPECIFY IN NOTES,PROGRESSION,1,0,0
+2,drug regimen indication: OTHER: SPECIFY IN NOTES,RECURRENCE,1,0,0
+2,drug regimen indication: PROGRESSION,RECURRENCE,1,0,0
+2,drug regimen number: 1,2,3,4,5,6,1,0,0
+2,drug regimen number: 1,2,3,4,5,6,7,1,0,0
+2,drug regimen number: 1,2,3,4,5,6,7,8,1,0,0
+2,drug regimen number: 1,2,3,4,5,6,7,8,9,1,0,0
+2,drug regimen number: 1,2,3,4,5,7,1,0,0
+2,drug regimen number: 1,3,1,0,0
+2,drug regimen number: 1,5,1,0,0
+2,drug regimen number: 4x chemotherapy,1,0,0
+2,drug regimen number: 4x chemotherapy+hormonotherapy,1,0,0
+2,drug regimen number: AC,1,0,0
+2,drug regimen number: AC then TH,1,0,0
+2,drug regimen number: AC,NA,1,0,0
+2,drug regimen number: Arimidex,TC,1,0,0
+2,drug regimen number: Arimidex,TCH,1,0,0
+2,drug regimen number: Aromasin,1,0,0
+2,drug regimen number: CMF,1,0,0
+2,drug regimen number: Femara,1,0,0
+2,drug regimen number: TC regimen,1,0,0
+2,drug regimen number: tamoxifen daily,1,0,0
+2,route of administration: Intramuscular (IM),Intravenous (IV),Oral,1,0,0
+2,route of administration: Intramuscular (IM),Oral,1,0,0
+2,route of administration: Intramuscular (IM),Oral,Subcutaneous (SC),1,0,0
+2,route of administration: Intramuscular (IM)|Intravenous (IV),Intravenous (IV),Oral,1,0,0
+2,route of administration: Intravenous (IV),1,0,0
+2,route of administration: Intravenous (IV),NA,1,0,0
+2,route of administration: Oral,Subcutaneous (SC),1,0,0
+2,drug therapy ongoing: NO,NA,1,0,0
+2,anatomic neoplasm subdivision: Left Lower Inner Quadrant|Left,1,0,0
+2,anatomic neoplasm subdivision: Left Lower Outer Quadrant|Left,1,0,0
+2,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left,1,0,0
+2,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Lower Inner Quadrant|Left,1,0,0
+2,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Lower Inner Quadrant|Left Lower Outer Quadrant|Left,1,0,0
+2,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant|Left,1,0,0
+2,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant|Left Lower Inner Quadrant|Left,1,0,0
+2,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant|Left Lower Inner Quadrant|Left Lower Outer Quadrant,1,0,0
+2,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant|Left Lower Inner Quadrant|Left Lower Outer Quadrant|Left,1,0,0
+2,anatomic neoplasm subdivision: Left Upper Outer Quadrant|Left Lower Outer Quadrant,1,0,0
+2,anatomic neoplasm subdivision: Left Upper Outer Quadrant|Left Lower Outer Quadrant|Left,1,0,0
+2,anatomic neoplasm subdivision: Left Upper Outer Quadrant|Right,1,0,0
+2,anatomic neoplasm subdivision: Right Lower Inner Quadrant|Right,1,0,0
+2,anatomic neoplasm subdivision: Right Lower Inner Quadrant|Right Lower Outer Quadrant,1,0,0
+2,anatomic neoplasm subdivision: Right Lower Inner Quadrant|Right Lower Outer Quadrant|Right,1,0,0
+2,anatomic neoplasm subdivision: Right Lower Outer Quadrant|Right,1,0,0
+2,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right,1,0,0
+2,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right Lower Inner Quadrant|Right,1,0,0
+2,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right Upper Outer Quadrant,1,0,0
+2,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right Upper Outer Quadrant|Right,1,0,0
+2,anatomic neoplasm subdivision: Right Upper Outer Quadrant|Left,1,0,0
+2,anatomic neoplasm subdivision: Right Upper Outer Quadrant|Right Lower Outer Quadrant,1,0,0
+2,anatomic neoplasm subdivision: Right Upper Outer Quadrant|Right Lower Outer Quadrant|Right,1,0,0
+2,axillary lymph node stage method type: Other (specify),1,0,0
+2,breast carcinoma estrogen receptor status: Indeterminate,1,0,0
+2,breast carcinoma estrogen receptor status: [Not Evaluated],1,0,0
+2,breast carcinoma immunohistochemistry pos cell score: 1+,1,0,0
+2,breast carcinoma progesterone receptor status: Indeterminate,1,0,0
+2,breast carcinoma progesterone receptor status: [Not Evaluated],1,0,0
+2,er level cell percentage category: 20-29,1,0,0
+2,er level cell percentage category: 40-49,1,0,0
+2,er level cell percentage category: 60-69,1,0,0
+2,her2 erbb pos finding cell percent category: 20-29,1,0,0
+2,her2 erbb pos finding cell percent category: 30-39,1,0,0
+2,her2 erbb pos finding cell percent category: 40-49,1,0,0
+2,her2 erbb pos finding cell percent category: 50-59,1,0,0
+2,her2 erbb pos finding cell percent category: 60-69,1,0,0
+2,her2 erbb pos finding cell percent category: 70-79,1,0,0
+2,her2 erbb pos finding cell percent category: 90-99,1,0,0
+2,her2 immunohistochemistry level result: 3+,1,0,0
+2,histological type: Medullary Carcinoma,1,0,0
+2,histological type: Mixed Histology (please specify),1,0,0
+2,histological type: Mucinous Carcinoma,1,0,0
+2,icd 10: C50.2,1,0,0
+2,icd 10: C50.3,1,0,0
+2,icd 10: C50.4,1,0,0
+2,icd 10: C50.5,1,0,0
+2,icd 10: C50.8,1,0,0
+2,icd o 3 histology: 8013/3,1,0,0
+2,icd o 3 histology: 8022/3,1,0,0
+2,icd o 3 histology: 8050/3,1,0,0
+2,icd o 3 histology: 8401/3,1,0,0
+2,icd o 3 histology: 8480/3,1,0,0
+2,icd o 3 histology: 8490/3,1,0,0
+2,icd o 3 histology: 8502/3,1,0,0
+2,icd o 3 histology: 8510/3,1,0,0
+2,icd o 3 histology: 8522/3,1,0,0
+2,icd o 3 histology: 8524/3,1,0,0
+2,icd o 3 histology: 8541/3,1,0,0
+2,icd o 3 histology: 8575/3,1,0,0
+2,icd o 3 site: C50.1,1,0,0
+2,icd o 3 site: C50.3,1,0,0
+2,icd o 3 site: C50.8,1,0,0
+2,immunohistochemistry positive cell score: 0,1,0,0
+2,immunohistochemistry positive cell score: 1+,1,0,0
+2,lab procedure her2 neu in situ hybrid outcome type: Equivocal,1,0,0
+2,margin status: Close,1,0,0
+2,menopause status: Peri (6-12 months since last menstrual period),1,0,0
+2,number of lymphnodes positive by ihc: 2,1,0,0
+2,number of lymphnodes positive by ihc: 4,1,0,0
+2,pathologic M: M1,1,0,0
+2,pathologic M: cM0 (i+),1,0,0
+2,pathologic N: N0 (i+),1,0,0
+2,pathologic N: N1c,1,0,0
+2,pathologic N: N3a,1,0,0
+2,pathologic N: N3c,1,0,0
+2,pathologic T: T1a,1,0,0
+2,pathologic T: T1b,1,0,0
+2,pathologic T: T2b,1,0,0
+2,pathologic T: T4,1,0,0
+2,pathologic T: T4d,1,0,0
+2,pathologic T: TX,1,0,0
+2,pathologic stage: Stage IV,1,0,0
+2,pathologic stage: Stage Tis,1,0,0
+2,progesterone receptor level cell percent category: 10-19,1,0,0
+2,progesterone receptor level cell percent category: 30-39,1,0,0
+2,progesterone receptor level cell percent category: 50-59,1,0,0
+2,race: AMERICAN INDIAN OR ALASKA NATIVE,1,0,0
+2,surgical procedure purpose other text: Left segmental mastectomy with axillary lymph node dissection,1,0,0
+2,surgical procedure purpose other text: Left segmental mastectomy with left axillary lymph node dissection,1,0,0
+2,surgical procedure purpose other text: Left segmental mastectomy with level 1 and level 2 axillary dissection,1,0,0
+2,surgical procedure purpose other text: Modified Radical Masectomy,1,0,0
+2,surgical procedure purpose other text: Modified radical mastectomy with left breast biopsy,1,0,0
+2,surgical procedure purpose other text: Modified radical mastectomy with left sentinel node biopsy,1,0,0
+2,surgical procedure purpose other text: Modified radical mastectomy with sentinel lymph node biopsy and with total mastectomy of left breast,1,0,0
+2,surgical procedure purpose other text: Pateys surgery,1,0,0
+2,surgical procedure purpose other text: Quadrantectomy,1,0,0
+2,surgical procedure purpose other text: Right segmental mastectomy,1,0,0
+2,surgical procedure purpose other text: Right segmental mastectomy with sentinel lymph node and axillary lymph node biopsy,1,0,0
+2,surgical procedure purpose other text: Right total mastectomy with lymph node left axillary lymph node excision,1,0,0
+2,surgical procedure purpose other text: Segmental mastectomy with left axillary lymph node dissection,1,0,0
+2,surgical procedure purpose other text: Segmental mastectomy with sentinel axillary lymph node biopsy,1,0,0
+2,surgical procedure purpose other text: Segmental mastectomy with sentinel lymph node biopsy,1,0,0
+2,surgical procedure purpose other text: Segmental mastectomy with sentinel node biopsy,1,0,0
+2,surgical procedure purpose other text: Sentinel lymph node biopsy,1,0,0
+2,surgical procedure purpose other text: Simple mastectomy with left lymph node sentinel biopsy,1,0,0
+2,surgical procedure purpose other text: TOTAL MASTECTOMY,1,0,0
+2,surgical procedure purpose other text: Total Mastectomy,1,0,0
+2,surgical procedure purpose other text: Total mastectomy,1,0,0
+2,surgical procedure purpose other text: Total mastectomy with left sentinel lymph node biospy,1,0,0
+2,surgical procedure purpose other text: Total mastectomy with retromammary lymph node excision,1,0,0
+2,surgical procedure purpose other text: Total mastectomy with sentinel lymoh node biopsy,1,0,0
+2,surgical procedure purpose other text: Total mastectomy with sentinel lymph node biopsy,1,0,0
+2,surgical procedure purpose other text: Wide Local Excision,1,0,0
+2,surgical procedure purpose other text: bilateral total mastectomies with right sentinel node biopsy,1,0,0
+2,surgical procedure purpose other text: biopsy,1,0,0
+2,surgical procedure purpose other text: excisional biopsy,1,0,0
+2,surgical procedure purpose other text: left segmental mastectomy with axillary sentinel lymph node biopsy,1,0,0
+2,surgical procedure purpose other text: left segmental mastectomy with sentinel node dissection,1,0,0
+2,surgical procedure purpose other text: localized segmental mastectomy with axillary node dissection,1,0,0
+2,surgical procedure purpose other text: modified radical mastectomy with axillary dissection,1,0,0
+2,surgical procedure purpose other text: needle directed right breast biopsy with left segmental mastectomy with axillary lymph node dissection,1,0,0
+2,surgical procedure purpose other text: needle localized segmental mastectomy,1,0,0
+2,surgical procedure purpose other text: quadrantectomy,1,0,0
+2,surgical procedure purpose other text: right segmental mastectomy,1,0,0
+2,surgical procedure purpose other text: right segmental mastectomy witrh axillary node dissection,1,0,0
+2,surgical procedure purpose other text: right total mastectomy with sentinel lymph node dissection right reconstruction with TRAMP,1,0,0
+2,surgical procedure purpose other text: segmental mastectomy,1,0,0
+2,surgical procedure purpose other text: segmental mastectomy with axillary dissection,1,0,0
+2,surgical procedure purpose other text: segmental mastectomy with axillary lymph node dissection,1,0,0
+2,surgical procedure purpose other text: segmental mastectomy with excision of mass on chest wall and axillary node dissection,1,0,0
+2,surgical procedure purpose other text: segmental mastectomy with sentinel lymph node dissection,1,0,0
+2,surgical procedure purpose other text: segmental mastectomy with sentinel lymph node excision and biopsy,1,0,0
+2,surgical procedure purpose other text: sentinel lymph node biopsy,1,0,0
+2,surgical procedure purpose other text: surgical resection,1,0,0
+2,surgical procedure purpose other text: toilet mastectomy,1,0,0
+2,surgical procedure purpose other text: total mastectomy,1,0,0
+2,surgical procedure purpose other text: total mastectomy with rigth axillary lymph node and sentinel lymph node dissection,1,0,0
+2,surgical procedure purpose other text: total mastectomy with sentinel lymph node biopsy with tissue reconstruction,1,0,0
+2,surgical procedure purpose other text: wide local excision,1,0,0
+2,surgical procedure purpose other text: with axillary lymph nodes dissection,1,0,0
+2,surgical procedure purpose other text: with left axilla sentinel lymph node biopsy,1,0,0
+2,surgical procedure purpose other text: with left lymphatic mapping and left axillary biopsy,1,0,0
+2,surgical procedure purpose other text: with sentinel lymph node biopsy,1,0,0
+2,anatomic treatment site: Distant Recurrence,1,0,0
+2,anatomic treatment site: Distant Recurrence,Local Recurrence,Primary Tumor Field,1,0,0
+2,anatomic treatment site: Distant Recurrence,Primary Tumor Field,1,0,0
+2,anatomic treatment site: Distant site,Primary Tumor Field,1,0,0
+2,anatomic treatment site: Local Recurrence,1,0,0
+2,radiation treatment ongoing: YES,1,0,0
+2,radiation type: EXTERNAL BEAM,IMPLANTS,1,0,0
+2,radiation type: OTHER: SPECIFY IN NOTES,1,0,0
+2,radiation regimen indication: ADJUVANT,PALLIATIVE,1,0,0
+2,radiation regimen indication: ADJUVANT,PROGRESSION,RECURRENCE,1,0,0
+2,radiation regimen indication: PALLIATIVE,1,0,0
+2,radiation regimen indication: RECURRENCE,1,0,0
+2,PAM50 sample type: tumor-adjacent normal,1,0,0
+2,PAM50: Basal,1,0,0
+2,PAM50: Her2,1,0,0
+2,PAM50: Normal,1,0,0
+3,route of administration: NA,9.992e-16,1,1
+3,oct embedded: NA,5.5511e-15,1,1
+3,sample type: NA,5.5511e-15,1,1
+3,normal tissue anatomic site: NA,5.5511e-15,1,1
+3,section location: NA,5.5511e-15,1,1
+3,drug therapy ongoing: NA,5.5511e-15,1,1
+3,anatomic neoplasm subdivision: NA,5.5511e-15,1,1
+3,breast carcinoma estrogen receptor status: NA,5.5511e-15,1,1
+3,breast carcinoma progesterone receptor status: NA,5.5511e-15,1,1
+3,gender: NA,5.5511e-15,1,1
+3,icd 10: NA,5.5511e-15,1,1
+3,icd o 3 histology: NA,5.5511e-15,1,1
+3,icd o 3 site: NA,5.5511e-15,1,1
+3,pathologic M: NA,5.5511e-15,1,1
+3,pathologic N: NA,5.5511e-15,1,1
+3,pathologic T: NA,5.5511e-15,1,1
+3,prior dx: NA,5.5511e-15,1,1
+3,tissue prospective collection indicator: NA,5.5511e-15,1,1
+3,tissue retrospective collection indicator: NA,5.5511e-15,1,1
+3,vital status: NA,5.5511e-15,1,1
+3,radiation treatment ongoing: NA,5.5511e-15,1,1
+3,histological type: NA,6.2172e-15,1,1
+3,history of neoadjuvant treatment: NA,6.2172e-15,1,1
+3,drug name: NA,6.8834e-15,1,1
+3,pathologic stage: NA,6.8834e-15,1,1
+3,drug regimen indication: NA,7.6605e-15,1,1
+3,anatomic treatment site: NA,7.6605e-15,1,1
+3,radiation type: NA,7.6605e-15,1,1
+3,radiation regimen indication: NA,7.6605e-15,1,1
+3,lab proc her2 neu immunohistochemistry receptor status: NA,1.8319e-14,1,1
+3,drug regimen number: NA,3.8525e-14,1,1
+3,breast carcinoma surgical procedure name: NA,5.862e-14,1,1
+3,method of normal sample procurement: NA,2.0017e-13,1,1
+3,menopause status: NA,2.2038e-13,1,1
+3,lab procedure her2 neu in situ hybrid outcome type: NA,7.7172e-13,1,1
+3,tumor necrosis percent: NA,9.367e-13,1,1
+3,tumor nuclei percent: NA,9.367e-13,1,1
+3,margin status: NA,1.0714e-12,1,1
+3,person neoplasm cancer status: NA,4.1465e-12,1,1
+3,initial pathologic diagnosis method: NA,2.4945e-11,1,1
+3,race: NA,2.9778e-11,1,1
+3,PAM50 sample type: NA,2.0517e-10,1,1
+3,PAM50: NA,2.0517e-10,1,1
+3,system version: NA,6.306e-09,1,1
+3,her2 immunohistochemistry level result: NA,9.8623e-08,1,1
+3,axillary lymph node stage method type: NA,2.3421e-07,1,1
+3,cytokeratin immunohistochemistry staining method micrometastasis indicator: NA,4.0024e-06,1,1
+3,surgical procedure purpose other text: NA,0.00011417,1,1
+3,er level cell percentage category: NA,0.0011248,1,1
+3,progesterone receptor level cell percent category: NA,0.0019275,1,0
+3,number of lymphnodes positive by ihc: NA,0.0070704,0,0
+3,drug name: cyclophosphamide,fluorouracil,methotrexate,tamoxifen,zoladex,0.049729,0,1
+3,surgical procedure purpose other text: biopsy,0.049729,0,1
+3,immunohistochemistry positive cell score: NA,0.081408,0,0
+3,drug name: cyclophosphamide,doxorubicin,letrozole,0.097027,0,1
+3,surgical procedure purpose other text: Modified radical mastectomy with left breast biopsy,0.097027,0,1
+3,anatomic treatment site: Local Recurrence,0.097027,0,1
+3,radiation regimen indication: RECURRENCE,0.097027,0,1
+3,her2 erbb pos finding cell percent category: NA,0.10432,0,0
+3,drug name: cytoxan,taxotere,0.14201,0,1
+3,drug regimen indication: ADJUVANT,RECURRENCE,0.14201,0,1
+3,route of administration: Intravenous (IV),Oral,Subcutaneous (SC),0.14201,0,0
+3,breast carcinoma immunohistochemistry pos cell score: NA,0.16587,0,0
+3,icd 10: C50.4,0.1848,0,1
+3,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant|Left,0.26417,0,0
+3,anatomic neoplasm subdivision: Right Lower Inner Quadrant,0.30096,0,1
+3,immunohistochemistry positive cell score: 2+,0.3186,0,0
+3,tumor necrosis percent: 15,0.33595,0,1
+3,route of administration: Intramuscular (IM),Intravenous (IV),Oral,0.33595,0,0
+3,her2 erbb pos finding cell percent category: 90-99,0.36921,0,0
+3,breast carcinoma immunohistochemistry pos cell score: 2+,0.39256,0,0
+3,er level cell percentage category: 10-19,0.40084,0,0
+3,progesterone receptor level cell percent category: 60-69,0.4309,0,0
+3,pathologic N: N1b,0.55925,0,0
+3,immunohistochemistry positive cell score: 0,0.56039,0,0
+3,progesterone receptor level cell percent category: 10-19,0.56039,0,0
+3,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right,0.58257,0,0
+3,anatomic neoplasm subdivision: Right Lower Outer Quadrant,0.73863,0,0
+3,PAM50: Normal,0.7766,0,0
+3,drug regimen number: 1,2,3,0.81891,0,0
+3,anatomic neoplasm subdivision: Left Upper Outer Quadrant|Left,0.81891,0,0
+3,menopause status: Indeterminate (neither Pre or Postmenopausal),0.81891,0,0
+3,method of normal sample procurement: Tumor Resection,0.83701,0,0
+3,breast carcinoma immunohistochemistry pos cell score: 0,0.84538,0,0
+3,race: ASIAN,0.85332,0,0
+3,progesterone receptor level cell percent category: 90-99,0.8813,0,0
+3,initial pathologic diagnosis method: Other method, specify:,0.89325,0,0
+3,her2 erbb pos finding cell percent category: <10,0.8964,0,0
+3,pathologic stage: Stage IA,0.89877,0,0
+3,breast carcinoma immunohistochemistry pos cell score: 3+,0.91819,0,0
+3,tumor nuclei percent: 85,0.94376,0,0
+3,pathologic stage: Stage IIB,0.94976,0,0
+3,tumor nuclei percent: 80,0.95126,0,0
+3,her2 immunohistochemistry level result: 3+,0.95704,0,0
+3,system version: 5th,0.9654,0,0
+3,her2 immunohistochemistry level result: 0,0.9706,0,0
+3,icd o 3 site: C50.4,0.9788,0,0
+3,sample type: Solid Tissue Normal,0.97993,0,0
+3,drug therapy ongoing: NO,0.98092,0,0
+3,pathologic N: N0 (i-),0.98092,0,0
+3,pathologic N: N1,0.98201,0,0
+3,lab proc her2 neu immunohistochemistry receptor status: [Not Evaluated],0.98556,0,0
+3,er level cell percentage category: 90-99,0.98573,0,0
+3,anatomic neoplasm subdivision: Right,0.99122,0,0
+3,number of lymphnodes positive by ihc: 0,0.99212,0,0
+3,axillary lymph node stage method type: Axillary lymph node dissection alone,0.99223,0,0
+3,PAM50: Basal,0.99336,0,0
+3,axillary lymph node stage method type: Sentinel node biopsy alone,0.99387,0,0
+3,tumor necrosis percent: 30,0.99406,0,0
+3,drug regimen number: 1,0.99446,0,0
+3,lab proc her2 neu immunohistochemistry receptor status: Equivocal,0.99525,0,0
+3,breast carcinoma surgical procedure name: Simple Mastectomy,0.99551,0,0
+3,breast carcinoma estrogen receptor status: Negative,0.99613,0,0
+3,pathologic N: N1a,0.99621,0,0
+3,initial pathologic diagnosis method: Tumor resection,0.9973,0,0
+3,menopause status: Pre (<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),0.9977,0,0
+3,cytokeratin immunohistochemistry staining method micrometastasis indicator: YES,0.99773,0,0
+3,vital status: dead,0.99785,0,0
+3,lab proc her2 neu immunohistochemistry receptor status: Positive,0.99797,0,0
+3,her2 immunohistochemistry level result: 2+,0.99886,0,0
+3,drug therapy ongoing: NO,YES,0.99919,0,0
+3,breast carcinoma surgical procedure name: Modified Radical Mastectomy,0.99925,0,0
+3,axillary lymph node stage method type: Sentinel lymph node biopsy plus axillary dissection,0.99943,0,0
+3,pathologic T: T1c,0.99952,0,0
+3,anatomic treatment site: Primary Tumor Field,0.99966,0,0
+3,radiation type: EXTERNAL BEAM,0.99967,0,0
+3,breast carcinoma surgical procedure name: Lumpectomy,0.99973,0,0
+3,PAM50: LumA,0.99974,0,0
+3,radiation treatment ongoing: NO,0.99979,0,0
+3,lab procedure her2 neu in situ hybrid outcome type: Negative,0.99986,0,0
+3,cytokeratin immunohistochemistry staining method micrometastasis indicator: NO,0.99991,0,0
+3,her2 immunohistochemistry level result: 1+,0.99992,0,0
+3,breast carcinoma progesterone receptor status: Negative,0.99993,0,0
+3,breast carcinoma surgical procedure name: Other,0.99995,0,0
+3,radiation regimen indication: ADJUVANT,0.99997,0,0
+3,tumor necrosis percent: 0,0.99999,0,0
+3,section location: TOP,1,0,0
+3,oct embedded: false,1,0,0
+3,pathologic stage: Stage IIA,1,0,0
+3,initial pathologic diagnosis method: Core needle biopsy,1,0,0
+3,pathologic T: T2,1,0,0
+3,drug regimen indication: ADJUVANT,1,0,0
+3,tumor nuclei percent: 70,1,0,0
+3,lab procedure her2 neu in situ hybrid outcome type: [Not Evaluated],1,0,0
+3,system version: 6th,1,0,0
+3,lab proc her2 neu immunohistochemistry receptor status: Negative,1,0,0
+3,drug name: none,1,0,0
+3,drug regimen indication: none,1,0,0
+3,drug regimen number: none,1,0,0
+3,route of administration: none,1,0,0
+3,drug therapy ongoing: none,1,0,0
+3,section location: BOTTOM,TOP,1,0,0
+3,oct embedded: true,1,0,0
+3,breast carcinoma progesterone receptor status: Positive,1,0,0
+3,race: WHITE,1,0,0
+3,anatomic treatment site: none,1,0,0
+3,radiation treatment ongoing: none,1,0,0
+3,radiation type: none,1,0,0
+3,radiation regimen indication: none,1,0,0
+3,menopause status: Post (prior bilateral ovariectomy OR >12 mo since LMP with no prior hysterectomy),1,0,0
+3,person neoplasm cancer status: TUMOR FREE,1,0,0
+3,PAM50 sample type: tumor,1,0,0
+3,margin status: Negative,1,0,0
+3,icd o 3 histology: 8500/3,1,0,0
+3,icd o 3 site: C50.9,1,0,0
+3,histological type: Infiltrating Ductal Carcinoma,1,0,0
+3,breast carcinoma estrogen receptor status: Positive,1,0,0
+3,vital status: alive,1,0,0
+3,tissue prospective collection indicator: NO,1,0,0
+3,tissue retrospective collection indicator: YES,1,0,0
+3,sample type: Primary Tumor,1,0,0
+3,method of normal sample procurement: Excisional biopsy,1,0,0
+3,pathologic M: M0,1,0,0
+3,prior dx: No,1,0,0
+3,gender: FEMALE,1,0,0
+3,history of neoadjuvant treatment: No,1,0,0
+3,normal tissue anatomic site: BREAST,1,0,0
+3,icd 10: C50.9,1,0,0
+3,sample type: Metastatic,1,0,0
+3,tumor necrosis percent: 1,1,0,0
+3,tumor necrosis percent: 10,1,0,0
+3,tumor necrosis percent: 2,1,0,0
+3,tumor necrosis percent: 20,1,0,0
+3,tumor necrosis percent: 25,1,0,0
+3,tumor necrosis percent: 3,1,0,0
+3,tumor necrosis percent: 5,1,0,0
+3,tumor nuclei percent: 100,1,0,0
+3,tumor nuclei percent: 60,1,0,0
+3,tumor nuclei percent: 65,1,0,0
+3,tumor nuclei percent: 75,1,0,0
+3,tumor nuclei percent: 90,1,0,0
+3,tumor nuclei percent: 95,1,0,0
+3,tumor nuclei percent: 99,1,0,0
+3,method of normal sample procurement: Other method (please specify),1,0,0
+3,section location: BOTTOM,1,0,0
+3,drug name: abraxane,carboplatin,herceptin,taxotere,1,0,0
+3,drug name: adriamicin,1,0,0
+3,drug name: adriamycin+,1,0,0
+3,drug name: adriamycin+cyclophosphamid,1,0,0
+3,drug name: adriamycin,,1,0,0
+3,drug name: adriamycin,anastrozole,cytoxan,1,0,0
+3,drug name: adriamycin,anastrozole,cytoxan,exemestane,gemzar,letrozole,tamoxifen,taxol,1,0,0
+3,drug name: adriamycin,anastrozole,cytoxan,letrozole,tamoxifen,taxol,1,0,0
+3,drug name: adriamycin,anastrozole,cytoxan,taxol,1,0,0
+3,drug name: adriamycin,anastrozole,cytoxan,taxol,tamoxifen,1,0,0
+3,drug name: adriamycin,arimidex,aromasin,cytoxan,femara,tamoxifen,taxol,1,0,0
+3,drug name: adriamycin,arimidex,cyotxan,1,0,0
+3,drug name: adriamycin,arimidex,cytoxan,1,0,0
+3,drug name: adriamycin,arimidex,cytoxan,docetaxel,e-75,1,0,0
+3,drug name: adriamycin,arimidex,cytoxan,docetaxel,herceptin,lapatinib,1,0,0
+3,drug name: adriamycin,arimidex,cytoxan,femara,taxol,1,0,0
+3,drug name: adriamycin,arimidex,cytoxan,herceptin,taxol,taxotere,1,0,0
+3,drug name: adriamycin,arimidex,cytoxan,herceptin,taxotere,1,0,0
+3,drug name: adriamycin,arimidex,cytoxan,paclitaxel,1,0,0
+3,drug name: adriamycin,arimidex,cytoxan,tamoxifen,1,0,0
+3,drug name: adriamycin,arimidex,cytoxan,tamoxifen,taxol,1,0,0
+3,drug name: adriamycin,arimidex,cytoxan,tamoxifen,taxol,zometa,1,0,0
+3,drug name: adriamycin,arimidex,cytoxan,taxol,1,0,0
+3,drug name: adriamycin,arimidex,cytoxan,taxotere,1,0,0
+3,drug name: adriamycin,capecetabine,cytoxan,docetaxel,tamoxifen,zometa,1,0,0
+3,drug name: adriamycin,carboplatin,cytoxan,gemcitabine,xeloda,1,0,0
+3,drug name: adriamycin,cisplatin,exemestane,gemzar,navelbine,taxol,taxotere,xeloda,1,0,0
+3,drug name: adriamycin,cyclophosphamide,herceptin,paclitaxel,1,0,0
+3,drug name: adriamycin,cyclophosphamide,herceptin,paclitaxel,tamoxifen,triptorelin,zoledronic,1,0,0
+3,drug name: adriamycin,cyclophosphamide,taxol,1,0,0
+3,drug name: adriamycin,cytoxan,1,0,0
+3,drug name: adriamycin,cytoxan,docetaxel,1,0,0
+3,drug name: adriamycin,cytoxan,exemestane,letrozole,tamoxifen,xeloda,1,0,0
+3,drug name: adriamycin,cytoxan,femara,taxol,1,0,0
+3,drug name: adriamycin,cytoxan,femara,taxotere,1,0,0
+3,drug name: adriamycin,cytoxan,herceptin,letrozole,tamoxifen,taxol,zoladex,1,0,0
+3,drug name: adriamycin,cytoxan,herceptin,tamoxifen,taxol,1,0,0
+3,drug name: adriamycin,cytoxan,herceptin,tamoxifen,taxol,zometa,1,0,0
+3,drug name: adriamycin,cytoxan,herceptin,taxol,1,0,0
+3,drug name: adriamycin,cytoxan,herceptin,taxol,zometa,1,0,0
+3,drug name: adriamycin,cytoxan,paclitaxel,tamoxifen,1,0,0
+3,drug name: adriamycin,cytoxan,tamoxifen,1,0,0
+3,drug name: adriamycin,cytoxan,tamoxifen,taxol,1,0,0
+3,drug name: adriamycin,cytoxan,tamoxifen,taxotere,1,0,0
+3,drug name: adriamycin,cytoxan,tamoxifen,taxotere,zoladex,1,0,0
+3,drug name: adriamycin,cytoxan,taxol,1,0,0
+3,drug name: adriamycin,cytoxan,taxotere,1,0,0
+3,drug name: adriamycin,cytoxan,taxotere,zometa,1,0,0
+3,drug name: adrimycin,arimidex,cyotxan,taxotere,1,0,0
+3,drug name: ae-37,adriamycin,arimidex,cytoxan,1,0,0
+3,drug name: ae-37,adriamycin,cytoxan,herceptin,paclitaxel,1,0,0
+3,drug name: albumin-bound,1,0,0
+3,drug name: anastrozole,1,0,0
+3,drug name: anastrozole,arimidex,bevacizumab,cyclophosphamide,doxorubicin,paclitaxel,taxol,1,0,0
+3,drug name: anastrozole,cytoxan,docetaxel,doxorubicin,letrozole,paclitaxel,1,0,0
+3,drug name: anastrozole,cytoxan,docetaxel,exemestane,1,0,0
+3,drug name: anastrozole,cytoxan,doxorubicin,paclitaxel,tamoxifen,1,0,0
+3,drug name: anastrozole,tamoxifen,1,0,0
+3,drug name: anastrozole,zometa,1,0,0
+3,drug name: anastrozolum,1,0,0
+3,drug name: arimidex,1,0,0
+3,drug name: arimidex,aromasin,1,0,0
+3,drug name: arimidex,aromasin,cyclophosphamide,doxorubicin,femara,paclitaxel,tamoxifen,1,0,0
+3,drug name: arimidex,aromasin,femara,1,0,0
+3,drug name: arimidex,aromasin,hercptin,taxotere,1,0,0
+3,drug name: arimidex,bevacizumab,1,0,0
+3,drug name: arimidex,bevacizumab,carboplatin,paclitaxel,pemetrexed,1,0,0
+3,drug name: arimidex,carboplatin,docetaxel,1,0,0
+3,drug name: arimidex,carboplatin,docetaxel,trastuzumab,1,0,0
+3,drug name: arimidex,carboplatin,taxol,1,0,0
+3,drug name: arimidex,clodronate,cyclophosphamide,doxorubicin,paclitaxel,1,0,0
+3,drug name: arimidex,cyclophosphamide,cytoxan,1,0,0
+3,drug name: arimidex,cyclophosphamide,docetaxel,1,0,0
+3,drug name: arimidex,cyclophosphamide,docetaxel,doxorubicin,tamoxifen,1,0,0
+3,drug name: arimidex,cyclophosphamide,docetaxel,paclitaxel,1,0,0
+3,drug name: arimidex,cyclophosphamide,docetaxel,zolendronic,1,0,0
+3,drug name: arimidex,cyclophosphamide,doxorubicin,1,0,0
+3,drug name: arimidex,cyclophosphamide,doxorubicin,lapatinib,paclitaxel,1,0,0
+3,drug name: arimidex,cyclophosphamide,doxorubicin,paclitaxel,1,0,0
+3,drug name: arimidex,cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,1,0,0
+3,drug name: arimidex,cyclophosphamide,doxorubicin,taxol,1,0,0
+3,drug name: arimidex,cyclophosphamide,doxorubicin,taxotere,1,0,0
+3,drug name: arimidex,cyclophosphamide,fluorouracil,methotrexate,1,0,0
+3,drug name: arimidex,cyclophosphamide,fluorouracil,methotrexate,tamoxifen,1,0,0
+3,drug name: arimidex,cytoxan,tamoxifen,taxotere,1,0,0
+3,drug name: arimidex,cytoxan,taxotere,1,0,0
+3,drug name: arimidex,fulvestrant,xeloda,zometa,1,0,0
+3,drug name: arimidex,herceptin,taxol,1,0,0
+3,drug name: arimidex,tamoxifen,1,0,0
+3,drug name: armidex,1,0,0
+3,drug name: aromasin,1,0,0
+3,drug name: aromasin,[unknown],1,0,0
+3,drug name: aromasin,clodronate,cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,trastuzumab,1,0,0
+3,drug name: aromasin,cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,1,0,0
+3,drug name: aromasin,cytoxan,taxotere,1,0,0
+3,drug name: avastin,clodronic,1,0,0
+3,drug name: carboplatin,docetaxel,fareston,tamoxifen,trastuzumab,zoledronic,1,0,0
+3,drug name: carboplatin,docetaxel,herceptin,tamoxifen,1,0,0
+3,drug name: carboplatin,docetaxel,trastuzumab,1,0,0
+3,drug name: carboplatin,femara,herceptin,taxotere,1,0,0
+3,drug name: carboplatin,herceptin,taxotere,1,0,0
+3,drug name: clodronate,cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,triptorelin,1,0,0
+3,drug name: cyclophasphamide,doxorubicin,paclitaxel,1,0,0
+3,drug name: cyclophosphamid+metotreksat+,1,0,0
+3,drug name: cyclophosphamide,docetaxel,doxorubicin,1,0,0
+3,drug name: cyclophosphamide,docetaxel,doxorubicin,paclitaxel,1,0,0
+3,drug name: cyclophosphamide,docetaxel,tamoxifen,1,0,0
+3,drug name: cyclophosphamide,doxorubicin,1,0,0
+3,drug name: cyclophosphamide,doxorubicin,femara,taxotere,1,0,0
+3,drug name: cyclophosphamide,doxorubicin,lupron,paclitaxel,tamoxifen,1,0,0
+3,drug name: cyclophosphamide,doxorubicin,paclitaxel,1,0,0
+3,drug name: cyclophosphamide,doxorubicin,paclitaxel,paclitaxel,1,0,0
+3,drug name: cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,1,0,0
+3,drug name: cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,trastuzumab,1,0,0
+3,drug name: cyclophosphamide,doxorubicin,paclitaxel,trastuzumab,1,0,0
+3,drug name: cyclophosphamide,doxorubicin,paclitaxel,zoledronic,1,0,0
+3,drug name: cyclophosphamide,doxorubicin,paxlitaxel,tamoxifen,1,0,0
+3,drug name: cyclophosphamide,doxorubicin,tamoxifen,1,0,0
+3,drug name: cyclophosphamide,doxorubicin,taxol,1,0,0
+3,drug name: cyclophosphamide,flourouracil,letrozole,1,0,0
+3,drug name: cyclophosphamide,fluorouracil,methotrexate,1,0,0
+3,drug name: cyclophosphamide,taxotere,1,0,0
+3,drug name: cytoxan,docetaxel,1,0,0
+3,drug name: cytoxan,docetaxel,herceptin,tamoxifen,1,0,0
+3,drug name: cytoxan,doxorubicin,paclitaxel,1,0,0
+3,drug name: cytoxan,doxorubicin,paclitaxel,tamoxifen,1,0,0
+3,drug name: cytoxan,tamoxifen,taxol,1,0,0
+3,drug name: cytoxan,tamoxifen,taxotere,1,0,0
+3,drug name: docetaxel,doxorubicin,na,1,0,0
+3,drug name: docetaxel,tamoxifen,1,0,0
+3,drug name: doxorubicin+cyclophosphamid,1,0,0
+3,drug name: doxorubicine,1,0,0
+3,drug name: e-75,exemestane,tamoxifen,1,0,0
+3,drug name: femara,1,0,0
+3,drug name: fulvestrant,letrozole,1,0,0
+3,drug name: herceptin,1,0,0
+3,drug name: leuprolide,1,0,0
+3,drug name: lupron,tamoxifen,zoladex,1,0,0
+3,drug name: nolvadex,1,0,0
+3,drug name: tamoxifen,1,0,0
+3,drug name: tamoxifen,na,1,0,0
+3,drug name: tamoxifen,zoladex,1,0,0
+3,drug name: tamoxifen,zoladex,zometa,1,0,0
+3,drug name: taxane,arimidex,cytoxan,doxorubicin,1,0,0
+3,drug name: taxotere/cytoxan,1,0,0
+3,drug name: tc,1,0,0
+3,drug name: trastuzumab,1,0,0
+3,drug name: xeloda,1,0,0
+3,drug regimen indication: ADJUVANT,NA,1,0,0
+3,drug regimen indication: ADJUVANT,OTHER: SPECIFY IN NOTES,1,0,0
+3,drug regimen indication: ADJUVANT,PALLIATIVE,1,0,0
+3,drug regimen indication: ADJUVANT,PROGRESSION,1,0,0
+3,drug regimen indication: ADJUVANT,PROGRESSION,RECURRENCE,1,0,0
+3,drug regimen indication: OTHER: SPECIFY IN NOTES,1,0,0
+3,drug regimen indication: OTHER: SPECIFY IN NOTES,PROGRESSION,1,0,0
+3,drug regimen indication: OTHER: SPECIFY IN NOTES,RECURRENCE,1,0,0
+3,drug regimen indication: PROGRESSION,RECURRENCE,1,0,0
+3,drug regimen number: 1,2,1,0,0
+3,drug regimen number: 1,2,3,4,1,0,0
+3,drug regimen number: 1,2,3,4,5,1,0,0
+3,drug regimen number: 1,2,3,4,5,6,1,0,0
+3,drug regimen number: 1,2,3,4,5,6,7,1,0,0
+3,drug regimen number: 1,2,3,4,5,6,7,8,1,0,0
+3,drug regimen number: 1,2,3,4,5,6,7,8,9,1,0,0
+3,drug regimen number: 1,2,3,4,5,7,1,0,0
+3,drug regimen number: 1,3,1,0,0
+3,drug regimen number: 1,5,1,0,0
+3,drug regimen number: 1,NA,1,0,0
+3,drug regimen number: 4x chemotherapy,1,0,0
+3,drug regimen number: 4x chemotherapy+hormonotherapy,1,0,0
+3,drug regimen number: AC,1,0,0
+3,drug regimen number: AC then TH,1,0,0
+3,drug regimen number: AC,NA,1,0,0
+3,drug regimen number: Arimidex,TC,1,0,0
+3,drug regimen number: Arimidex,TCH,1,0,0
+3,drug regimen number: Aromasin,1,0,0
+3,drug regimen number: CMF,1,0,0
+3,drug regimen number: Femara,1,0,0
+3,drug regimen number: TAC,TAM,Zoladex,1,0,0
+3,drug regimen number: TC regimen,1,0,0
+3,drug regimen number: hormone therapy,1,0,0
+3,drug regimen number: tamoxifen daily,1,0,0
+3,route of administration: Intramuscular (IM),Oral,1,0,0
+3,route of administration: Intramuscular (IM),Oral,Subcutaneous (SC),1,0,0
+3,route of administration: Intramuscular (IM)|Intravenous (IV),Intravenous (IV),Oral,1,0,0
+3,route of administration: Intravenous (IV),1,0,0
+3,route of administration: Intravenous (IV),NA,1,0,0
+3,route of administration: Intravenous (IV),Oral,1,0,0
+3,route of administration: Intravenous (IV),Oral,NA,1,0,0
+3,route of administration: Oral,1,0,0
+3,route of administration: Oral,NA,1,0,0
+3,route of administration: Oral,Subcutaneous (SC),1,0,0
+3,drug therapy ongoing: NO,NA,1,0,0
+3,drug therapy ongoing: YES,1,0,0
+3,anatomic neoplasm subdivision: Left,1,0,0
+3,anatomic neoplasm subdivision: Left Lower Inner Quadrant,1,0,0
+3,anatomic neoplasm subdivision: Left Lower Inner Quadrant|Left,1,0,0
+3,anatomic neoplasm subdivision: Left Lower Inner Quadrant|Left Lower Outer Quadrant|Left,1,0,0
+3,anatomic neoplasm subdivision: Left Lower Outer Quadrant,1,0,0
+3,anatomic neoplasm subdivision: Left Lower Outer Quadrant|Left,1,0,0
+3,anatomic neoplasm subdivision: Left Upper Inner Quadrant,1,0,0
+3,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left,1,0,0
+3,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Lower Inner Quadrant,1,0,0
+3,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Lower Inner Quadrant|Left,1,0,0
+3,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Lower Inner Quadrant|Left Lower Outer Quadrant|Left,1,0,0
+3,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant,1,0,0
+3,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant|Left Lower Inner Quadrant|Left,1,0,0
+3,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant|Left Lower Inner Quadrant|Left Lower Outer Quadrant,1,0,0
+3,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant|Left Lower Inner Quadrant|Left Lower Outer Quadrant|Left,1,0,0
+3,anatomic neoplasm subdivision: Left Upper Outer Quadrant,1,0,0
+3,anatomic neoplasm subdivision: Left Upper Outer Quadrant|Left Lower Outer Quadrant,1,0,0
+3,anatomic neoplasm subdivision: Left Upper Outer Quadrant|Left Lower Outer Quadrant|Left,1,0,0
+3,anatomic neoplasm subdivision: Left Upper Outer Quadrant|Right,1,0,0
+3,anatomic neoplasm subdivision: Right Lower Inner Quadrant|Right,1,0,0
+3,anatomic neoplasm subdivision: Right Lower Inner Quadrant|Right Lower Outer Quadrant,1,0,0
+3,anatomic neoplasm subdivision: Right Lower Inner Quadrant|Right Lower Outer Quadrant|Right,1,0,0
+3,anatomic neoplasm subdivision: Right Lower Outer Quadrant|Right,1,0,0
+3,anatomic neoplasm subdivision: Right Upper Inner Quadrant,1,0,0
+3,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right Lower Inner Quadrant|Right,1,0,0
+3,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right Upper Outer Quadrant,1,0,0
+3,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right Upper Outer Quadrant|Right,1,0,0
+3,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right Upper Outer Quadrant|Right Lower Inner Quadrant|Right Lower Outer Quadrant|Right,1,0,0
+3,anatomic neoplasm subdivision: Right Upper Outer Quadrant,1,0,0
+3,anatomic neoplasm subdivision: Right Upper Outer Quadrant|Left,1,0,0
+3,anatomic neoplasm subdivision: Right Upper Outer Quadrant|Right,1,0,0
+3,anatomic neoplasm subdivision: Right Upper Outer Quadrant|Right Lower Outer Quadrant,1,0,0
+3,anatomic neoplasm subdivision: Right Upper Outer Quadrant|Right Lower Outer Quadrant|Right,1,0,0
+3,axillary lymph node stage method type: No axillary staging,1,0,0
+3,axillary lymph node stage method type: Other (specify),1,0,0
+3,breast carcinoma estrogen receptor status: Indeterminate,1,0,0
+3,breast carcinoma estrogen receptor status: [Not Evaluated],1,0,0
+3,breast carcinoma immunohistochemistry pos cell score: 1+,1,0,0
+3,breast carcinoma immunohistochemistry pos cell score: 4+,1,0,0
+3,breast carcinoma progesterone receptor status: Indeterminate,1,0,0
+3,breast carcinoma progesterone receptor status: [Not Evaluated],1,0,0
+3,er level cell percentage category: 20-29,1,0,0
+3,er level cell percentage category: 40-49,1,0,0
+3,er level cell percentage category: 50-59,1,0,0
+3,er level cell percentage category: 60-69,1,0,0
+3,er level cell percentage category: 70-79,1,0,0
+3,er level cell percentage category: 80-89,1,0,0
+3,er level cell percentage category: <10,1,0,0
+3,gender: MALE,1,0,0
+3,her2 erbb pos finding cell percent category: 10-19,1,0,0
+3,her2 erbb pos finding cell percent category: 20-29,1,0,0
+3,her2 erbb pos finding cell percent category: 30-39,1,0,0
+3,her2 erbb pos finding cell percent category: 40-49,1,0,0
+3,her2 erbb pos finding cell percent category: 50-59,1,0,0
+3,her2 erbb pos finding cell percent category: 60-69,1,0,0
+3,her2 erbb pos finding cell percent category: 70-79,1,0,0
+3,histological type: Infiltrating Lobular Carcinoma,1,0,0
+3,histological type: Medullary Carcinoma,1,0,0
+3,histological type: Mixed Histology (please specify),1,0,0
+3,histological type: Mucinous Carcinoma,1,0,0
+3,histological type: Other  specify,1,0,0
+3,history of neoadjuvant treatment: Yes,1,0,0
+3,icd 10: C50.2,1,0,0
+3,icd 10: C50.3,1,0,0
+3,icd 10: C50.5,1,0,0
+3,icd 10: C50.8,1,0,0
+3,icd o 3 histology: 8013/3,1,0,0
+3,icd o 3 histology: 8022/3,1,0,0
+3,icd o 3 histology: 8050/3,1,0,0
+3,icd o 3 histology: 8401/3,1,0,0
+3,icd o 3 histology: 8480/3,1,0,0
+3,icd o 3 histology: 8490/3,1,0,0
+3,icd o 3 histology: 8502/3,1,0,0
+3,icd o 3 histology: 8503/3,1,0,0
+3,icd o 3 histology: 8510/3,1,0,0
+3,icd o 3 histology: 8520/3,1,0,0
+3,icd o 3 histology: 8522/3,1,0,0
+3,icd o 3 histology: 8523/3,1,0,0
+3,icd o 3 histology: 8524/3,1,0,0
+3,icd o 3 histology: 8541/3,1,0,0
+3,icd o 3 histology: 8575/3,1,0,0
+3,icd o 3 site: C50.1,1,0,0
+3,icd o 3 site: C50.2,1,0,0
+3,icd o 3 site: C50.3,1,0,0
+3,icd o 3 site: C50.5,1,0,0
+3,icd o 3 site: C50.8,1,0,0
+3,immunohistochemistry positive cell score: 1+,1,0,0
+3,immunohistochemistry positive cell score: 3+,1,0,0
+3,immunohistochemistry positive cell score: 4+,1,0,0
+3,initial pathologic diagnosis method: Excisional Biopsy,1,0,0
+3,initial pathologic diagnosis method: Fine needle aspiration biopsy,1,0,0
+3,initial pathologic diagnosis method: Incisional Biopsy,1,0,0
+3,lab proc her2 neu immunohistochemistry receptor status: Indeterminate,1,0,0
+3,lab procedure her2 neu in situ hybrid outcome type: Equivocal,1,0,0
+3,lab procedure her2 neu in situ hybrid outcome type: Not Performed,1,0,0
+3,lab procedure her2 neu in situ hybrid outcome type: Positive,1,0,0
+3,margin status: Close,1,0,0
+3,margin status: Positive,1,0,0
+3,menopause status: Peri (6-12 months since last menstrual period),1,0,0
+3,number of lymphnodes positive by ihc: 1,1,0,0
+3,number of lymphnodes positive by ihc: 2,1,0,0
+3,number of lymphnodes positive by ihc: 4,1,0,0
+3,pathologic M: M1,1,0,0
+3,pathologic M: MX,1,0,0
+3,pathologic M: cM0 (i+),1,0,0
+3,pathologic N: N0,1,0,0
+3,pathologic N: N0 (i+),1,0,0
+3,pathologic N: N1c,1,0,0
+3,pathologic N: N1mi,1,0,0
+3,pathologic N: N2,1,0,0
+3,pathologic N: N2a,1,0,0
+3,pathologic N: N3,1,0,0
+3,pathologic N: N3a,1,0,0
+3,pathologic N: N3c,1,0,0
+3,pathologic N: NX,1,0,0
+3,pathologic T: T1,1,0,0
+3,pathologic T: T1a,1,0,0
+3,pathologic T: T1b,1,0,0
+3,pathologic T: T2b,1,0,0
+3,pathologic T: T3,1,0,0
+3,pathologic T: T4,1,0,0
+3,pathologic T: T4b,1,0,0
+3,pathologic T: T4d,1,0,0
+3,pathologic T: TX,1,0,0
+3,pathologic stage: Stage I,1,0,0
+3,pathologic stage: Stage IB,1,0,0
+3,pathologic stage: Stage IIIA,1,0,0
+3,pathologic stage: Stage IIIB,1,0,0
+3,pathologic stage: Stage IIIC,1,0,0
+3,pathologic stage: Stage IV,1,0,0
+3,pathologic stage: Stage Tis,1,0,0
+3,pathologic stage: Stage X,1,0,0
+3,person neoplasm cancer status: WITH TUMOR,1,0,0
+3,prior dx: Yes,1,0,0
+3,progesterone receptor level cell percent category: 20-29,1,0,0
+3,progesterone receptor level cell percent category: 30-39,1,0,0
+3,progesterone receptor level cell percent category: 40-49,1,0,0
+3,progesterone receptor level cell percent category: 50-59,1,0,0
+3,progesterone receptor level cell percent category: 70-79,1,0,0
+3,progesterone receptor level cell percent category: 80-89,1,0,0
+3,progesterone receptor level cell percent category: <10,1,0,0
+3,race: AMERICAN INDIAN OR ALASKA NATIVE,1,0,0
+3,race: BLACK OR AFRICAN AMERICAN,1,0,0
+3,surgical procedure purpose other text: Excisional biopsy,1,0,0
+3,surgical procedure purpose other text: Left segmental mastectomy with axillary lymph node dissection,1,0,0
+3,surgical procedure purpose other text: Left segmental mastectomy with left axillary lymph node dissection,1,0,0
+3,surgical procedure purpose other text: Left segmental mastectomy with level 1 and level 2 axillary dissection,1,0,0
+3,surgical procedure purpose other text: Modified Radical Masectomy,1,0,0
+3,surgical procedure purpose other text: Modified radical mastectomy with left sentinel node biopsy,1,0,0
+3,surgical procedure purpose other text: Modified radical mastectomy with sentinel lymph node biopsy and with total mastectomy of left breast,1,0,0
+3,surgical procedure purpose other text: Patey's Surgery,1,0,0
+3,surgical procedure purpose other text: Pateys surgery,1,0,0
+3,surgical procedure purpose other text: Quadrantectomy,1,0,0
+3,surgical procedure purpose other text: Right segmental mastectomy,1,0,0
+3,surgical procedure purpose other text: Right segmental mastectomy with sentinel lymph node and axillary lymph node biopsy,1,0,0
+3,surgical procedure purpose other text: Right total mastectomy with lymph node left axillary lymph node excision,1,0,0
+3,surgical procedure purpose other text: Segmental mastectomy,1,0,0
+3,surgical procedure purpose other text: Segmental mastectomy with left axillary lymph node dissection,1,0,0
+3,surgical procedure purpose other text: Segmental mastectomy with sentinel axillary lymph node biopsy,1,0,0
+3,surgical procedure purpose other text: Segmental mastectomy with sentinel lymph node biopsy,1,0,0
+3,surgical procedure purpose other text: Segmental mastectomy with sentinel node biopsy,1,0,0
+3,surgical procedure purpose other text: Sentinel lymph node biopsy,1,0,0
+3,surgical procedure purpose other text: Simple mastectomy with left lymph node sentinel biopsy,1,0,0
+3,surgical procedure purpose other text: Surgical Resection,1,0,0
+3,surgical procedure purpose other text: Surgical resection,1,0,0
+3,surgical procedure purpose other text: TOTAL MASTECTOMY,1,0,0
+3,surgical procedure purpose other text: Total Mastectomy,1,0,0
+3,surgical procedure purpose other text: Total mastectomy,1,0,0
+3,surgical procedure purpose other text: Total mastectomy with left sentinel lymph node biospy,1,0,0
+3,surgical procedure purpose other text: Total mastectomy with retromammary lymph node excision,1,0,0
+3,surgical procedure purpose other text: Total mastectomy with sentinel lymoh node biopsy,1,0,0
+3,surgical procedure purpose other text: Total mastectomy with sentinel lymph node biopsy,1,0,0
+3,surgical procedure purpose other text: Wide Local Excision,1,0,0
+3,surgical procedure purpose other text: Wide local excision,1,0,0
+3,surgical procedure purpose other text: With sentinel lymph node biopsy (right) with simple mastectomy of left breast,1,0,0
+3,surgical procedure purpose other text: bilateral total mastectomies with right sentinel node biopsy,1,0,0
+3,surgical procedure purpose other text: excisional biopsy,1,0,0
+3,surgical procedure purpose other text: left segmental mastectomy with axillary sentinel lymph node biopsy,1,0,0
+3,surgical procedure purpose other text: left segmental mastectomy with sentinel node dissection,1,0,0
+3,surgical procedure purpose other text: localized segmental mastectomy with axillary node dissection,1,0,0
+3,surgical procedure purpose other text: modified radical mastectomy with axillary dissection,1,0,0
+3,surgical procedure purpose other text: needle directed right breast biopsy with left segmental mastectomy with axillary lymph node dissection,1,0,0
+3,surgical procedure purpose other text: needle localized segmental mastectomy,1,0,0
+3,surgical procedure purpose other text: quadrantectomy,1,0,0
+3,surgical procedure purpose other text: right segmental mastectomy,1,0,0
+3,surgical procedure purpose other text: right segmental mastectomy witrh axillary node dissection,1,0,0
+3,surgical procedure purpose other text: right total mastectomy with sentinel lymph node dissection right reconstruction with TRAMP,1,0,0
+3,surgical procedure purpose other text: segmental mastectomy,1,0,0
+3,surgical procedure purpose other text: segmental mastectomy with axillary dissection,1,0,0
+3,surgical procedure purpose other text: segmental mastectomy with axillary lymph node dissection,1,0,0
+3,surgical procedure purpose other text: segmental mastectomy with excision of mass on chest wall and axillary node dissection,1,0,0
+3,surgical procedure purpose other text: segmental mastectomy with sentinel lymph node dissection,1,0,0
+3,surgical procedure purpose other text: segmental mastectomy with sentinel lymph node excision and biopsy,1,0,0
+3,surgical procedure purpose other text: sentinel lymph node biopsy,1,0,0
+3,surgical procedure purpose other text: surgical resection,1,0,0
+3,surgical procedure purpose other text: toilet mastectomy,1,0,0
+3,surgical procedure purpose other text: total mastectomy,1,0,0
+3,surgical procedure purpose other text: total mastectomy and sentinel node biopsy,1,0,0
+3,surgical procedure purpose other text: total mastectomy with rigth axillary lymph node and sentinel lymph node dissection,1,0,0
+3,surgical procedure purpose other text: total mastectomy with sentinel lymph node biopsy with tissue reconstruction,1,0,0
+3,surgical procedure purpose other text: wide local excision,1,0,0
+3,surgical procedure purpose other text: with axillary lymph nodes dissection,1,0,0
+3,surgical procedure purpose other text: with axillary node dissection,1,0,0
+3,surgical procedure purpose other text: with left axilla sentinel lymph node biopsy,1,0,0
+3,surgical procedure purpose other text: with left lymphatic mapping and left axillary biopsy,1,0,0
+3,surgical procedure purpose other text: with sentinel lymph node biopsy,1,0,0
+3,system version: 7th,1,0,0
+3,tissue prospective collection indicator: YES,1,0,0
+3,tissue retrospective collection indicator: NO,1,0,0
+3,anatomic treatment site: Distant Recurrence,1,0,0
+3,anatomic treatment site: Distant Recurrence,Local Recurrence,Primary Tumor Field,1,0,0
+3,anatomic treatment site: Distant Recurrence,Primary Tumor Field,1,0,0
+3,anatomic treatment site: Distant site,Primary Tumor Field,1,0,0
+3,anatomic treatment site: Primary Tumor Field,Regional site,1,0,0
+3,anatomic treatment site: Regional site,1,0,0
+3,radiation treatment ongoing: YES,1,0,0
+3,radiation type: EXTERNAL BEAM,IMPLANTS,1,0,0
+3,radiation type: External,1,0,0
+3,radiation type: OTHER: SPECIFY IN NOTES,1,0,0
+3,radiation regimen indication: ADJUVANT,PALLIATIVE,1,0,0
+3,radiation regimen indication: ADJUVANT,PROGRESSION,RECURRENCE,1,0,0
+3,radiation regimen indication: PALLIATIVE,1,0,0
+3,PAM50 sample type: metastatic,1,0,0
+3,PAM50 sample type: tumor-adjacent normal,1,0,0
+3,PAM50: Her2,1,0,0
+3,PAM50: LumB,1,0,0
+4,sample type: Solid Tissue Normal,0,1,0
+4,tumor necrosis percent: NA,0,1,1
+4,tumor nuclei percent: NA,0,1,1
+4,method of normal sample procurement: Tumor Resection,0,1,1
+4,section location: TOP,2.7661e-08,1,1
+4,PAM50 sample type: tumor-adjacent normal,2.9004e-07,1,0
+4,PAM50 sample type: NA,4.2678e-07,1,1
+4,PAM50: NA,4.2678e-07,1,1
+4,vital status: dead,5.0688e-07,1,1
+4,system version: 5th,7.8432e-07,1,1
+4,PAM50: Normal,4.4531e-06,1,0
+4,method of normal sample procurement: Other method (please specify),5.5001e-06,1,1
+4,initial pathologic diagnosis method: Fine needle aspiration biopsy,0.001027,1,1
+4,menopause status: NA,0.0012972,1,1
+4,anatomic neoplasm subdivision: Left,0.0018633,1,1
+4,margin status: NA,0.002136,1,1
+4,her2 immunohistochemistry level result: NA,0.0024458,1,1
+4,axillary lymph node stage method type: NA,0.0025874,1,1
+4,cytokeratin immunohistochemistry staining method micrometastasis indicator: NA,0.0029768,1,1
+4,breast carcinoma immunohistochemistry pos cell score: NA,0.0052632,0,1
+4,race: WHITE,0.016494,0,0
+4,immunohistochemistry positive cell score: NA,0.027426,0,0
+4,er level cell percentage category: 20-29,0.032028,0,1
+4,icd 10: C50.3,0.032028,0,1
+4,pathologic N: N1b,0.03259,0,1
+4,her2 erbb pos finding cell percent category: NA,0.036979,0,1
+4,breast carcinoma surgical procedure name: Modified Radical Mastectomy,0.038383,0,0
+4,number of lymphnodes positive by ihc: 2,0.043424,0,1
+4,drug name: aromasin,[unknown],0.049729,0,1
+4,progesterone receptor level cell percent category: NA,0.051842,0,0
+4,drug name: anastrozole,arimidex,bevacizumab,cyclophosphamide,doxorubicin,paclitaxel,taxol,0.097027,0,1
+4,drug name: arimidex,cyclophosphamide,docetaxel,doxorubicin,tamoxifen,0.097027,0,1
+4,drug name: taxane,arimidex,cytoxan,doxorubicin,0.097027,0,1
+4,drug regimen indication: ADJUVANT,PALLIATIVE,0.097027,0,1
+4,anatomic neoplasm subdivision: Left Upper Outer Quadrant|Left Lower Outer Quadrant,0.097027,0,1
+4,icd 10: C50.8,0.097027,0,1
+4,icd o 3 histology: 8490/3,0.097027,0,1
+4,pathologic T: T1a,0.097027,0,1
+4,pathologic T: T2b,0.097027,0,1
+4,surgical procedure purpose other text: Left segmental mastectomy with left axillary lymph node dissection,0.097027,0,1
+4,surgical procedure purpose other text: Right segmental mastectomy,0.097027,0,1
+4,surgical procedure purpose other text: With sentinel lymph node biopsy (right) with simple mastectomy of left breast,0.097027,0,1
+4,surgical procedure purpose other text: modified radical mastectomy with axillary dissection,0.097027,0,1
+4,surgical procedure purpose other text: right segmental mastectomy witrh axillary node dissection,0.097027,0,1
+4,surgical procedure purpose other text: segmental mastectomy with axillary lymph node dissection,0.097027,0,1
+4,surgical procedure purpose other text: with axillary lymph nodes dissection,0.097027,0,1
+4,surgical procedure purpose other text: with left lymphatic mapping and left axillary biopsy,0.097027,0,1
+4,anatomic treatment site: Distant site,Primary Tumor Field,0.097027,0,1
+4,pathologic stage: Stage I,0.0975,0,0
+4,drug name: none,0.099113,0,0
+4,drug regimen indication: none,0.099113,0,0
+4,drug regimen number: none,0.099113,0,0
+4,route of administration: none,0.099113,0,0
+4,drug therapy ongoing: none,0.099113,0,0
+4,icd o 3 site: C50.3,0.10016,0,1
+4,initial pathologic diagnosis method: Excisional Biopsy,0.10191,0,0
+4,oct embedded: false,0.118,0,0
+4,method of normal sample procurement: NA,0.12437,0,0
+4,anatomic treatment site: none,0.12728,0,0
+4,radiation treatment ongoing: none,0.12728,0,0
+4,radiation type: none,0.12728,0,0
+4,radiation regimen indication: none,0.12728,0,0
+4,pathologic M: MX,0.13492,0,0
+4,person neoplasm cancer status: WITH TUMOR,0.14131,0,0
+4,breast carcinoma estrogen receptor status: Indeterminate,0.14201,0,1
+4,icd o 3 histology: 8541/3,0.14201,0,1
+4,icd o 3 histology: 8575/3,0.14201,0,1
+4,number of lymphnodes positive by ihc: 4,0.14201,0,1
+4,pathologic T: T4d,0.14201,0,1
+4,surgical procedure purpose other text: Sentinel lymph node biopsy,0.14201,0,1
+4,surgical procedure purpose other text: right segmental mastectomy,0.14201,0,1
+4,radiation regimen indication: ADJUVANT,PALLIATIVE,0.14201,0,1
+4,er level cell percentage category: NA,0.14652,0,0
+4,pathologic T: T1,0.14667,0,0
+4,number of lymphnodes positive by ihc: NA,0.14936,0,0
+4,drug name: arimidex,0.1807,0,0
+4,drug name: cytoxan,tamoxifen,taxotere,0.1848,0,1
+4,breast carcinoma progesterone receptor status: Indeterminate,0.1848,0,1
+4,pathologic N: N1c,0.1848,0,1
+4,surgical procedure purpose other text: with axillary node dissection,0.1848,0,1
+4,pathologic N: NX,0.18697,0,1
+4,lab proc her2 neu immunohistochemistry receptor status: Positive,0.20398,0,0
+4,pathologic stage: Stage IIA,0.21023,0,0
+4,pathologic stage: Stage IIIA,0.21467,0,0
+4,lab procedure her2 neu in situ hybrid outcome type: NA,0.21547,0,0
+4,anatomic neoplasm subdivision: Left Lower Outer Quadrant|Left,0.22548,0,1
+4,breast carcinoma surgical procedure name: Simple Mastectomy,0.22978,0,0
+4,person neoplasm cancer status: NA,0.26249,0,0
+4,icd o 3 site: C50.8,0.26417,0,1
+4,anatomic treatment site: Primary Tumor Field,Regional site,0.26417,0,0
+4,anatomic neoplasm subdivision: Right Upper Outer Quadrant,0.28452,0,0
+4,route of administration: Oral,0.29454,0,0
+4,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant,0.30096,0,1
+4,immunohistochemistry positive cell score: 1+,0.30096,0,1
+4,surgical procedure purpose other text: Segmental mastectomy with sentinel lymph node biopsy,0.30096,0,0
+4,pathologic N: N1,0.32497,0,0
+4,pathologic T: T3,0.33522,0,0
+4,route of administration: Oral,NA,0.33595,0,1
+4,gender: MALE,0.33595,0,0
+4,surgical procedure purpose other text: segmental mastectomy,0.33595,0,0
+4,lab procedure her2 neu in situ hybrid outcome type: Positive,0.3485,0,0
+4,pathologic T: T1b,0.36921,0,0
+4,drug therapy ongoing: YES,0.372,0,0
+4,histological type: Other  specify,0.39256,0,0
+4,tissue prospective collection indicator: YES,0.39718,0,0
+4,tissue retrospective collection indicator: NO,0.39718,0,0
+4,initial pathologic diagnosis method: Incisional Biopsy,0.40084,0,0
+4,prior dx: Yes,0.41055,0,0
+4,pathologic stage: NA,0.41623,0,0
+4,breast carcinoma surgical procedure name: NA,0.4168,0,0
+4,progesterone receptor level cell percent category: 50-59,0.4309,0,0
+4,progesterone receptor level cell percent category: 60-69,0.4309,0,0
+4,lab procedure her2 neu in situ hybrid outcome type: [Not Evaluated],0.43241,0,0
+4,anatomic neoplasm subdivision: Right,0.4589,0,0
+4,histological type: Infiltrating Ductal Carcinoma,0.47796,0,0
+4,pathologic N: N0,0.48447,0,0
+4,drug name: tamoxifen,0.48666,0,0
+4,progesterone receptor level cell percent category: 30-39,0.48666,0,0
+4,axillary lymph node stage method type: Sentinel node biopsy alone,0.50803,0,0
+4,icd o 3 site: C50.5,0.51249,0,0
+4,oct embedded: NA,0.51688,0,0
+4,sample type: NA,0.51688,0,0
+4,normal tissue anatomic site: NA,0.51688,0,0
+4,section location: NA,0.51688,0,0
+4,drug therapy ongoing: NA,0.51688,0,0
+4,anatomic neoplasm subdivision: NA,0.51688,0,0
+4,breast carcinoma estrogen receptor status: NA,0.51688,0,0
+4,breast carcinoma progesterone receptor status: NA,0.51688,0,0
+4,gender: NA,0.51688,0,0
+4,icd 10: NA,0.51688,0,0
+4,icd o 3 histology: NA,0.51688,0,0
+4,icd o 3 site: NA,0.51688,0,0
+4,pathologic M: NA,0.51688,0,0
+4,pathologic N: NA,0.51688,0,0
+4,pathologic T: NA,0.51688,0,0
+4,prior dx: NA,0.51688,0,0
+4,tissue prospective collection indicator: NA,0.51688,0,0
+4,tissue retrospective collection indicator: NA,0.51688,0,0
+4,vital status: NA,0.51688,0,0
+4,radiation treatment ongoing: NA,0.51688,0,0
+4,histological type: NA,0.52251,0,0
+4,history of neoadjuvant treatment: NA,0.52251,0,0
+4,drug regimen number: 1,0.52484,0,0
+4,drug name: NA,0.52813,0,0
+4,drug regimen indication: NA,0.53374,0,0
+4,anatomic treatment site: NA,0.53374,0,0
+4,radiation type: NA,0.53374,0,0
+4,radiation regimen indication: NA,0.53374,0,0
+4,anatomic neoplasm subdivision: Left Lower Inner Quadrant,0.53705,0,0
+4,her2 erbb pos finding cell percent category: 10-19,0.53705,0,0
+4,breast carcinoma estrogen receptor status: Positive,0.53858,0,0
+4,history of neoadjuvant treatment: No,0.55044,0,0
+4,margin status: Close,0.56039,0,0
+4,route of administration: NA,0.56163,0,0
+4,initial pathologic diagnosis method: Core needle biopsy,0.5653,0,0
+4,breast carcinoma progesterone receptor status: Positive,0.57269,0,0
+4,lab proc her2 neu immunohistochemistry receptor status: [Not Evaluated],0.57424,0,0
+4,lab proc her2 neu immunohistochemistry receptor status: NA,0.5782,0,0
+4,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right,0.58257,0,0
+4,icd o 3 histology: 8522/3,0.58257,0,0
+4,normal tissue anatomic site: BREAST,0.59478,0,0
+4,icd o 3 site: C50.9,0.59829,0,0
+4,drug regimen number: NA,0.61618,0,0
+4,pathologic N: N1mi,0.62369,0,0
+4,pathologic N: N2a,0.62995,0,0
+4,icd o 3 histology: 8500/3,0.63508,0,0
+4,lab proc her2 neu immunohistochemistry receptor status: Negative,0.65559,0,0
+4,prior dx: No,0.65724,0,0
+4,breast carcinoma progesterone receptor status: Negative,0.65759,0,0
+4,gender: FEMALE,0.65815,0,0
+4,pathologic T: T4b,0.66082,0,0
+4,pathologic M: M0,0.66675,0,0
+4,pathologic stage: Stage IIIB,0.67801,0,0
+4,tissue prospective collection indicator: NO,0.68087,0,0
+4,tissue retrospective collection indicator: YES,0.68087,0,0
+4,surgical procedure purpose other text: NA,0.6835,0,0
+4,er level cell percentage category: 90-99,0.7108,0,0
+4,drug regimen number: 1,2,0.71406,0,0
+4,icd o 3 site: C50.4,0.7194,0,0
+4,breast carcinoma estrogen receptor status: Negative,0.73791,0,0
+4,anatomic neoplasm subdivision: Right Lower Outer Quadrant,0.73863,0,0
+4,lab proc her2 neu immunohistochemistry receptor status: Equivocal,0.75137,0,0
+4,histological type: Infiltrating Lobular Carcinoma,0.76406,0,0
+4,her2 immunohistochemistry level result: 2+,0.76615,0,0
+4,icd o 3 histology: 8520/3,0.79856,0,0
+4,drug therapy ongoing: NO,YES,0.80234,0,0
+4,anatomic neoplasm subdivision: Left Upper Inner Quadrant,0.80913,0,0
+4,icd 10: C50.9,0.81075,0,0
+4,drug regimen number: 1,2,3,0.81891,0,0
+4,anatomic neoplasm subdivision: Left Upper Outer Quadrant|Left,0.81891,0,0
+4,pathologic N: N0 (i-),0.82231,0,0
+4,pathologic T: T2,0.8352,0,0
+4,pathologic N: N2,0.85332,0,0
+4,system version: NA,0.86037,0,0
+4,er level cell percentage category: <10,0.8813,0,0
+4,progesterone receptor level cell percent category: 90-99,0.8813,0,0
+4,route of administration: Intravenous (IV),Oral,0.88821,0,0
+4,initial pathologic diagnosis method: NA,0.88947,0,0
+4,system version: 7th,0.89186,0,0
+4,race: NA,0.89457,0,0
+4,menopause status: Pre (<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),0.89948,0,0
+4,progesterone receptor level cell percent category: <10,0.90498,0,0
+4,pathologic N: N1a,0.90636,0,0
+4,oct embedded: true,0.91227,0,0
+4,breast carcinoma immunohistochemistry pos cell score: 3+,0.91819,0,0
+4,initial pathologic diagnosis method: Tumor resection,0.9259,0,0
+4,pathologic T: T1c,0.93462,0,0
+4,margin status: Positive,0.93739,0,0
+4,person neoplasm cancer status: TUMOR FREE,0.9446,0,0
+4,pathologic stage: Stage IIB,0.94976,0,0
+4,breast carcinoma surgical procedure name: Other,0.94985,0,0
+4,her2 immunohistochemistry level result: 3+,0.95704,0,0
+4,drug regimen indication: ADJUVANT,0.96045,0,0
+4,her2 immunohistochemistry level result: 0,0.9706,0,0
+4,radiation type: EXTERNAL BEAM,0.97221,0,0
+4,menopause status: Post (prior bilateral ovariectomy OR >12 mo since LMP with no prior hysterectomy),0.97342,0,0
+4,immunohistochemistry positive cell score: 3+,0.97363,0,0
+4,axillary lymph node stage method type: Sentinel lymph node biopsy plus axillary dissection,0.97592,0,0
+4,radiation treatment ongoing: NO,0.97968,0,0
+4,her2 erbb pos finding cell percent category: <10,0.97993,0,0
+4,her2 immunohistochemistry level result: 1+,0.98076,0,0
+4,cytokeratin immunohistochemistry staining method micrometastasis indicator: YES,0.98267,0,0
+4,anatomic treatment site: Primary Tumor Field,0.98383,0,0
+4,lab procedure her2 neu in situ hybrid outcome type: Negative,0.98466,0,0
+4,cytokeratin immunohistochemistry staining method micrometastasis indicator: NO,0.98519,0,0
+4,breast carcinoma surgical procedure name: Lumpectomy,0.9865,0,0
+4,system version: 6th,0.98678,0,0
+4,radiation regimen indication: ADJUVANT,0.99113,0,0
+4,number of lymphnodes positive by ihc: 0,0.99212,0,0
+4,axillary lymph node stage method type: Axillary lymph node dissection alone,0.99223,0,0
+4,anatomic neoplasm subdivision: Left Upper Outer Quadrant,0.99576,0,0
+4,margin status: Negative,0.99704,0,0
+4,drug therapy ongoing: NO,0.99745,0,0
+4,vital status: alive,0.99997,0,0
+4,section location: BOTTOM,TOP,1,0,0
+4,sample type: Metastatic,1,0,0
+4,sample type: Primary Tumor,1,0,0
+4,tumor necrosis percent: 0,1,0,0
+4,tumor necrosis percent: 1,1,0,0
+4,tumor necrosis percent: 10,1,0,0
+4,tumor necrosis percent: 15,1,0,0
+4,tumor necrosis percent: 2,1,0,0
+4,tumor necrosis percent: 20,1,0,0
+4,tumor necrosis percent: 25,1,0,0
+4,tumor necrosis percent: 3,1,0,0
+4,tumor necrosis percent: 30,1,0,0
+4,tumor necrosis percent: 5,1,0,0
+4,tumor nuclei percent: 100,1,0,0
+4,tumor nuclei percent: 60,1,0,0
+4,tumor nuclei percent: 65,1,0,0
+4,tumor nuclei percent: 70,1,0,0
+4,tumor nuclei percent: 75,1,0,0
+4,tumor nuclei percent: 80,1,0,0
+4,tumor nuclei percent: 85,1,0,0
+4,tumor nuclei percent: 90,1,0,0
+4,tumor nuclei percent: 95,1,0,0
+4,tumor nuclei percent: 99,1,0,0
+4,method of normal sample procurement: Excisional biopsy,1,0,0
+4,section location: BOTTOM,1,0,0
+4,drug name: abraxane,carboplatin,herceptin,taxotere,1,0,0
+4,drug name: adriamicin,1,0,0
+4,drug name: adriamycin+,1,0,0
+4,drug name: adriamycin+cyclophosphamid,1,0,0
+4,drug name: adriamycin,,1,0,0
+4,drug name: adriamycin,anastrozole,cytoxan,1,0,0
+4,drug name: adriamycin,anastrozole,cytoxan,exemestane,gemzar,letrozole,tamoxifen,taxol,1,0,0
+4,drug name: adriamycin,anastrozole,cytoxan,letrozole,tamoxifen,taxol,1,0,0
+4,drug name: adriamycin,anastrozole,cytoxan,taxol,1,0,0
+4,drug name: adriamycin,anastrozole,cytoxan,taxol,tamoxifen,1,0,0
+4,drug name: adriamycin,arimidex,aromasin,cytoxan,femara,tamoxifen,taxol,1,0,0
+4,drug name: adriamycin,arimidex,cyotxan,1,0,0
+4,drug name: adriamycin,arimidex,cytoxan,1,0,0
+4,drug name: adriamycin,arimidex,cytoxan,docetaxel,e-75,1,0,0
+4,drug name: adriamycin,arimidex,cytoxan,docetaxel,herceptin,lapatinib,1,0,0
+4,drug name: adriamycin,arimidex,cytoxan,femara,taxol,1,0,0
+4,drug name: adriamycin,arimidex,cytoxan,herceptin,taxol,taxotere,1,0,0
+4,drug name: adriamycin,arimidex,cytoxan,herceptin,taxotere,1,0,0
+4,drug name: adriamycin,arimidex,cytoxan,paclitaxel,1,0,0
+4,drug name: adriamycin,arimidex,cytoxan,tamoxifen,1,0,0
+4,drug name: adriamycin,arimidex,cytoxan,tamoxifen,taxol,1,0,0
+4,drug name: adriamycin,arimidex,cytoxan,tamoxifen,taxol,zometa,1,0,0
+4,drug name: adriamycin,arimidex,cytoxan,taxol,1,0,0
+4,drug name: adriamycin,arimidex,cytoxan,taxotere,1,0,0
+4,drug name: adriamycin,capecetabine,cytoxan,docetaxel,tamoxifen,zometa,1,0,0
+4,drug name: adriamycin,carboplatin,cytoxan,gemcitabine,xeloda,1,0,0
+4,drug name: adriamycin,cisplatin,exemestane,gemzar,navelbine,taxol,taxotere,xeloda,1,0,0
+4,drug name: adriamycin,cyclophosphamide,herceptin,paclitaxel,1,0,0
+4,drug name: adriamycin,cyclophosphamide,herceptin,paclitaxel,tamoxifen,triptorelin,zoledronic,1,0,0
+4,drug name: adriamycin,cyclophosphamide,taxol,1,0,0
+4,drug name: adriamycin,cytoxan,1,0,0
+4,drug name: adriamycin,cytoxan,docetaxel,1,0,0
+4,drug name: adriamycin,cytoxan,exemestane,letrozole,tamoxifen,xeloda,1,0,0
+4,drug name: adriamycin,cytoxan,femara,taxol,1,0,0
+4,drug name: adriamycin,cytoxan,femara,taxotere,1,0,0
+4,drug name: adriamycin,cytoxan,herceptin,letrozole,tamoxifen,taxol,zoladex,1,0,0
+4,drug name: adriamycin,cytoxan,herceptin,tamoxifen,taxol,1,0,0
+4,drug name: adriamycin,cytoxan,herceptin,tamoxifen,taxol,zometa,1,0,0
+4,drug name: adriamycin,cytoxan,herceptin,taxol,1,0,0
+4,drug name: adriamycin,cytoxan,herceptin,taxol,zometa,1,0,0
+4,drug name: adriamycin,cytoxan,paclitaxel,tamoxifen,1,0,0
+4,drug name: adriamycin,cytoxan,tamoxifen,1,0,0
+4,drug name: adriamycin,cytoxan,tamoxifen,taxol,1,0,0
+4,drug name: adriamycin,cytoxan,tamoxifen,taxotere,1,0,0
+4,drug name: adriamycin,cytoxan,tamoxifen,taxotere,zoladex,1,0,0
+4,drug name: adriamycin,cytoxan,taxol,1,0,0
+4,drug name: adriamycin,cytoxan,taxotere,1,0,0
+4,drug name: adriamycin,cytoxan,taxotere,zometa,1,0,0
+4,drug name: adrimycin,arimidex,cyotxan,taxotere,1,0,0
+4,drug name: ae-37,adriamycin,arimidex,cytoxan,1,0,0
+4,drug name: ae-37,adriamycin,cytoxan,herceptin,paclitaxel,1,0,0
+4,drug name: albumin-bound,1,0,0
+4,drug name: anastrozole,1,0,0
+4,drug name: anastrozole,cytoxan,docetaxel,doxorubicin,letrozole,paclitaxel,1,0,0
+4,drug name: anastrozole,cytoxan,docetaxel,exemestane,1,0,0
+4,drug name: anastrozole,cytoxan,doxorubicin,paclitaxel,tamoxifen,1,0,0
+4,drug name: anastrozole,tamoxifen,1,0,0
+4,drug name: anastrozole,zometa,1,0,0
+4,drug name: anastrozolum,1,0,0
+4,drug name: arimidex,aromasin,1,0,0
+4,drug name: arimidex,aromasin,cyclophosphamide,doxorubicin,femara,paclitaxel,tamoxifen,1,0,0
+4,drug name: arimidex,aromasin,femara,1,0,0
+4,drug name: arimidex,aromasin,hercptin,taxotere,1,0,0
+4,drug name: arimidex,bevacizumab,1,0,0
+4,drug name: arimidex,bevacizumab,carboplatin,paclitaxel,pemetrexed,1,0,0
+4,drug name: arimidex,carboplatin,docetaxel,1,0,0
+4,drug name: arimidex,carboplatin,docetaxel,trastuzumab,1,0,0
+4,drug name: arimidex,carboplatin,taxol,1,0,0
+4,drug name: arimidex,clodronate,cyclophosphamide,doxorubicin,paclitaxel,1,0,0
+4,drug name: arimidex,cyclophosphamide,cytoxan,1,0,0
+4,drug name: arimidex,cyclophosphamide,docetaxel,1,0,0
+4,drug name: arimidex,cyclophosphamide,docetaxel,paclitaxel,1,0,0
+4,drug name: arimidex,cyclophosphamide,docetaxel,zolendronic,1,0,0
+4,drug name: arimidex,cyclophosphamide,doxorubicin,1,0,0
+4,drug name: arimidex,cyclophosphamide,doxorubicin,lapatinib,paclitaxel,1,0,0
+4,drug name: arimidex,cyclophosphamide,doxorubicin,paclitaxel,1,0,0
+4,drug name: arimidex,cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,1,0,0
+4,drug name: arimidex,cyclophosphamide,doxorubicin,taxol,1,0,0
+4,drug name: arimidex,cyclophosphamide,doxorubicin,taxotere,1,0,0
+4,drug name: arimidex,cyclophosphamide,fluorouracil,methotrexate,1,0,0
+4,drug name: arimidex,cyclophosphamide,fluorouracil,methotrexate,tamoxifen,1,0,0
+4,drug name: arimidex,cytoxan,tamoxifen,taxotere,1,0,0
+4,drug name: arimidex,cytoxan,taxotere,1,0,0
+4,drug name: arimidex,fulvestrant,xeloda,zometa,1,0,0
+4,drug name: arimidex,herceptin,taxol,1,0,0
+4,drug name: arimidex,tamoxifen,1,0,0
+4,drug name: armidex,1,0,0
+4,drug name: aromasin,1,0,0
+4,drug name: aromasin,clodronate,cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,trastuzumab,1,0,0
+4,drug name: aromasin,cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,1,0,0
+4,drug name: aromasin,cytoxan,taxotere,1,0,0
+4,drug name: avastin,clodronic,1,0,0
+4,drug name: carboplatin,docetaxel,fareston,tamoxifen,trastuzumab,zoledronic,1,0,0
+4,drug name: carboplatin,docetaxel,herceptin,tamoxifen,1,0,0
+4,drug name: carboplatin,docetaxel,trastuzumab,1,0,0
+4,drug name: carboplatin,femara,herceptin,taxotere,1,0,0
+4,drug name: carboplatin,herceptin,taxotere,1,0,0
+4,drug name: clodronate,cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,triptorelin,1,0,0
+4,drug name: cyclophasphamide,doxorubicin,paclitaxel,1,0,0
+4,drug name: cyclophosphamid+metotreksat+,1,0,0
+4,drug name: cyclophosphamide,docetaxel,doxorubicin,1,0,0
+4,drug name: cyclophosphamide,docetaxel,doxorubicin,paclitaxel,1,0,0
+4,drug name: cyclophosphamide,docetaxel,tamoxifen,1,0,0
+4,drug name: cyclophosphamide,doxorubicin,1,0,0
+4,drug name: cyclophosphamide,doxorubicin,femara,taxotere,1,0,0
+4,drug name: cyclophosphamide,doxorubicin,letrozole,1,0,0
+4,drug name: cyclophosphamide,doxorubicin,lupron,paclitaxel,tamoxifen,1,0,0
+4,drug name: cyclophosphamide,doxorubicin,paclitaxel,1,0,0
+4,drug name: cyclophosphamide,doxorubicin,paclitaxel,paclitaxel,1,0,0
+4,drug name: cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,1,0,0
+4,drug name: cyclophosphamide,doxorubicin,paclitaxel,tamoxifen,trastuzumab,1,0,0
+4,drug name: cyclophosphamide,doxorubicin,paclitaxel,trastuzumab,1,0,0
+4,drug name: cyclophosphamide,doxorubicin,paclitaxel,zoledronic,1,0,0
+4,drug name: cyclophosphamide,doxorubicin,paxlitaxel,tamoxifen,1,0,0
+4,drug name: cyclophosphamide,doxorubicin,tamoxifen,1,0,0
+4,drug name: cyclophosphamide,doxorubicin,taxol,1,0,0
+4,drug name: cyclophosphamide,flourouracil,letrozole,1,0,0
+4,drug name: cyclophosphamide,fluorouracil,methotrexate,1,0,0
+4,drug name: cyclophosphamide,fluorouracil,methotrexate,tamoxifen,zoladex,1,0,0
+4,drug name: cyclophosphamide,taxotere,1,0,0
+4,drug name: cytoxan,docetaxel,1,0,0
+4,drug name: cytoxan,docetaxel,herceptin,tamoxifen,1,0,0
+4,drug name: cytoxan,doxorubicin,paclitaxel,1,0,0
+4,drug name: cytoxan,doxorubicin,paclitaxel,tamoxifen,1,0,0
+4,drug name: cytoxan,tamoxifen,taxol,1,0,0
+4,drug name: cytoxan,taxotere,1,0,0
+4,drug name: docetaxel,doxorubicin,na,1,0,0
+4,drug name: docetaxel,tamoxifen,1,0,0
+4,drug name: doxorubicin+cyclophosphamid,1,0,0
+4,drug name: doxorubicine,1,0,0
+4,drug name: e-75,exemestane,tamoxifen,1,0,0
+4,drug name: femara,1,0,0
+4,drug name: fulvestrant,letrozole,1,0,0
+4,drug name: herceptin,1,0,0
+4,drug name: leuprolide,1,0,0
+4,drug name: lupron,tamoxifen,zoladex,1,0,0
+4,drug name: nolvadex,1,0,0
+4,drug name: tamoxifen,na,1,0,0
+4,drug name: tamoxifen,zoladex,1,0,0
+4,drug name: tamoxifen,zoladex,zometa,1,0,0
+4,drug name: taxotere/cytoxan,1,0,0
+4,drug name: tc,1,0,0
+4,drug name: trastuzumab,1,0,0
+4,drug name: xeloda,1,0,0
+4,drug regimen indication: ADJUVANT,NA,1,0,0
+4,drug regimen indication: ADJUVANT,OTHER: SPECIFY IN NOTES,1,0,0
+4,drug regimen indication: ADJUVANT,PROGRESSION,1,0,0
+4,drug regimen indication: ADJUVANT,PROGRESSION,RECURRENCE,1,0,0
+4,drug regimen indication: ADJUVANT,RECURRENCE,1,0,0
+4,drug regimen indication: OTHER: SPECIFY IN NOTES,1,0,0
+4,drug regimen indication: OTHER: SPECIFY IN NOTES,PROGRESSION,1,0,0
+4,drug regimen indication: OTHER: SPECIFY IN NOTES,RECURRENCE,1,0,0
+4,drug regimen indication: PROGRESSION,RECURRENCE,1,0,0
+4,drug regimen number: 1,2,3,4,1,0,0
+4,drug regimen number: 1,2,3,4,5,1,0,0
+4,drug regimen number: 1,2,3,4,5,6,1,0,0
+4,drug regimen number: 1,2,3,4,5,6,7,1,0,0
+4,drug regimen number: 1,2,3,4,5,6,7,8,1,0,0
+4,drug regimen number: 1,2,3,4,5,6,7,8,9,1,0,0
+4,drug regimen number: 1,2,3,4,5,7,1,0,0
+4,drug regimen number: 1,3,1,0,0
+4,drug regimen number: 1,5,1,0,0
+4,drug regimen number: 1,NA,1,0,0
+4,drug regimen number: 4x chemotherapy,1,0,0
+4,drug regimen number: 4x chemotherapy+hormonotherapy,1,0,0
+4,drug regimen number: AC,1,0,0
+4,drug regimen number: AC then TH,1,0,0
+4,drug regimen number: AC,NA,1,0,0
+4,drug regimen number: Arimidex,TC,1,0,0
+4,drug regimen number: Arimidex,TCH,1,0,0
+4,drug regimen number: Aromasin,1,0,0
+4,drug regimen number: CMF,1,0,0
+4,drug regimen number: Femara,1,0,0
+4,drug regimen number: TAC,TAM,Zoladex,1,0,0
+4,drug regimen number: TC regimen,1,0,0
+4,drug regimen number: hormone therapy,1,0,0
+4,drug regimen number: tamoxifen daily,1,0,0
+4,route of administration: Intramuscular (IM),Intravenous (IV),Oral,1,0,0
+4,route of administration: Intramuscular (IM),Oral,1,0,0
+4,route of administration: Intramuscular (IM),Oral,Subcutaneous (SC),1,0,0
+4,route of administration: Intramuscular (IM)|Intravenous (IV),Intravenous (IV),Oral,1,0,0
+4,route of administration: Intravenous (IV),1,0,0
+4,route of administration: Intravenous (IV),NA,1,0,0
+4,route of administration: Intravenous (IV),Oral,NA,1,0,0
+4,route of administration: Intravenous (IV),Oral,Subcutaneous (SC),1,0,0
+4,route of administration: Oral,Subcutaneous (SC),1,0,0
+4,drug therapy ongoing: NO,NA,1,0,0
+4,anatomic neoplasm subdivision: Left Lower Inner Quadrant|Left,1,0,0
+4,anatomic neoplasm subdivision: Left Lower Inner Quadrant|Left Lower Outer Quadrant|Left,1,0,0
+4,anatomic neoplasm subdivision: Left Lower Outer Quadrant,1,0,0
+4,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left,1,0,0
+4,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Lower Inner Quadrant,1,0,0
+4,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Lower Inner Quadrant|Left,1,0,0
+4,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Lower Inner Quadrant|Left Lower Outer Quadrant|Left,1,0,0
+4,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant|Left,1,0,0
+4,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant|Left Lower Inner Quadrant|Left,1,0,0
+4,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant|Left Lower Inner Quadrant|Left Lower Outer Quadrant,1,0,0
+4,anatomic neoplasm subdivision: Left Upper Inner Quadrant|Left Upper Outer Quadrant|Left Lower Inner Quadrant|Left Lower Outer Quadrant|Left,1,0,0
+4,anatomic neoplasm subdivision: Left Upper Outer Quadrant|Left Lower Outer Quadrant|Left,1,0,0
+4,anatomic neoplasm subdivision: Left Upper Outer Quadrant|Right,1,0,0
+4,anatomic neoplasm subdivision: Right Lower Inner Quadrant,1,0,0
+4,anatomic neoplasm subdivision: Right Lower Inner Quadrant|Right,1,0,0
+4,anatomic neoplasm subdivision: Right Lower Inner Quadrant|Right Lower Outer Quadrant,1,0,0
+4,anatomic neoplasm subdivision: Right Lower Inner Quadrant|Right Lower Outer Quadrant|Right,1,0,0
+4,anatomic neoplasm subdivision: Right Lower Outer Quadrant|Right,1,0,0
+4,anatomic neoplasm subdivision: Right Upper Inner Quadrant,1,0,0
+4,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right Lower Inner Quadrant|Right,1,0,0
+4,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right Upper Outer Quadrant,1,0,0
+4,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right Upper Outer Quadrant|Right,1,0,0
+4,anatomic neoplasm subdivision: Right Upper Inner Quadrant|Right Upper Outer Quadrant|Right Lower Inner Quadrant|Right Lower Outer Quadrant|Right,1,0,0
+4,anatomic neoplasm subdivision: Right Upper Outer Quadrant|Left,1,0,0
+4,anatomic neoplasm subdivision: Right Upper Outer Quadrant|Right,1,0,0
+4,anatomic neoplasm subdivision: Right Upper Outer Quadrant|Right Lower Outer Quadrant,1,0,0
+4,anatomic neoplasm subdivision: Right Upper Outer Quadrant|Right Lower Outer Quadrant|Right,1,0,0
+4,axillary lymph node stage method type: No axillary staging,1,0,0
+4,axillary lymph node stage method type: Other (specify),1,0,0
+4,breast carcinoma estrogen receptor status: [Not Evaluated],1,0,0
+4,breast carcinoma immunohistochemistry pos cell score: 0,1,0,0
+4,breast carcinoma immunohistochemistry pos cell score: 1+,1,0,0
+4,breast carcinoma immunohistochemistry pos cell score: 2+,1,0,0
+4,breast carcinoma immunohistochemistry pos cell score: 4+,1,0,0
+4,breast carcinoma progesterone receptor status: [Not Evaluated],1,0,0
+4,er level cell percentage category: 10-19,1,0,0
+4,er level cell percentage category: 40-49,1,0,0
+4,er level cell percentage category: 50-59,1,0,0
+4,er level cell percentage category: 60-69,1,0,0
+4,er level cell percentage category: 70-79,1,0,0
+4,er level cell percentage category: 80-89,1,0,0
+4,her2 erbb pos finding cell percent category: 20-29,1,0,0
+4,her2 erbb pos finding cell percent category: 30-39,1,0,0
+4,her2 erbb pos finding cell percent category: 40-49,1,0,0
+4,her2 erbb pos finding cell percent category: 50-59,1,0,0
+4,her2 erbb pos finding cell percent category: 60-69,1,0,0
+4,her2 erbb pos finding cell percent category: 70-79,1,0,0
+4,her2 erbb pos finding cell percent category: 90-99,1,0,0
+4,histological type: Medullary Carcinoma,1,0,0
+4,histological type: Mixed Histology (please specify),1,0,0
+4,histological type: Mucinous Carcinoma,1,0,0
+4,history of neoadjuvant treatment: Yes,1,0,0
+4,icd 10: C50.2,1,0,0
+4,icd 10: C50.4,1,0,0
+4,icd 10: C50.5,1,0,0
+4,icd o 3 histology: 8013/3,1,0,0
+4,icd o 3 histology: 8022/3,1,0,0
+4,icd o 3 histology: 8050/3,1,0,0
+4,icd o 3 histology: 8401/3,1,0,0
+4,icd o 3 histology: 8480/3,1,0,0
+4,icd o 3 histology: 8502/3,1,0,0
+4,icd o 3 histology: 8503/3,1,0,0
+4,icd o 3 histology: 8510/3,1,0,0
+4,icd o 3 histology: 8523/3,1,0,0
+4,icd o 3 histology: 8524/3,1,0,0
+4,icd o 3 site: C50.1,1,0,0
+4,icd o 3 site: C50.2,1,0,0
+4,immunohistochemistry positive cell score: 0,1,0,0
+4,immunohistochemistry positive cell score: 2+,1,0,0
+4,immunohistochemistry positive cell score: 4+,1,0,0
+4,initial pathologic diagnosis method: Other method, specify:,1,0,0
+4,lab proc her2 neu immunohistochemistry receptor status: Indeterminate,1,0,0
+4,lab procedure her2 neu in situ hybrid outcome type: Equivocal,1,0,0
+4,lab procedure her2 neu in situ hybrid outcome type: Not Performed,1,0,0
+4,menopause status: Indeterminate (neither Pre or Postmenopausal),1,0,0
+4,menopause status: Peri (6-12 months since last menstrual period),1,0,0
+4,number of lymphnodes positive by ihc: 1,1,0,0
+4,pathologic M: M1,1,0,0
+4,pathologic M: cM0 (i+),1,0,0
+4,pathologic N: N0 (i+),1,0,0
+4,pathologic N: N3,1,0,0
+4,pathologic N: N3a,1,0,0
+4,pathologic N: N3c,1,0,0
+4,pathologic T: T4,1,0,0
+4,pathologic T: TX,1,0,0
+4,pathologic stage: Stage IA,1,0,0
+4,pathologic stage: Stage IB,1,0,0
+4,pathologic stage: Stage IIIC,1,0,0
+4,pathologic stage: Stage IV,1,0,0
+4,pathologic stage: Stage Tis,1,0,0
+4,pathologic stage: Stage X,1,0,0
+4,progesterone receptor level cell percent category: 10-19,1,0,0
+4,progesterone receptor level cell percent category: 20-29,1,0,0
+4,progesterone receptor level cell percent category: 40-49,1,0,0
+4,progesterone receptor level cell percent category: 70-79,1,0,0
+4,progesterone receptor level cell percent category: 80-89,1,0,0
+4,race: AMERICAN INDIAN OR ALASKA NATIVE,1,0,0
+4,race: ASIAN,1,0,0
+4,race: BLACK OR AFRICAN AMERICAN,1,0,0
+4,surgical procedure purpose other text: Excisional biopsy,1,0,0
+4,surgical procedure purpose other text: Left segmental mastectomy with axillary lymph node dissection,1,0,0
+4,surgical procedure purpose other text: Left segmental mastectomy with level 1 and level 2 axillary dissection,1,0,0
+4,surgical procedure purpose other text: Modified Radical Masectomy,1,0,0
+4,surgical procedure purpose other text: Modified radical mastectomy with left breast biopsy,1,0,0
+4,surgical procedure purpose other text: Modified radical mastectomy with left sentinel node biopsy,1,0,0
+4,surgical procedure purpose other text: Modified radical mastectomy with sentinel lymph node biopsy and with total mastectomy of left breast,1,0,0
+4,surgical procedure purpose other text: Patey's Surgery,1,0,0
+4,surgical procedure purpose other text: Pateys surgery,1,0,0
+4,surgical procedure purpose other text: Quadrantectomy,1,0,0
+4,surgical procedure purpose other text: Right segmental mastectomy with sentinel lymph node and axillary lymph node biopsy,1,0,0
+4,surgical procedure purpose other text: Right total mastectomy with lymph node left axillary lymph node excision,1,0,0
+4,surgical procedure purpose other text: Segmental mastectomy,1,0,0
+4,surgical procedure purpose other text: Segmental mastectomy with left axillary lymph node dissection,1,0,0
+4,surgical procedure purpose other text: Segmental mastectomy with sentinel axillary lymph node biopsy,1,0,0
+4,surgical procedure purpose other text: Segmental mastectomy with sentinel node biopsy,1,0,0
+4,surgical procedure purpose other text: Simple mastectomy with left lymph node sentinel biopsy,1,0,0
+4,surgical procedure purpose other text: Surgical Resection,1,0,0
+4,surgical procedure purpose other text: Surgical resection,1,0,0
+4,surgical procedure purpose other text: TOTAL MASTECTOMY,1,0,0
+4,surgical procedure purpose other text: Total Mastectomy,1,0,0
+4,surgical procedure purpose other text: Total mastectomy,1,0,0
+4,surgical procedure purpose other text: Total mastectomy with left sentinel lymph node biospy,1,0,0
+4,surgical procedure purpose other text: Total mastectomy with retromammary lymph node excision,1,0,0
+4,surgical procedure purpose other text: Total mastectomy with sentinel lymoh node biopsy,1,0,0
+4,surgical procedure purpose other text: Total mastectomy with sentinel lymph node biopsy,1,0,0
+4,surgical procedure purpose other text: Wide Local Excision,1,0,0
+4,surgical procedure purpose other text: Wide local excision,1,0,0
+4,surgical procedure purpose other text: bilateral total mastectomies with right sentinel node biopsy,1,0,0
+4,surgical procedure purpose other text: biopsy,1,0,0
+4,surgical procedure purpose other text: excisional biopsy,1,0,0
+4,surgical procedure purpose other text: left segmental mastectomy with axillary sentinel lymph node biopsy,1,0,0
+4,surgical procedure purpose other text: left segmental mastectomy with sentinel node dissection,1,0,0
+4,surgical procedure purpose other text: localized segmental mastectomy with axillary node dissection,1,0,0
+4,surgical procedure purpose other text: needle directed right breast biopsy with left segmental mastectomy with axillary lymph node dissection,1,0,0
+4,surgical procedure purpose other text: needle localized segmental mastectomy,1,0,0
+4,surgical procedure purpose other text: quadrantectomy,1,0,0
+4,surgical procedure purpose other text: right total mastectomy with sentinel lymph node dissection right reconstruction with TRAMP,1,0,0
+4,surgical procedure purpose other text: segmental mastectomy with axillary dissection,1,0,0
+4,surgical procedure purpose other text: segmental mastectomy with excision of mass on chest wall and axillary node dissection,1,0,0
+4,surgical procedure purpose other text: segmental mastectomy with sentinel lymph node dissection,1,0,0
+4,surgical procedure purpose other text: segmental mastectomy with sentinel lymph node excision and biopsy,1,0,0
+4,surgical procedure purpose other text: sentinel lymph node biopsy,1,0,0
+4,surgical procedure purpose other text: surgical resection,1,0,0
+4,surgical procedure purpose other text: toilet mastectomy,1,0,0
+4,surgical procedure purpose other text: total mastectomy,1,0,0
+4,surgical procedure purpose other text: total mastectomy and sentinel node biopsy,1,0,0
+4,surgical procedure purpose other text: total mastectomy with rigth axillary lymph node and sentinel lymph node dissection,1,0,0
+4,surgical procedure purpose other text: total mastectomy with sentinel lymph node biopsy with tissue reconstruction,1,0,0
+4,surgical procedure purpose other text: wide local excision,1,0,0
+4,surgical procedure purpose other text: with left axilla sentinel lymph node biopsy,1,0,0
+4,surgical procedure purpose other text: with sentinel lymph node biopsy,1,0,0
+4,anatomic treatment site: Distant Recurrence,1,0,0
+4,anatomic treatment site: Distant Recurrence,Local Recurrence,Primary Tumor Field,1,0,0
+4,anatomic treatment site: Distant Recurrence,Primary Tumor Field,1,0,0
+4,anatomic treatment site: Local Recurrence,1,0,0
+4,anatomic treatment site: Regional site,1,0,0
+4,radiation treatment ongoing: YES,1,0,0
+4,radiation type: EXTERNAL BEAM,IMPLANTS,1,0,0
+4,radiation type: External,1,0,0
+4,radiation type: OTHER: SPECIFY IN NOTES,1,0,0
+4,radiation regimen indication: ADJUVANT,PROGRESSION,RECURRENCE,1,0,0
+4,radiation regimen indication: PALLIATIVE,1,0,0
+4,radiation regimen indication: RECURRENCE,1,0,0
+4,PAM50 sample type: metastatic,1,0,0
+4,PAM50 sample type: tumor,1,0,0
+4,PAM50: Basal,1,0,0
+4,PAM50: Her2,1,0,0
+4,PAM50: LumA,1,0,0
+4,PAM50: LumB,1,0,0

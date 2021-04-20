@@ -1,0 +1,13 @@
+archetype #,Feature Name,P value (Mann-Whitney),Median Difference,Mean Difference,Significant after Benjamini-Hochberg correction?,Is first bin maximal?
+2,Evading Immune Destruction,0.00082007,0.65233,0.65078,1,1
+2,Inducing Angiogenesis,0.00082007,0.53897,0.57337,1,1
+2,Tumor-Promoting Inflammation,0.0013038,0.51865,0.55176,1,1
+2,Resisting Cell Death,0.0014063,0.28946,0.34518,1,1
+2,Activating Invasion and Metastasis,0.016994,0.17898,0.26083,1,1
+2,Sustaining Proliferative Signaling,0.021468,0.16003,0.2324,1,1
+3,Genome Instability and Mutation,0.028477,0.13763,0.15686,1,1
+5,Activating Invasion and Metastasis,0.0041519,0.24688,0.32091,1,1
+5,Sustaining Proliferative Signaling,0.0075805,0.20098,0.27173,1,1
+5,Evading Growth Suppressors,0.0058264,0.18269,0.2576,1,1
+5,Reprogramming Energy Metabolism,0.0044469,0.17039,0.21153,1,1
+5,Enabling Replicative Immortality,0.008624,0.16928,0.27378,1,1

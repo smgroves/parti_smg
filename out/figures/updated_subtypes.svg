@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1789 1024" style="enable-background:new 0 0 1789 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#262626;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#262626;}
+	.st3{font-family:'HelveticaNeue';}
+	.st4{font-size:10px;}
+	.st5{font-size:11px;}
+	.st6{font-family:'HelveticaNeue-Bold';}
+	.st7{fill:none;stroke:#FF0000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#00FF00;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#0000FF;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#FF00FF;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#FFFF00;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st12{font-size:9px;}
+	.st13{fill:none;stroke:#262626;stroke-width:0.5;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" width="1789" height="1024"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+		</g>
+	</g>
+	<g>
+		<path class="st0" d="M232.5,238.5H513V77H232.5V238.5z"/>
+	</g>
+	<g>
+		<line class="st1" x1="232.5" y1="238.5" x2="513" y2="238.5"/>
+		<line class="st1" x1="232.5" y1="238.5" x2="232.5" y2="235.7"/>
+		<line class="st1" x1="288.6" y1="238.5" x2="288.6" y2="235.7"/>
+		<line class="st1" x1="344.7" y1="238.5" x2="344.7" y2="235.7"/>
+		<line class="st1" x1="400.8" y1="238.5" x2="400.8" y2="235.7"/>
+		<line class="st1" x1="456.9" y1="238.5" x2="456.9" y2="235.7"/>
+		<line class="st1" x1="513" y1="238.5" x2="513" y2="235.7"/>
+	</g>
+	<g transform="translate(232.5,242.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(288.6,242.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.2</text>
+	</g>
+	<g transform="translate(344.7,242.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.4</text>
+	</g>
+	<g transform="translate(400.8,242.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.6</text>
+	</g>
+	<g transform="translate(456.9,242.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.8</text>
+	</g>
+	<g transform="translate(513,242.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(372.7501,256)">
+		<text transform="matrix(1 0 0 1 -54.5 11)" class="st2 st3 st5">bin # / number of bins</text>
+	</g>
+	<g>
+		<line class="st1" x1="232.5" y1="238.5" x2="232.5" y2="77"/>
+		<line class="st1" x1="232.5" y1="238.5" x2="235.3" y2="238.5"/>
+		<line class="st1" x1="232.5" y1="198.1" x2="235.3" y2="198.1"/>
+		<line class="st1" x1="232.5" y1="157.8" x2="235.3" y2="157.8"/>
+		<line class="st1" x1="232.5" y1="117.4" x2="235.3" y2="117.4"/>
+		<line class="st1" x1="232.5" y1="77" x2="235.3" y2="77"/>
+	</g>
+	<g transform="translate(228.5,238.5)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(228.5,198.125)">
+		<text transform="matrix(1 0 0 1 -14 3.5)" class="st2 st3 st4">0.5</text>
+	</g>
+	<g transform="translate(228.5,157.75)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(228.5,117.375)">
+		<text transform="matrix(1 0 0 1 -14 3.5)" class="st2 st3 st4">1.5</text>
+	</g>
+	<g transform="translate(228.5,77)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">2</text>
+	</g>
+	<g transform="translate(211.5,157.7499) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -28.0001 -3)" class="st2 st3 st5">enrichment</text>
+	</g>
+	<g transform="translate(372.7504,75.625)">
+		<text transform="matrix(1 0 0 1 -58 -3)" class="st6 st5">feature: source: CCLE</text>
+	</g>
+	<g>
+		<path class="st7" d="M232.5,93.2l31.2,80.7l31.2-16.1l31.2-32.3l31.2,96.9l31.2-32.3l31.2-48.4h31.2l31.2,16.1l31.2,16.1"/>
+		<path class="st8" d="M232.5,157.8l31.2-16.1l31.2,32.3l31.2-48.4l31.2,48.4l31.2-32.3l31.2,32.3l31.2-16.1l31.2,32.3l31.2-48.4"/>
+		<path class="st9" d="M232.5,173.9l31.2-48.4l31.2,32.3l31.2,16.1l31.2,32.3l31.2-32.3l31.2-16.1h31.2l31.2,16.1L513,77"/>
+		<path class="st10" d="M232.5,141.6l31.2,48.4l31.2-32.3H326l31.2,16.1h31.2l31.2,16.2l31.2-32.3h31.2L513,77"/>
+		<path class="st11" d="M232.5,190.1l31.2,16.1l31.2-48.4l31.2,16.1l31.2-16.1l31.2,16.1h31.2l31.2-48.4l31.2,16.2L513,77"/>
+	</g>
+	<g>
+		<path class="st0" d="M601.5,238.5h280V77h-280V238.5z"/>
+	</g>
+	<g>
+		<line class="st1" x1="601.5" y1="238.5" x2="881.5" y2="238.5"/>
+		<line class="st1" x1="601.5" y1="238.5" x2="601.5" y2="235.7"/>
+		<line class="st1" x1="657.5" y1="238.5" x2="657.5" y2="235.7"/>
+		<line class="st1" x1="713.5" y1="238.5" x2="713.5" y2="235.7"/>
+		<line class="st1" x1="769.5" y1="238.5" x2="769.5" y2="235.7"/>
+		<line class="st1" x1="825.5" y1="238.5" x2="825.5" y2="235.7"/>
+		<line class="st1" x1="881.5" y1="238.5" x2="881.5" y2="235.7"/>
+	</g>
+	<g transform="translate(601.5,242.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(657.5,242.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.2</text>
+	</g>
+	<g transform="translate(713.5,242.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.4</text>
+	</g>
+	<g transform="translate(769.5,242.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.6</text>
+	</g>
+	<g transform="translate(825.5,242.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.8</text>
+	</g>
+	<g transform="translate(881.5,242.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(741.5001,256)">
+		<text transform="matrix(1 0 0 1 -54.5 11)" class="st2 st3 st5">bin # / number of bins</text>
+	</g>
+	<g>
+		<line class="st1" x1="601.5" y1="238.5" x2="601.5" y2="77"/>
+		<line class="st1" x1="601.5" y1="238.5" x2="604.3" y2="238.5"/>
+		<line class="st1" x1="601.5" y1="215.4" x2="604.3" y2="215.4"/>
+		<line class="st1" x1="601.5" y1="192.4" x2="604.3" y2="192.4"/>
+		<line class="st1" x1="601.5" y1="169.3" x2="604.3" y2="169.3"/>
+		<line class="st1" x1="601.5" y1="146.2" x2="604.3" y2="146.2"/>
+		<line class="st1" x1="601.5" y1="123.1" x2="604.3" y2="123.1"/>
+		<line class="st1" x1="601.5" y1="100.1" x2="604.3" y2="100.1"/>
+		<line class="st1" x1="601.5" y1="77" x2="604.3" y2="77"/>
+	</g>
+	<g transform="translate(597.5,238.5)">
+		<text transform="matrix(1 0 0 1 -14 3.5)" class="st2 st3 st4">0.2</text>
+	</g>
+	<g transform="translate(597.5,215.4286)">
+		<text transform="matrix(1 0 0 1 -14 3.5)" class="st2 st3 st4">0.4</text>
+	</g>
+	<g transform="translate(597.5,192.3571)">
+		<text transform="matrix(1 0 0 1 -14 3.5)" class="st2 st3 st4">0.6</text>
+	</g>
+	<g transform="translate(597.5,169.2857)">
+		<text transform="matrix(1 0 0 1 -14 3.5)" class="st2 st3 st4">0.8</text>
+	</g>
+	<g transform="translate(597.5,146.2143)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(597.5,123.1429)">
+		<text transform="matrix(1 0 0 1 -14 3.5)" class="st2 st3 st4">1.2</text>
+	</g>
+	<g transform="translate(597.5,100.0714)">
+		<text transform="matrix(1 0 0 1 -14 3.5)" class="st2 st3 st4">1.4</text>
+	</g>
+	<g transform="translate(597.5,77)">
+		<text transform="matrix(1 0 0 1 -14 3.5)" class="st2 st3 st4">1.6</text>
+	</g>
+	<g transform="translate(580.5,157.7499) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -28.0001 -3)" class="st2 st3 st5">enrichment</text>
+	</g>
+	<g transform="translate(741.5007,75.625)">
+		<text transform="matrix(1 0 0 1 -59 -3)" class="st6 st5">feature: source: Minna</text>
+	</g>
+	<g>
+		<path class="st7" d="M601.5,212.1l31.1-82.4l31.1,16.5l31.1,33l31.1-98.9l31.1,33l31.1,49.4h31.1l31.1-16.5l31.1-16.5"/>
+		<path class="st8" d="M601.5,146.2l31.1,16.5l31.1-33l31.1,49.4l31.1-49.4l31.1,33l31.1-33l31.1,16.5l31.1-33l31.1,49.4"/>
+		<path class="st9" d="M601.5,129.7l31.1,49.4l31.1-33l31.1-16.5l31.1-33l31.1,33l31.1,16.5h31.1l31.1-16.5l31.1,98.9"/>
+		<path class="st10" d="M601.5,162.7l31.1-49.4l31.1,33h31.1l31.1-16.5h31.1l31.1-16.5l31.1,33h31.1l31.1,82.4"/>
+		<path class="st11" d="M601.5,113.3l31.1-16.5l31.1,49.4l31.1-16.5l31.1,16.5l31.1-16.5h31.1l31.1,49.4l31.1-16.5l31.1,65.9"/>
+	</g>
+	<g>
+		<path class="st0" d="M970,238.5h280.5V77H970V238.5z"/>
+	</g>
+	<g>
+		<line class="st1" x1="970" y1="238.5" x2="1250.5" y2="238.5"/>
+		<line class="st1" x1="970" y1="238.5" x2="970" y2="235.7"/>
+		<line class="st1" x1="1026.1" y1="238.5" x2="1026.1" y2="235.7"/>
+		<line class="st1" x1="1082.2" y1="238.5" x2="1082.2" y2="235.7"/>
+		<line class="st1" x1="1138.3" y1="238.5" x2="1138.3" y2="235.7"/>
+		<line class="st1" x1="1194.4" y1="238.5" x2="1194.4" y2="235.7"/>
+		<line class="st1" x1="1250.5" y1="238.5" x2="1250.5" y2="235.7"/>
+	</g>
+	<g transform="translate(970,242.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(1026.1,242.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.2</text>
+	</g>
+	<g transform="translate(1082.2,242.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.4</text>
+	</g>
+	<g transform="translate(1138.3,242.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.6</text>
+	</g>
+	<g transform="translate(1194.4,242.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.8</text>
+	</g>
+	<g transform="translate(1250.5,242.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(1110.2501,256)">
+		<text transform="matrix(1 0 0 1 -54.5 11)" class="st2 st3 st5">bin # / number of bins</text>
+	</g>
+	<g>
+		<line class="st1" x1="970" y1="238.5" x2="970" y2="77"/>
+		<line class="st1" x1="970" y1="238.5" x2="972.8" y2="238.5"/>
+		<line class="st1" x1="970" y1="206.2" x2="972.8" y2="206.2"/>
+		<line class="st1" x1="970" y1="173.9" x2="972.8" y2="173.9"/>
+		<line class="st1" x1="970" y1="141.6" x2="972.8" y2="141.6"/>
+		<line class="st1" x1="970" y1="109.3" x2="972.8" y2="109.3"/>
+		<line class="st1" x1="970" y1="77" x2="972.8" y2="77"/>
+	</g>
+	<g transform="translate(966,238.5)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(966,206.2)">
+		<text transform="matrix(1 0 0 1 -14 3.5)" class="st2 st3 st4">0.5</text>
+	</g>
+	<g transform="translate(966,173.9)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(966,141.6)">
+		<text transform="matrix(1 0 0 1 -14 3.5)" class="st2 st3 st4">1.5</text>
+	</g>
+	<g transform="translate(966,109.3)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">2</text>
+	</g>
+	<g transform="translate(966,77)">
+		<text transform="matrix(1 0 0 1 -14 3.5)" class="st2 st3 st4">2.5</text>
+	</g>
+	<g transform="translate(949,157.7499) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -28.0001 -3)" class="st2 st3 st5">enrichment</text>
+	</g>
+	<g transform="translate(1110.2511,75.625)">
+		<text transform="matrix(1 0 0 1 -49.5 -3)" class="st6 st5">feature: subtype: A</text>
+	</g>
+	<g>
+		<path class="st7" d="M970,238.5l31.2-11.7l31.2-23.5l31.2-11.7l31.2-23.5l31.2,11.7L1157,168l31.2-23.5l31.2-23.5l31.2-23.5"/>
+		<path class="st8" d="M970,238.5l31.2-58.7l31.2-11.7l31.2-23.5h31.2l31.2,35.2l31.2-23.5h31.2l31.2,11.7l31.2,35.2"/>
+		<path class="st9" d="M970,238.5l31.2-82.2l31.2-11.7l31.2-35.2l31.2,11.7l31.2,23.5l31.2,11.7l31.2,47l31.2,23.5l31.2,11.7"/>
+		<path class="st10" d="M970,226.8l31.2-58.7l31.2-11.7l31.2-35.2h31.2l31.2,11.7L1157,168h31.2l31.2,70.5h31.2"/>
+		<path class="st11" d="M970,97.6l31.2,23.5l31.2-23.5l31.2,23.5l31.2,35.2l31.2,35.2l31.2,47h31.2h31.2h31.2"/>
+	</g>
+	<g>
+		<path class="st0" d="M1339,238.5h280V77h-280V238.5z"/>
+	</g>
+	<g>
+		<line class="st1" x1="1339" y1="238.5" x2="1619" y2="238.5"/>
+		<line class="st1" x1="1339" y1="238.5" x2="1339" y2="235.7"/>
+		<line class="st1" x1="1395" y1="238.5" x2="1395" y2="235.7"/>
+		<line class="st1" x1="1451" y1="238.5" x2="1451" y2="235.7"/>
+		<line class="st1" x1="1507" y1="238.5" x2="1507" y2="235.7"/>
+		<line class="st1" x1="1563" y1="238.5" x2="1563" y2="235.7"/>
+		<line class="st1" x1="1619" y1="238.5" x2="1619" y2="235.7"/>
+	</g>
+	<g transform="translate(1339,242.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(1395,242.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.2</text>
+	</g>
+	<g transform="translate(1451,242.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.4</text>
+	</g>
+	<g transform="translate(1507,242.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.6</text>
+	</g>
+	<g transform="translate(1563,242.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.8</text>
+	</g>
+	<g transform="translate(1619,242.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(1479.0001,256)">
+		<text transform="matrix(1 0 0 1 -54.5 11)" class="st2 st3 st5">bin # / number of bins</text>
+	</g>
+	<g>
+		<line class="st1" x1="1339" y1="238.5" x2="1339" y2="77"/>
+		<line class="st1" x1="1339" y1="238.5" x2="1341.8" y2="238.5"/>
+		<line class="st1" x1="1339" y1="206.2" x2="1341.8" y2="206.2"/>
+		<line class="st1" x1="1339" y1="173.9" x2="1341.8" y2="173.9"/>
+		<line class="st1" x1="1339" y1="141.6" x2="1341.8" y2="141.6"/>
+		<line class="st1" x1="1339" y1="109.3" x2="1341.8" y2="109.3"/>
+		<line class="st1" x1="1339" y1="77" x2="1341.8" y2="77"/>
+	</g>
+	<g transform="translate(1335,238.5)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(1335,206.2)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(1335,173.9)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">2</text>
+	</g>
+	<g transform="translate(1335,141.6)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">3</text>
+	</g>
+	<g transform="translate(1335,109.3)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">4</text>
+	</g>
+	<g transform="translate(1335,77)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">5</text>
+	</g>
+	<g transform="translate(1326,157.7499) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -28.0001 -3)" class="st2 st3 st5">enrichment</text>
+	</g>
+	<g transform="translate(1479.0015,75.625)">
+		<text transform="matrix(1 0 0 1 -52.5 -3)" class="st6 st5">feature: subtype: A2</text>
+	</g>
+	<g>
+		<path class="st7" d="M1339,225.6l31.1-38.8l31.1-12.9l31.1,38.8l31.1-12.9l31.1,12.9l31.1-12.9l31.1-12.9l31.1,38.8l31.1,12.9"/>
+		<path class="st8" d="M1339,225.6l31.1-25.8l31.1,12.9l31.1-12.9l31.1,12.9l31.1,12.9l31.1-38.8l31.1,25.8h31.1l31.1-38.8"/>
+		<path class="st9" d="M1339,238.5h31.1h31.1h31.1h31.1l31.1-38.8h31.1l31.1-12.9l31.1-38.8l31.1-12.9"/>
+		<path class="st10" d="M1339,96.4l31.1,64.6l31.1,12.9l31.1,51.7l31.1-12.9l31.1,25.8h31.1h31.1h31.1h31.1"/>
+		<path class="st11" d="M1339,238.5h31.1h31.1h31.1l31.1-51.7l31.1,12.9l31.1-51.7l31.1,38.8h31.1l31.1,12.9"/>
+	</g>
+	<g>
+		<path class="st0" d="M232.5,462.5H513V301H232.5V462.5z"/>
+	</g>
+	<g>
+		<line class="st1" x1="232.5" y1="462.5" x2="513" y2="462.5"/>
+		<line class="st1" x1="232.5" y1="462.5" x2="232.5" y2="459.7"/>
+		<line class="st1" x1="288.6" y1="462.5" x2="288.6" y2="459.7"/>
+		<line class="st1" x1="344.7" y1="462.5" x2="344.7" y2="459.7"/>
+		<line class="st1" x1="400.8" y1="462.5" x2="400.8" y2="459.7"/>
+		<line class="st1" x1="456.9" y1="462.5" x2="456.9" y2="459.7"/>
+		<line class="st1" x1="513" y1="462.5" x2="513" y2="459.7"/>
+	</g>
+	<g transform="translate(232.5,466.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(288.6,466.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.2</text>
+	</g>
+	<g transform="translate(344.7,466.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.4</text>
+	</g>
+	<g transform="translate(400.8,466.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.6</text>
+	</g>
+	<g transform="translate(456.9,466.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.8</text>
+	</g>
+	<g transform="translate(513,466.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(372.7501,480)">
+		<text transform="matrix(1 0 0 1 -54.5 11)" class="st2 st3 st5">bin # / number of bins</text>
+	</g>
+	<g>
+		<line class="st1" x1="232.5" y1="462.5" x2="232.5" y2="301"/>
+		<line class="st1" x1="232.5" y1="462.5" x2="235.3" y2="462.5"/>
+		<line class="st1" x1="232.5" y1="435.6" x2="235.3" y2="435.6"/>
+		<line class="st1" x1="232.5" y1="408.7" x2="235.3" y2="408.7"/>
+		<line class="st1" x1="232.5" y1="381.8" x2="235.3" y2="381.8"/>
+		<line class="st1" x1="232.5" y1="354.8" x2="235.3" y2="354.8"/>
+		<line class="st1" x1="232.5" y1="327.9" x2="235.3" y2="327.9"/>
+		<line class="st1" x1="232.5" y1="301" x2="235.3" y2="301"/>
+	</g>
+	<g transform="translate(228.5,462.5)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(228.5,435.5833)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(228.5,408.6667)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">2</text>
+	</g>
+	<g transform="translate(228.5,381.75)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">3</text>
+	</g>
+	<g transform="translate(228.5,354.8333)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">4</text>
+	</g>
+	<g transform="translate(228.5,327.9167)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">5</text>
+	</g>
+	<g transform="translate(228.5,301)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">6</text>
+	</g>
+	<g transform="translate(219.5,381.7499) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -28.0001 -3)" class="st2 st3 st5">enrichment</text>
+	</g>
+	<g transform="translate(372.7504,299.625)">
+		<text transform="matrix(1 0 0 1 -50 -3)" class="st6 st5">feature: subtype: N</text>
+	</g>
+	<g>
+		<path class="st7" d="M232.5,462.5l31.2-29.9l31.2-15H326l31.2,15l31.2-44.9l31.2,44.9l31.2,29.9l31.2-15l31.2,15"/>
+		<path class="st8" d="M232.5,447.5l31.2-15l31.2,15l31.2,15l31.2-29.9l31.2-15l31.2,44.9l31.2-29.9l31.2-29.9l31.2,15"/>
+		<path class="st9" d="M232.5,313l31.2,74.8l31.2,29.9l31.2,44.9h31.2h31.2h31.2h31.2h31.2H513"/>
+		<path class="st10" d="M232.5,462.5h31.2h31.2H326h31.2l31.2-29.9l31.2,15l31.2-29.9l31.2-74.8l31.2,59.8"/>
+		<path class="st11" d="M232.5,462.5l31.2-29.9l31.2,29.9l31.2-15h31.2l31.2-59.8l31.2,29.9l31.2,15l31.2-29.9l31.2,59.8"/>
+	</g>
+	<g>
+		<path class="st0" d="M601.5,462.5h280V301h-280V462.5z"/>
+	</g>
+	<g>
+		<line class="st1" x1="601.5" y1="462.5" x2="881.5" y2="462.5"/>
+		<line class="st1" x1="601.5" y1="462.5" x2="601.5" y2="459.7"/>
+		<line class="st1" x1="657.5" y1="462.5" x2="657.5" y2="459.7"/>
+		<line class="st1" x1="713.5" y1="462.5" x2="713.5" y2="459.7"/>
+		<line class="st1" x1="769.5" y1="462.5" x2="769.5" y2="459.7"/>
+		<line class="st1" x1="825.5" y1="462.5" x2="825.5" y2="459.7"/>
+		<line class="st1" x1="881.5" y1="462.5" x2="881.5" y2="459.7"/>
+	</g>
+	<g transform="translate(601.5,466.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(657.5,466.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.2</text>
+	</g>
+	<g transform="translate(713.5,466.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.4</text>
+	</g>
+	<g transform="translate(769.5,466.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.6</text>
+	</g>
+	<g transform="translate(825.5,466.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.8</text>
+	</g>
+	<g transform="translate(881.5,466.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(741.5001,480)">
+		<text transform="matrix(1 0 0 1 -54.5 11)" class="st2 st3 st5">bin # / number of bins</text>
+	</g>
+	<g>
+		<line class="st1" x1="601.5" y1="462.5" x2="601.5" y2="301"/>
+		<line class="st1" x1="601.5" y1="462.5" x2="604.3" y2="462.5"/>
+		<line class="st1" x1="601.5" y1="435.6" x2="604.3" y2="435.6"/>
+		<line class="st1" x1="601.5" y1="408.7" x2="604.3" y2="408.7"/>
+		<line class="st1" x1="601.5" y1="381.8" x2="604.3" y2="381.8"/>
+		<line class="st1" x1="601.5" y1="354.8" x2="604.3" y2="354.8"/>
+		<line class="st1" x1="601.5" y1="327.9" x2="604.3" y2="327.9"/>
+		<line class="st1" x1="601.5" y1="301" x2="604.3" y2="301"/>
+	</g>
+	<g transform="translate(597.5,462.5)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(597.5,435.5833)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">2</text>
+	</g>
+	<g transform="translate(597.5,408.6667)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">4</text>
+	</g>
+	<g transform="translate(597.5,381.75)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">6</text>
+	</g>
+	<g transform="translate(597.5,354.8333)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">8</text>
+	</g>
+	<g transform="translate(597.5,327.9167)">
+		<text transform="matrix(1 0 0 1 -12 3.5)" class="st2 st3 st4">10</text>
+	</g>
+	<g transform="translate(597.5,301)">
+		<text transform="matrix(1 0 0 1 -12 3.5)" class="st2 st3 st4">12</text>
+	</g>
+	<g transform="translate(583,381.7499) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -28.0001 -3)" class="st2 st3 st5">enrichment</text>
+	</g>
+	<g transform="translate(741.5007,299.625)">
+		<text transform="matrix(1 0 0 1 -49.5 -3)" class="st6 st5">feature: subtype: P</text>
+	</g>
+	<g>
+		<path class="st7" d="M601.5,435.6l31.1-13.5l31.1,40.4l31.1-40.4l31.1,26.9l31.1,13.5l31.1-13.5l31.1,13.5h31.1h31.1"/>
+		<path class="st8" d="M601.5,327.9l31.1,134.6h31.1h31.1h31.1h31.1h31.1h31.1h31.1h31.1"/>
+		<path class="st9" d="M601.5,462.5h31.1h31.1l31.1-13.5l31.1-13.5l31.1,13.5l31.1,13.5l31.1-26.9l31.1-26.9l31.1,53.8"/>
+		<path class="st10" d="M601.5,462.5h31.1h31.1h31.1h31.1l31.1-13.5l31.1-53.8l31.1,40.4h31.1l31.1,26.9"/>
+		<path class="st11" d="M601.5,462.5h31.1h31.1h31.1h31.1h31.1l31.1-13.5l31.1-53.8l31.1,26.9l31.1,26.9"/>
+	</g>
+	<g>
+		<path class="st0" d="M970,462.5h280.5V301H970V462.5z"/>
+	</g>
+	<g>
+		<line class="st1" x1="970" y1="462.5" x2="1250.5" y2="462.5"/>
+		<line class="st1" x1="970" y1="462.5" x2="970" y2="459.7"/>
+		<line class="st1" x1="1026.1" y1="462.5" x2="1026.1" y2="459.7"/>
+		<line class="st1" x1="1082.2" y1="462.5" x2="1082.2" y2="459.7"/>
+		<line class="st1" x1="1138.3" y1="462.5" x2="1138.3" y2="459.7"/>
+		<line class="st1" x1="1194.4" y1="462.5" x2="1194.4" y2="459.7"/>
+		<line class="st1" x1="1250.5" y1="462.5" x2="1250.5" y2="459.7"/>
+	</g>
+	<g transform="translate(970,466.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(1026.1,466.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.2</text>
+	</g>
+	<g transform="translate(1082.2,466.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.4</text>
+	</g>
+	<g transform="translate(1138.3,466.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.6</text>
+	</g>
+	<g transform="translate(1194.4,466.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.8</text>
+	</g>
+	<g transform="translate(1250.5,466.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(1110.2501,480)">
+		<text transform="matrix(1 0 0 1 -54.5 11)" class="st2 st3 st5">bin # / number of bins</text>
+	</g>
+	<g>
+		<line class="st1" x1="970" y1="462.5" x2="970" y2="301"/>
+		<line class="st1" x1="970" y1="462.5" x2="972.8" y2="462.5"/>
+		<line class="st1" x1="970" y1="430.2" x2="972.8" y2="430.2"/>
+		<line class="st1" x1="970" y1="397.9" x2="972.8" y2="397.9"/>
+		<line class="st1" x1="970" y1="365.6" x2="972.8" y2="365.6"/>
+		<line class="st1" x1="970" y1="333.3" x2="972.8" y2="333.3"/>
+		<line class="st1" x1="970" y1="301" x2="972.8" y2="301"/>
+	</g>
+	<g transform="translate(966,462.5)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(966,430.2)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">2</text>
+	</g>
+	<g transform="translate(966,397.9)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">4</text>
+	</g>
+	<g transform="translate(966,365.6)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">6</text>
+	</g>
+	<g transform="translate(966,333.3)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">8</text>
+	</g>
+	<g transform="translate(966,301)">
+		<text transform="matrix(1 0 0 1 -12 3.5)" class="st2 st3 st4">10</text>
+	</g>
+	<g transform="translate(951.5,381.7499) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -28.0001 -3)" class="st2 st3 st5">enrichment</text>
+	</g>
+	<g transform="translate(1110.2511,299.625)">
+		<text transform="matrix(1 0 0 1 -49.5 -3)" class="st6 st5">feature: subtype: Y</text>
+	</g>
+	<g>
+		<path class="st7" d="M970,321.2l31.2,121.1l31.2,20.2h31.2h31.2h31.2h31.2h31.2h31.2h31.2"/>
+		<path class="st8" d="M970,462.5l31.2-20.2l31.2-40.4l31.2,40.4l31.2,20.2l31.2-60.6l31.2,60.6h31.2h31.2h31.2"/>
+		<path class="st9" d="M970,462.5h31.2h31.2h31.2h31.2h31.2l31.2-40.4l31.2-20.2l31.2,60.6l31.2-60.6"/>
+		<path class="st10" d="M970,462.5h31.2h31.2l31.2-20.2l31.2,20.2h31.2h31.2h31.2h31.2l31.2-141.3"/>
+		<path class="st11" d="M970,462.5h31.2h31.2l31.2-20.2l31.2,20.2h31.2h31.2h31.2h31.2l31.2-141.3"/>
+	</g>
+	<g>
+		<path class="st0" d="M1339,462.5h280V301h-280V462.5z"/>
+	</g>
+	<g>
+		<line class="st1" x1="1339" y1="462.5" x2="1619" y2="462.5"/>
+		<line class="st1" x1="1339" y1="462.5" x2="1339" y2="459.7"/>
+		<line class="st1" x1="1395" y1="462.5" x2="1395" y2="459.7"/>
+		<line class="st1" x1="1451" y1="462.5" x2="1451" y2="459.7"/>
+		<line class="st1" x1="1507" y1="462.5" x2="1507" y2="459.7"/>
+		<line class="st1" x1="1563" y1="462.5" x2="1563" y2="459.7"/>
+		<line class="st1" x1="1619" y1="462.5" x2="1619" y2="459.7"/>
+	</g>
+	<g transform="translate(1339,466.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(1395,466.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.2</text>
+	</g>
+	<g transform="translate(1451,466.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.4</text>
+	</g>
+	<g transform="translate(1507,466.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.6</text>
+	</g>
+	<g transform="translate(1563,466.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.8</text>
+	</g>
+	<g transform="translate(1619,466.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(1479.0001,480)">
+		<text transform="matrix(1 0 0 1 -54.5 11)" class="st2 st3 st5">bin # / number of bins</text>
+	</g>
+	<g>
+		<line class="st1" x1="1339" y1="462.5" x2="1339" y2="301"/>
+		<line class="st1" x1="1339" y1="462.5" x2="1341.8" y2="462.5"/>
+		<line class="st1" x1="1339" y1="430.2" x2="1341.8" y2="430.2"/>
+		<line class="st1" x1="1339" y1="397.9" x2="1341.8" y2="397.9"/>
+		<line class="st1" x1="1339" y1="365.6" x2="1341.8" y2="365.6"/>
+		<line class="st1" x1="1339" y1="333.3" x2="1341.8" y2="333.3"/>
+		<line class="st1" x1="1339" y1="301" x2="1341.8" y2="301"/>
+	</g>
+	<g transform="translate(1335,462.5)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(1335,430.2)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(1335,397.9)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">2</text>
+	</g>
+	<g transform="translate(1335,365.6)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">3</text>
+	</g>
+	<g transform="translate(1335,333.3)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">4</text>
+	</g>
+	<g transform="translate(1335,301)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">5</text>
+	</g>
+	<g transform="translate(1326,381.7499) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -28.0001 -3)" class="st2 st3 st5">enrichment</text>
+	</g>
+	<g transform="translate(1479.0015,299.625)">
+		<text transform="matrix(1 0 0 1 -57 -3)" class="st6 st5">feature: subtype: uncl</text>
+	</g>
+	<g>
+		<path class="st7" d="M1339,301l31.1,80.8h31.1l31.1,80.8h31.1h31.1h31.1h31.1h31.1h31.1"/>
+		<path class="st8" d="M1339,462.5l31.1-80.8l31.1,80.8h31.1h31.1h31.1l31.1-80.8h31.1l31.1,80.8l31.1-80.8"/>
+		<path class="st9" d="M1339,301l31.1,161.5l31.1-80.8l31.1,80.8h31.1h31.1h31.1h31.1h31.1l31.1-80.8"/>
+		<path class="st10" d="M1339,462.5h31.1h31.1h31.1h31.1h31.1h31.1l31.1-80.8l31.1-80.8l31.1,80.8"/>
+		<path class="st11" d="M1339,462.5h31.1h31.1h31.1h31.1h31.1l31.1-80.8h31.1h31.1h31.1"/>
+	</g>
+	<g>
+		<path class="st0" d="M232.5,687H513V525.5H232.5V687z"/>
+	</g>
+	<g>
+		<line class="st1" x1="232.5" y1="687" x2="513" y2="687"/>
+		<line class="st1" x1="232.5" y1="687" x2="232.5" y2="684.2"/>
+		<line class="st1" x1="288.6" y1="687" x2="288.6" y2="684.2"/>
+		<line class="st1" x1="344.7" y1="687" x2="344.7" y2="684.2"/>
+		<line class="st1" x1="400.8" y1="687" x2="400.8" y2="684.2"/>
+		<line class="st1" x1="456.9" y1="687" x2="456.9" y2="684.2"/>
+		<line class="st1" x1="513" y1="687" x2="513" y2="684.2"/>
+	</g>
+	<g transform="translate(232.5,691)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(288.6,691)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.2</text>
+	</g>
+	<g transform="translate(344.7,691)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.4</text>
+	</g>
+	<g transform="translate(400.8,691)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.6</text>
+	</g>
+	<g transform="translate(456.9,691)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.8</text>
+	</g>
+	<g transform="translate(513,691)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(372.7501,704.5)">
+		<text transform="matrix(1 0 0 1 -54.5 11)" class="st2 st3 st5">bin # / number of bins</text>
+	</g>
+	<g>
+		<line class="st1" x1="232.5" y1="687" x2="232.5" y2="525.5"/>
+		<line class="st1" x1="232.5" y1="687" x2="235.3" y2="687"/>
+		<line class="st1" x1="232.5" y1="654.7" x2="235.3" y2="654.7"/>
+		<line class="st1" x1="232.5" y1="622.4" x2="235.3" y2="622.4"/>
+		<line class="st1" x1="232.5" y1="590.1" x2="235.3" y2="590.1"/>
+		<line class="st1" x1="232.5" y1="557.8" x2="235.3" y2="557.8"/>
+		<line class="st1" x1="232.5" y1="525.5" x2="235.3" y2="525.5"/>
+	</g>
+	<g transform="translate(228.5,687)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(228.5,654.7)">
+		<text transform="matrix(1 0 0 1 -14 3.5)" class="st2 st3 st4">0.5</text>
+	</g>
+	<g transform="translate(228.5,622.4)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(228.5,590.1)">
+		<text transform="matrix(1 0 0 1 -14 3.5)" class="st2 st3 st4">1.5</text>
+	</g>
+	<g transform="translate(228.5,557.8)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">2</text>
+	</g>
+	<g transform="translate(228.5,525.5)">
+		<text transform="matrix(1 0 0 1 -14 3.5)" class="st2 st3 st4">2.5</text>
+	</g>
+	<g transform="translate(211.5,606.2499) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -28.0001 -3)" class="st2 st3 st5">enrichment</text>
+	</g>
+	<g transform="translate(372.7504,524.125)">
+		<text transform="matrix(1 0 0 1 -63 -3)" class="st6 st5">feature: NEW 10 2020: A</text>
+	</g>
+	<g>
+		<path class="st7" d="M232.5,687l31.2-26.9l31.2-13.5H326l31.2-40.4l31.2,40.4l31.2-40.4l31.2,13.5l31.2-67.3H513"/>
+		<path class="st8" d="M232.5,687l31.2-40.4l31.2-40.4H326l31.2-13.5l31.2,26.9l31.2-13.5l31.2-13.5l31.2,26.9l31.2,26.9"/>
+		<path class="st9" d="M232.5,687l31.2-40.4l31.2-53.8L326,539l31.2,13.5l31.2,53.8l31.2-26.9l31.2,67.3l31.2,40.4H513"/>
+		<path class="st10" d="M232.5,687l31.2-67.3l31.2-13.5L326,539l31.2,13.5l31.2,26.9l31.2,53.8h31.2l31.2,53.8H513"/>
+		<path class="st11" d="M232.5,525.5l31.2,26.9l31.2-13.5l31.2,40.4l31.2,40.4l31.2,40.4l31.2,26.9h31.2h31.2H513"/>
+	</g>
+	<g>
+		<path class="st0" d="M601.5,687h280V525.5h-280V687z"/>
+	</g>
+	<g>
+		<line class="st1" x1="601.5" y1="687" x2="881.5" y2="687"/>
+		<line class="st1" x1="601.5" y1="687" x2="601.5" y2="684.2"/>
+		<line class="st1" x1="657.5" y1="687" x2="657.5" y2="684.2"/>
+		<line class="st1" x1="713.5" y1="687" x2="713.5" y2="684.2"/>
+		<line class="st1" x1="769.5" y1="687" x2="769.5" y2="684.2"/>
+		<line class="st1" x1="825.5" y1="687" x2="825.5" y2="684.2"/>
+		<line class="st1" x1="881.5" y1="687" x2="881.5" y2="684.2"/>
+	</g>
+	<g transform="translate(601.5,691)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(657.5,691)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.2</text>
+	</g>
+	<g transform="translate(713.5,691)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.4</text>
+	</g>
+	<g transform="translate(769.5,691)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.6</text>
+	</g>
+	<g transform="translate(825.5,691)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.8</text>
+	</g>
+	<g transform="translate(881.5,691)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(741.5001,704.5)">
+		<text transform="matrix(1 0 0 1 -54.5 11)" class="st2 st3 st5">bin # / number of bins</text>
+	</g>
+	<g>
+		<line class="st1" x1="601.5" y1="687" x2="601.5" y2="525.5"/>
+		<line class="st1" x1="601.5" y1="687" x2="604.3" y2="687"/>
+		<line class="st1" x1="601.5" y1="654.7" x2="604.3" y2="654.7"/>
+		<line class="st1" x1="601.5" y1="622.4" x2="604.3" y2="622.4"/>
+		<line class="st1" x1="601.5" y1="590.1" x2="604.3" y2="590.1"/>
+		<line class="st1" x1="601.5" y1="557.8" x2="604.3" y2="557.8"/>
+		<line class="st1" x1="601.5" y1="525.5" x2="604.3" y2="525.5"/>
+	</g>
+	<g transform="translate(597.5,687)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(597.5,654.7)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(597.5,622.4)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">2</text>
+	</g>
+	<g transform="translate(597.5,590.1)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">3</text>
+	</g>
+	<g transform="translate(597.5,557.8)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">4</text>
+	</g>
+	<g transform="translate(597.5,525.5)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">5</text>
+	</g>
+	<g transform="translate(588.5,606.2499) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -28.0001 -3)" class="st2 st3 st5">enrichment</text>
+	</g>
+	<g transform="translate(741.5007,524.125)">
+		<text transform="matrix(1 0 0 1 -66 -3)" class="st6 st5">feature: NEW 10 2020: A2</text>
+	</g>
+	<g>
+		<path class="st7" d="M601.5,675.5l31.1-34.6l31.1-11.5l31.1,34.6l31.1-11.5h31.1h31.1l31.1-23.1l31.1,46.1h31.1"/>
+		<path class="st8" d="M601.5,675.5l31.1-23.1h31.1l31.1-11.5l31.1,11.5l31.1,23.1l31.1-34.6l31.1,23.1h31.1l31.1-34.6"/>
+		<path class="st9" d="M601.5,687h31.1h31.1h31.1h31.1l31.1-57.7l31.1,23.1l31.1-11.5l31.1-46.1h31.1"/>
+		<path class="st10" d="M601.5,548.6l31.1,57.7l31.1,11.5l31.1,57.7l31.1-11.5l31.1,23.1h31.1h31.1h31.1h31.1"/>
+		<path class="st11" d="M601.5,687h31.1h31.1l31.1-11.5l31.1-34.6l31.1-11.5l31.1-23.1l31.1,34.6h31.1l31.1,11.5"/>
+	</g>
+	<g>
+		<path class="st0" d="M970,687h280.5V525.5H970V687z"/>
+	</g>
+	<g>
+		<line class="st1" x1="970" y1="687" x2="1250.5" y2="687"/>
+		<line class="st1" x1="970" y1="687" x2="970" y2="684.2"/>
+		<line class="st1" x1="1026.1" y1="687" x2="1026.1" y2="684.2"/>
+		<line class="st1" x1="1082.2" y1="687" x2="1082.2" y2="684.2"/>
+		<line class="st1" x1="1138.3" y1="687" x2="1138.3" y2="684.2"/>
+		<line class="st1" x1="1194.4" y1="687" x2="1194.4" y2="684.2"/>
+		<line class="st1" x1="1250.5" y1="687" x2="1250.5" y2="684.2"/>
+	</g>
+	<g transform="translate(970,691)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(1026.1,691)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.2</text>
+	</g>
+	<g transform="translate(1082.2,691)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.4</text>
+	</g>
+	<g transform="translate(1138.3,691)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.6</text>
+	</g>
+	<g transform="translate(1194.4,691)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.8</text>
+	</g>
+	<g transform="translate(1250.5,691)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(1110.2501,704.5)">
+		<text transform="matrix(1 0 0 1 -54.5 11)" class="st2 st3 st5">bin # / number of bins</text>
+	</g>
+	<g>
+		<line class="st1" x1="970" y1="687" x2="970" y2="525.5"/>
+		<line class="st1" x1="970" y1="687" x2="972.8" y2="687"/>
+		<line class="st1" x1="970" y1="654.7" x2="972.8" y2="654.7"/>
+		<line class="st1" x1="970" y1="622.4" x2="972.8" y2="622.4"/>
+		<line class="st1" x1="970" y1="590.1" x2="972.8" y2="590.1"/>
+		<line class="st1" x1="970" y1="557.8" x2="972.8" y2="557.8"/>
+		<line class="st1" x1="970" y1="525.5" x2="972.8" y2="525.5"/>
+	</g>
+	<g transform="translate(966,687)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(966,654.7)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(966,622.4)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">2</text>
+	</g>
+	<g transform="translate(966,590.1)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">3</text>
+	</g>
+	<g transform="translate(966,557.8)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">4</text>
+	</g>
+	<g transform="translate(966,525.5)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">5</text>
+	</g>
+	<g transform="translate(957,606.2499) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -28.0001 -3)" class="st2 st3 st5">enrichment</text>
+	</g>
+	<g transform="translate(1110.2511,524.125)">
+		<text transform="matrix(1 0 0 1 -63.5 -3)" class="st6 st5">feature: NEW 10 2020: N</text>
+	</g>
+	<g>
+		<path class="st7" d="M970,687l31.2-38.8l31.2-12.9h31.2l31.2,25.8l31.2-51.7l31.2,51.7h31.2l31.2,12.9h31.2"/>
+		<path class="st8" d="M970,674.1l31.2-38.8l31.2,38.8h31.2l31.2-12.9l31.2-12.9l31.2,12.9l31.2-12.9l31.2-25.8l31.2,25.8"/>
+		<path class="st9" d="M970,532l31.2,38.8l31.2,64.6l31.2,51.7h31.2h31.2h31.2h31.2h31.2h31.2"/>
+		<path class="st10" d="M970,687h31.2h31.2h31.2h31.2l31.2-38.8h31.2l31.2-25.8l31.2-64.6l31.2,77.5"/>
+		<path class="st11" d="M970,687l31.2-25.8l31.2,12.9l31.2-25.8h31.2l31.2-25.8l31.2,12.9l31.2,25.8l31.2-38.8l31.2,64.6"/>
+	</g>
+	<g>
+		<path class="st0" d="M1339,687h280V525.5h-280V687z"/>
+	</g>
+	<g>
+		<line class="st1" x1="1339" y1="687" x2="1619" y2="687"/>
+		<line class="st1" x1="1339" y1="687" x2="1339" y2="684.2"/>
+		<line class="st1" x1="1395" y1="687" x2="1395" y2="684.2"/>
+		<line class="st1" x1="1451" y1="687" x2="1451" y2="684.2"/>
+		<line class="st1" x1="1507" y1="687" x2="1507" y2="684.2"/>
+		<line class="st1" x1="1563" y1="687" x2="1563" y2="684.2"/>
+		<line class="st1" x1="1619" y1="687" x2="1619" y2="684.2"/>
+	</g>
+	<g transform="translate(1339,691)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(1395,691)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.2</text>
+	</g>
+	<g transform="translate(1451,691)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.4</text>
+	</g>
+	<g transform="translate(1507,691)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.6</text>
+	</g>
+	<g transform="translate(1563,691)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.8</text>
+	</g>
+	<g transform="translate(1619,691)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(1479.0001,704.5)">
+		<text transform="matrix(1 0 0 1 -54.5 11)" class="st2 st3 st5">bin # / number of bins</text>
+	</g>
+	<g>
+		<line class="st1" x1="1339" y1="687" x2="1339" y2="525.5"/>
+		<line class="st1" x1="1339" y1="687" x2="1341.8" y2="687"/>
+		<line class="st1" x1="1339" y1="660.1" x2="1341.8" y2="660.1"/>
+		<line class="st1" x1="1339" y1="633.2" x2="1341.8" y2="633.2"/>
+		<line class="st1" x1="1339" y1="606.2" x2="1341.8" y2="606.2"/>
+		<line class="st1" x1="1339" y1="579.3" x2="1341.8" y2="579.3"/>
+		<line class="st1" x1="1339" y1="552.4" x2="1341.8" y2="552.4"/>
+		<line class="st1" x1="1339" y1="525.5" x2="1341.8" y2="525.5"/>
+	</g>
+	<g transform="translate(1335,687)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(1335,660.0833)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">2</text>
+	</g>
+	<g transform="translate(1335,633.1667)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">4</text>
+	</g>
+	<g transform="translate(1335,606.25)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">6</text>
+	</g>
+	<g transform="translate(1335,579.3333)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">8</text>
+	</g>
+	<g transform="translate(1335,552.4167)">
+		<text transform="matrix(1 0 0 1 -12 3.5)" class="st2 st3 st4">10</text>
+	</g>
+	<g transform="translate(1335,525.5)">
+		<text transform="matrix(1 0 0 1 -12 3.5)" class="st2 st3 st4">12</text>
+	</g>
+	<g transform="translate(1320.5,606.2499) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -28.0001 -3)" class="st2 st3 st5">enrichment</text>
+	</g>
+	<g transform="translate(1479.0015,524.125)">
+		<text transform="matrix(1 0 0 1 -63 -3)" class="st6 st5">feature: NEW 10 2020: P</text>
+	</g>
+	<g>
+		<path class="st7" d="M1339,660.1l31.1-13.5l31.1,40.4l31.1-40.4l31.1,26.9l31.1,13.5l31.1-13.5l31.1,13.5h31.1h31.1"/>
+		<path class="st8" d="M1339,552.4l31.1,134.6h31.1h31.1h31.1h31.1h31.1h31.1h31.1h31.1"/>
+		<path class="st9" d="M1339,687h31.1h31.1l31.1-13.5l31.1-13.5l31.1,13.5l31.1,13.5l31.1-26.9l31.1-26.9L1619,687"/>
+		<path class="st10" d="M1339,687h31.1h31.1h31.1h31.1l31.1-13.5l31.1-53.8l31.1,40.4h31.1L1619,687"/>
+		<path class="st11" d="M1339,687h31.1h31.1h31.1h31.1h31.1l31.1-13.5l31.1-53.8l31.1,26.9l31.1,26.9"/>
+	</g>
+	<g>
+		<path class="st0" d="M232.5,911.5H513V750H232.5V911.5z"/>
+	</g>
+	<g>
+		<line class="st1" x1="232.5" y1="911.5" x2="513" y2="911.5"/>
+		<line class="st1" x1="232.5" y1="911.5" x2="232.5" y2="908.7"/>
+		<line class="st1" x1="288.6" y1="911.5" x2="288.6" y2="908.7"/>
+		<line class="st1" x1="344.7" y1="911.5" x2="344.7" y2="908.7"/>
+		<line class="st1" x1="400.8" y1="911.5" x2="400.8" y2="908.7"/>
+		<line class="st1" x1="456.9" y1="911.5" x2="456.9" y2="908.7"/>
+		<line class="st1" x1="513" y1="911.5" x2="513" y2="908.7"/>
+	</g>
+	<g transform="translate(232.5,915.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(288.6,915.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.2</text>
+	</g>
+	<g transform="translate(344.7,915.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.4</text>
+	</g>
+	<g transform="translate(400.8,915.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.6</text>
+	</g>
+	<g transform="translate(456.9,915.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.8</text>
+	</g>
+	<g transform="translate(513,915.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(372.7501,929)">
+		<text transform="matrix(1 0 0 1 -54.5 11)" class="st2 st3 st5">bin # / number of bins</text>
+	</g>
+	<g>
+		<line class="st1" x1="232.5" y1="911.5" x2="232.5" y2="750"/>
+		<line class="st1" x1="232.5" y1="911.5" x2="235.3" y2="911.5"/>
+		<line class="st1" x1="232.5" y1="879.2" x2="235.3" y2="879.2"/>
+		<line class="st1" x1="232.5" y1="846.9" x2="235.3" y2="846.9"/>
+		<line class="st1" x1="232.5" y1="814.6" x2="235.3" y2="814.6"/>
+		<line class="st1" x1="232.5" y1="782.3" x2="235.3" y2="782.3"/>
+		<line class="st1" x1="232.5" y1="750" x2="235.3" y2="750"/>
+	</g>
+	<g transform="translate(228.5,911.5)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(228.5,879.2)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">2</text>
+	</g>
+	<g transform="translate(228.5,846.9)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">4</text>
+	</g>
+	<g transform="translate(228.5,814.6)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">6</text>
+	</g>
+	<g transform="translate(228.5,782.3)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">8</text>
+	</g>
+	<g transform="translate(228.5,750)">
+		<text transform="matrix(1 0 0 1 -12 3.5)" class="st2 st3 st4">10</text>
+	</g>
+	<g transform="translate(214,830.7499) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -28.0001 -3)" class="st2 st3 st5">enrichment</text>
+	</g>
+	<g transform="translate(372.7504,748.625)">
+		<text transform="matrix(1 0 0 1 -63 -3)" class="st6 st5">feature: NEW 10 2020: Y</text>
+	</g>
+	<g>
+		<path class="st7" d="M232.5,750l31.2,161.5h31.2H326h31.2h31.2h31.2h31.2h31.2H513"/>
+		<path class="st8" d="M232.5,911.5l31.2-35.9h31.2l31.2,17.9l31.2,17.9l31.2-53.8l31.2,53.8h31.2h31.2l31.2-17.9"/>
+		<path class="st9" d="M232.5,911.5h31.2l31.2-17.9l31.2,17.9h31.2h31.2l31.2-17.9l31.2-35.9l31.2,53.8l31.2-71.8"/>
+		<path class="st10" d="M232.5,911.5h31.2h31.2H326h31.2h31.2h31.2l31.2-17.9l31.2,17.9L513,767.9"/>
+		<path class="st11" d="M232.5,911.5h31.2h31.2H326h31.2h31.2h31.2l31.2-17.9l31.2,17.9L513,767.9"/>
+	</g>
+	<g>
+		<path class="st0" d="M601.5,911.5h280V750h-280V911.5z"/>
+	</g>
+	<g>
+		<line class="st1" x1="601.5" y1="911.5" x2="881.5" y2="911.5"/>
+		<line class="st1" x1="601.5" y1="911.5" x2="601.5" y2="908.7"/>
+		<line class="st1" x1="657.5" y1="911.5" x2="657.5" y2="908.7"/>
+		<line class="st1" x1="713.5" y1="911.5" x2="713.5" y2="908.7"/>
+		<line class="st1" x1="769.5" y1="911.5" x2="769.5" y2="908.7"/>
+		<line class="st1" x1="825.5" y1="911.5" x2="825.5" y2="908.7"/>
+		<line class="st1" x1="881.5" y1="911.5" x2="881.5" y2="908.7"/>
+	</g>
+	<g transform="translate(601.5,915.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(657.5,915.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.2</text>
+	</g>
+	<g transform="translate(713.5,915.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.4</text>
+	</g>
+	<g transform="translate(769.5,915.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.6</text>
+	</g>
+	<g transform="translate(825.5,915.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.8</text>
+	</g>
+	<g transform="translate(881.5,915.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(741.5001,929)">
+		<text transform="matrix(1 0 0 1 -54.5 11)" class="st2 st3 st5">bin # / number of bins</text>
+	</g>
+	<g>
+		<line class="st1" x1="601.5" y1="911.5" x2="601.5" y2="750"/>
+		<line class="st1" x1="601.5" y1="911.5" x2="604.3" y2="911.5"/>
+		<line class="st1" x1="601.5" y1="879.2" x2="604.3" y2="879.2"/>
+		<line class="st1" x1="601.5" y1="846.9" x2="604.3" y2="846.9"/>
+		<line class="st1" x1="601.5" y1="814.6" x2="604.3" y2="814.6"/>
+		<line class="st1" x1="601.5" y1="782.3" x2="604.3" y2="782.3"/>
+		<line class="st1" x1="601.5" y1="750" x2="604.3" y2="750"/>
+	</g>
+	<g transform="translate(597.5,911.5)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(597.5,879.2)">
+		<text transform="matrix(1 0 0 1 -14 3.5)" class="st2 st3 st4">0.5</text>
+	</g>
+	<g transform="translate(597.5,846.9)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(597.5,814.6)">
+		<text transform="matrix(1 0 0 1 -14 3.5)" class="st2 st3 st4">1.5</text>
+	</g>
+	<g transform="translate(597.5,782.3)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">2</text>
+	</g>
+	<g transform="translate(597.5,750)">
+		<text transform="matrix(1 0 0 1 -14 3.5)" class="st2 st3 st4">2.5</text>
+	</g>
+	<g transform="translate(580.5,830.7499) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -28.0001 -3)" class="st2 st3 st5">enrichment</text>
+	</g>
+	<g transform="translate(741.5007,748.625)">
+		<text transform="matrix(1 0 0 1 -56.5 -3)" class="st6 st5">feature: 10 08 2020: A</text>
+	</g>
+	<g>
+		<path class="st7" d="M601.5,911.5l31.1-23.1l31.1-11.5l31.1-34.6h31.1l31.1,11.5l31.1-23.1l31.1,11.5l31.1-46.1l31.1-11.5"/>
+		<path class="st8" d="M601.5,911.5l31.1-57.7l31.1-23.1h31.1h31.1l31.1,11.5l31.1-11.5h31.1h31.1l31.1,46.1"/>
+		<path class="st9" d="M601.5,911.5l31.1-80.8l31.1-34.6l31.1-11.5l31.1,11.5l31.1,34.6l31.1-11.5l31.1,57.7l31.1,34.6h31.1"/>
+		<path class="st10" d="M601.5,911.5l31.1-57.7l31.1-23.1l31.1-46.1l31.1,11.5l31.1-11.5l31.1,57.7h31.1l31.1,69.2h31.1"/>
+		<path class="st11" d="M601.5,773.1h31.1h31.1l31.1,11.5l31.1,57.7l31.1,34.6l31.1,34.6h31.1h31.1h31.1"/>
+	</g>
+	<g>
+		<path class="st0" d="M970,911.5h280.5V750H970V911.5z"/>
+	</g>
+	<g>
+		<line class="st1" x1="970" y1="911.5" x2="1250.5" y2="911.5"/>
+		<line class="st1" x1="970" y1="911.5" x2="970" y2="908.7"/>
+		<line class="st1" x1="1026.1" y1="911.5" x2="1026.1" y2="908.7"/>
+		<line class="st1" x1="1082.2" y1="911.5" x2="1082.2" y2="908.7"/>
+		<line class="st1" x1="1138.3" y1="911.5" x2="1138.3" y2="908.7"/>
+		<line class="st1" x1="1194.4" y1="911.5" x2="1194.4" y2="908.7"/>
+		<line class="st1" x1="1250.5" y1="911.5" x2="1250.5" y2="908.7"/>
+	</g>
+	<g transform="translate(970,915.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(1026.1,915.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.2</text>
+	</g>
+	<g transform="translate(1082.2,915.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.4</text>
+	</g>
+	<g transform="translate(1138.3,915.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.6</text>
+	</g>
+	<g transform="translate(1194.4,915.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.8</text>
+	</g>
+	<g transform="translate(1250.5,915.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(1110.2501,929)">
+		<text transform="matrix(1 0 0 1 -54.5 11)" class="st2 st3 st5">bin # / number of bins</text>
+	</g>
+	<g>
+		<line class="st1" x1="970" y1="911.5" x2="970" y2="750"/>
+		<line class="st1" x1="970" y1="911.5" x2="972.8" y2="911.5"/>
+		<line class="st1" x1="970" y1="879.2" x2="972.8" y2="879.2"/>
+		<line class="st1" x1="970" y1="846.9" x2="972.8" y2="846.9"/>
+		<line class="st1" x1="970" y1="814.6" x2="972.8" y2="814.6"/>
+		<line class="st1" x1="970" y1="782.3" x2="972.8" y2="782.3"/>
+		<line class="st1" x1="970" y1="750" x2="972.8" y2="750"/>
+	</g>
+	<g transform="translate(966,911.5)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(966,879.2)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(966,846.9)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">2</text>
+	</g>
+	<g transform="translate(966,814.6)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">3</text>
+	</g>
+	<g transform="translate(966,782.3)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">4</text>
+	</g>
+	<g transform="translate(966,750)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">5</text>
+	</g>
+	<g transform="translate(957,830.7499) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -28.0001 -3)" class="st2 st3 st5">enrichment</text>
+	</g>
+	<g transform="translate(1110.2511,748.625)">
+		<text transform="matrix(1 0 0 1 -59.5 -3)" class="st6 st5">feature: 10 08 2020: A2</text>
+	</g>
+	<g>
+		<path class="st7" d="M970,899.5l31.2-35.9l31.2-12l31.2,35.9l31.2-12l31.2,12l31.2-12l31.2-23.9l31.2,47.9h31.2"/>
+		<path class="st8" d="M970,899.5l31.2-23.9l31.2,12l31.2-23.9l31.2,12l31.2,23.9l31.2-35.9l31.2,23.9h31.2l31.2-35.9"/>
+		<path class="st9" d="M970,911.5h31.2h31.2h31.2h31.2l31.2-47.9l31.2,12l31.2-12l31.2-47.9h31.2"/>
+		<path class="st10" d="M970,767.9l31.2,59.8l31.2,23.9l31.2,47.9l31.2-12l31.2,23.9h31.2h31.2h31.2h31.2"/>
+		<path class="st11" d="M970,911.5h31.2h31.2h31.2l31.2-47.9l31.2-12l31.2-23.9l31.2,35.9h31.2l31.2,12"/>
+	</g>
+	<g>
+		<path class="st0" d="M1339,911.5h280V750h-280V911.5z"/>
+	</g>
+	<g>
+		<line class="st1" x1="1339" y1="911.5" x2="1619" y2="911.5"/>
+		<line class="st1" x1="1339" y1="911.5" x2="1339" y2="908.7"/>
+		<line class="st1" x1="1395" y1="911.5" x2="1395" y2="908.7"/>
+		<line class="st1" x1="1451" y1="911.5" x2="1451" y2="908.7"/>
+		<line class="st1" x1="1507" y1="911.5" x2="1507" y2="908.7"/>
+		<line class="st1" x1="1563" y1="911.5" x2="1563" y2="908.7"/>
+		<line class="st1" x1="1619" y1="911.5" x2="1619" y2="908.7"/>
+	</g>
+	<g transform="translate(1339,915.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(1395,915.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.2</text>
+	</g>
+	<g transform="translate(1451,915.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.4</text>
+	</g>
+	<g transform="translate(1507,915.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.6</text>
+	</g>
+	<g transform="translate(1563,915.5)">
+		<text transform="matrix(1 0 0 1 -7 10)" class="st2 st3 st4">0.8</text>
+	</g>
+	<g transform="translate(1619,915.5)">
+		<text transform="matrix(1 0 0 1 -3 10)" class="st2 st3 st4">1</text>
+	</g>
+	<g transform="translate(1479.0001,929)">
+		<text transform="matrix(1 0 0 1 -54.5 11)" class="st2 st3 st5">bin # / number of bins</text>
+	</g>
+	<g>
+		<line class="st1" x1="1339" y1="911.5" x2="1339" y2="750"/>
+		<line class="st1" x1="1339" y1="911.5" x2="1341.8" y2="911.5"/>
+		<line class="st1" x1="1339" y1="871.1" x2="1341.8" y2="871.1"/>
+		<line class="st1" x1="1339" y1="830.8" x2="1341.8" y2="830.8"/>
+		<line class="st1" x1="1339" y1="790.4" x2="1341.8" y2="790.4"/>
+		<line class="st1" x1="1339" y1="750" x2="1341.8" y2="750"/>
+	</g>
+	<g transform="translate(1335,911.5)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">0</text>
+	</g>
+	<g transform="translate(1335,871.125)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">2</text>
+	</g>
+	<g transform="translate(1335,830.75)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">4</text>
+	</g>
+	<g transform="translate(1335,790.375)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">6</text>
+	</g>
+	<g transform="translate(1335,750)">
+		<text transform="matrix(1 0 0 1 -6 3.5)" class="st2 st3 st4">8</text>
+	</g>
+	<g transform="translate(1326,830.7499) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -28.0001 -3)" class="st2 st3 st5">enrichment</text>
+	</g>
+	<g transform="translate(1479.0015,748.625)">
+		<text transform="matrix(1 0 0 1 -56.5 -3)" class="st6 st5">feature: 10 08 2020: N</text>
+	</g>
+	<g>
+		<path class="st7" d="M1339,911.5l31.1-25.2l31.1-12.6l31.1,25.2l31.1-12.6l31.1-37.9l31.1,50.5h31.1h31.1l31.1,12.6"/>
+		<path class="st8" d="M1339,911.5l31.1-12.6h31.1l31.1,12.6l31.1-25.2h31.1l31.1,12.6l31.1-25.2h31.1h31.1"/>
+		<path class="st9" d="M1339,760.1l31.1,100.9l31.1,50.5h31.1h31.1h31.1h31.1h31.1h31.1h31.1"/>
+		<path class="st10" d="M1339,911.5h31.1h31.1h31.1h31.1h31.1l31.1-12.6l31.1-25.2l31.1-75.7l31.1,75.7"/>
+		<path class="st11" d="M1339,911.5h31.1h31.1l31.1-12.6l31.1-12.6l31.1-25.2h31.1l31.1,25.2l31.1-12.6l31.1,37.9"/>
+	</g>
+	<g>
+		<path class="st0" d="M1611.5,817v-61h-89v61H1611.5z"/>
+	</g>
+	<g transform="translate(1559.5,763.5)">
+		<text transform="matrix(1 0 0 1 0 3.5)" class="st3 st12">archetype:1</text>
+	</g>
+	<g>
+		<line class="st7" x1="1526.5" y1="763.5" x2="1556.5" y2="763.5"/>
+	</g>
+	<g transform="translate(1559.5,775)">
+		<text transform="matrix(1 0 0 1 0 3.5)" class="st3 st12">archetype:2</text>
+	</g>
+	<g>
+		<line class="st8" x1="1526.5" y1="775" x2="1556.5" y2="775"/>
+	</g>
+	<g transform="translate(1559.5,786.5)">
+		<text transform="matrix(1 0 0 1 0 3.5)" class="st3 st12">archetype:3</text>
+	</g>
+	<g>
+		<line class="st9" x1="1526.5" y1="786.5" x2="1556.5" y2="786.5"/>
+	</g>
+	<g transform="translate(1559.5,798)">
+		<text transform="matrix(1 0 0 1 0 3.5)" class="st3 st12">archetype:4</text>
+	</g>
+	<g>
+		<line class="st10" x1="1526.5" y1="798" x2="1556.5" y2="798"/>
+	</g>
+	<g transform="translate(1559.5,809.5)">
+		<text transform="matrix(1 0 0 1 0 3.5)" class="st3 st12">archetype:5</text>
+	</g>
+	<g>
+		<line class="st11" x1="1526.5" y1="809.5" x2="1556.5" y2="809.5"/>
+	</g>
+	<g>
+		<path class="st13" d="M1522.5,817v-61h89v61H1522.5z"/>
+	</g>
+</g>
+</svg>

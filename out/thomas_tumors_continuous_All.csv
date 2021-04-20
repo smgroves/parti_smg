@@ -1,0 +1,11 @@
+archetype #,Feature Name,P value (Mann-Whitney),Median Difference,Mean Difference,Significant after Benjamini-Hochberg correction?,Is first bin maximal?
+1,overall survival,0.013747,49.5,27.1857,0,1
+1,progression-free survival,0.081833,14,7.4224,0,0
+2,progression-free survival,0.59397,-6,-4.4667,0,0
+2,overall survival,0.69657,-11,-8.0143,0,0
+3,progression-free survival,0.49646,-3,-11.4194,0,0
+3,overall survival,0.72581,-6.5,-10.9402,0,0
+4,overall survival,0.38517,5.5,23.5145,0,0
+4,progression-free survival,0.17152,-8,-16.2188,0,0
+5,progression-free survival,0.36314,5.5,2.5,0,0
+5,overall survival,0.76372,0,-6.7554,0,0

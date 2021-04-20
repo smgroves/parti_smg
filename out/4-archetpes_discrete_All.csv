@@ -1,0 +1,77 @@
+archetype #,Feature Name,P value (Hypergeom.),Significant after Benjamini-Hochberg correction?,P maximal
+1,NEW 10 2020: Y,5.1336e-09,1,-Inf
+1,10 08 2020: Y,5.1336e-09,1,-Inf
+1,subtype: Y,1.0239e-07,1,-Inf
+1,subtype: P,0.0089655,1,-Inf
+1,NEW 10 2020: P,0.0089655,1,-Inf
+1,10 08 2020: P,0.0089655,1,-Inf
+1,source: CCLE,0.015621,1,-Inf
+1,subtype: uncl,0.34761,1,-Inf
+1,source: Minna,0.99739,1,-Inf
+1,subtype: A,1,1,-Inf
+1,subtype: A2,1,1,-Inf
+1,subtype: N,1,1,-Inf
+1,NEW 10 2020: A,1,1,-Inf
+1,NEW 10 2020: A2,1,1,-Inf
+1,NEW 10 2020: N,1,1,-Inf
+1,10 08 2020: A,1,1,-Inf
+1,10 08 2020: A2,1,1,-Inf
+1,10 08 2020: N,1,1,-Inf
+1,10 08 2020: uncl,1,1,-Inf
+2,10 08 2020: N,1.7264e-13,1,0.99977
+2,NEW 10 2020: N,4.9325e-10,1,0.95212
+2,subtype: N,2.1689e-08,1,-Inf
+2,subtype: uncl,0.049376,1,-Inf
+2,source: Minna,0.38448,1,-Inf
+2,source: CCLE,0.82173,1,-Inf
+2,subtype: A,1,1,-Inf
+2,subtype: A2,1,1,-Inf
+2,subtype: P,1,1,-Inf
+2,subtype: Y,1,1,-Inf
+2,NEW 10 2020: A,1,1,-Inf
+2,NEW 10 2020: A2,1,1,-Inf
+2,NEW 10 2020: P,1,1,-Inf
+2,NEW 10 2020: Y,1,1,-Inf
+2,10 08 2020: A,1,1,-Inf
+2,10 08 2020: A2,1,1,-Inf
+2,10 08 2020: P,1,1,-Inf
+2,10 08 2020: Y,1,1,-Inf
+2,10 08 2020: uncl,1,1,-Inf
+3,subtype: A2,4.9325e-10,1,0.88995
+3,10 08 2020: A2,1.6489e-09,1,0.75983
+3,NEW 10 2020: A2,2.8855e-09,1,0.75937
+3,source: CCLE,0.062313,1,-Inf
+3,source: Minna,0.98438,1,-Inf
+3,subtype: A,1,1,-Inf
+3,subtype: N,1,1,-Inf
+3,subtype: P,1,1,-Inf
+3,subtype: Y,1,1,-Inf
+3,subtype: uncl,1,1,-Inf
+3,NEW 10 2020: A,1,1,-Inf
+3,NEW 10 2020: N,1,1,-Inf
+3,NEW 10 2020: P,1,1,-Inf
+3,NEW 10 2020: Y,1,1,-Inf
+3,10 08 2020: A,1,1,-Inf
+3,10 08 2020: N,1,1,-Inf
+3,10 08 2020: P,1,1,-Inf
+3,10 08 2020: Y,1,1,-Inf
+3,10 08 2020: uncl,1,1,-Inf
+4,NEW 10 2020: A,6.6081e-06,1,0.70492
+4,subtype: A,4.1614e-05,1,0.33784
+4,10 08 2020: A,5.2963e-05,1,0.12499
+4,source: Minna,0.17827,1,-Inf
+4,source: CCLE,0.94263,1,-Inf
+4,subtype: A2,1,1,-Inf
+4,subtype: N,1,1,-Inf
+4,subtype: P,1,1,-Inf
+4,subtype: Y,1,1,-Inf
+4,subtype: uncl,1,1,-Inf
+4,NEW 10 2020: A2,1,1,-Inf
+4,NEW 10 2020: N,1,1,-Inf
+4,NEW 10 2020: P,1,1,-Inf
+4,NEW 10 2020: Y,1,1,-Inf
+4,10 08 2020: A2,1,1,-Inf
+4,10 08 2020: N,1,1,-Inf
+4,10 08 2020: P,1,1,-Inf
+4,10 08 2020: Y,1,1,-Inf
+4,10 08 2020: uncl,1,1,-Inf

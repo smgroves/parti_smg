@@ -1,0 +1,51 @@
+archetype #,Feature Name,P value (Mann-Whitney),Median Difference,Mean Difference,Significant after Benjamini-Hochberg correction?,Is first bin maximal?
+1,Genome Instability and Mutation,0.0015163,-0.39657,-0.39061,1,0
+1,Reprogramming Energy Metabolism,0.0012082,-0.57936,-0.58557,1,0
+1,Enabling Replicative Immortality,0.0011191,-0.6517,-0.64259,1,0
+1,Resisting Cell Death,0.00088694,-0.65381,-0.67581,1,0
+1,Evading Immune Destruction,0.0014063,-0.65493,-0.70818,1,0
+1,Evading Growth Suppressors,0.0010361,-0.71451,-0.68497,1,0
+1,Tumor-Promoting Inflammation,0.0011191,-0.72397,-0.74995,1,0
+1,Inducing Angiogenesis,0.0010361,-0.72725,-0.74848,1,0
+1,Sustaining Proliferative Signaling,0.00095884,-0.73615,-0.70556,1,0
+1,Activating Invasion and Metastasis,0.00095884,-0.74405,-0.7336,1,0
+2,Evading Immune Destruction,0.00082007,0.65233,0.65078,1,1
+2,Inducing Angiogenesis,0.00082007,0.53897,0.57337,1,1
+2,Tumor-Promoting Inflammation,0.0013038,0.51865,0.55176,1,1
+2,Resisting Cell Death,0.0014063,0.28946,0.34518,1,1
+2,Activating Invasion and Metastasis,0.016994,0.17898,0.26083,1,1
+2,Sustaining Proliferative Signaling,0.021468,0.16003,0.2324,1,1
+2,Enabling Replicative Immortality,0.21007,0.088595,0.15492,0,0
+2,Genome Instability and Mutation,0.38924,0.080657,0.078266,0,0
+2,Evading Growth Suppressors,0.33205,0.054111,0.13918,0,0
+2,Reprogramming Energy Metabolism,0.38924,0.025278,0.093549,0,0
+3,Genome Instability and Mutation,0.028477,0.13763,0.15686,1,1
+3,Evading Immune Destruction,0.16631,0.26556,0.23243,0,0
+3,Inducing Angiogenesis,0.11911,0.2395,0.25663,0,0
+3,Resisting Cell Death,0.048532,0.17905,0.23143,0,0
+3,Tumor-Promoting Inflammation,0.16631,0.17288,0.21781,0,0
+3,Sustaining Proliferative Signaling,0.051071,0.1467,0.20786,0,0
+3,Reprogramming Energy Metabolism,0.05372,0.099819,0.15283,0,0
+3,Evading Growth Suppressors,0.1412,0.091109,0.17295,0,0
+3,Activating Invasion and Metastasis,0.26162,0.085055,0.1613,0,0
+3,Enabling Replicative Immortality,0.33205,0.063595,0.13306,0,0
+4,Enabling Replicative Immortality,0.16631,0.070388,0.15806,0,0
+4,Genome Instability and Mutation,0.52021,0.041506,0.068902,0,0
+4,Reprogramming Energy Metabolism,0.65498,0.026642,0.07741,0,0
+4,Evading Growth Suppressors,0.50616,0.026464,0.12828,0,0
+4,Activating Invasion and Metastasis,0.92186,-0.015732,0.071817,0,0
+4,Sustaining Proliferative Signaling,0.9913,-0.036252,0.079554,0,0
+4,Resisting Cell Death,0.40135,-0.079155,-0.011722,0,0
+4,Inducing Angiogenesis,0.29043,-0.15166,-0.10783,0,0
+4,Tumor-Promoting Inflammation,0.43904,-0.16106,-0.091393,0,0
+4,Evading Immune Destruction,0.23485,-0.21702,-0.18401,0,0
+5,Activating Invasion and Metastasis,0.0041519,0.24688,0.32091,1,1
+5,Sustaining Proliferative Signaling,0.0075805,0.20098,0.27173,1,1
+5,Evading Growth Suppressors,0.0058264,0.18269,0.2576,1,1
+5,Reprogramming Energy Metabolism,0.0044469,0.17039,0.21153,1,1
+5,Enabling Replicative Immortality,0.008624,0.16928,0.27378,1,1
+5,Tumor-Promoting Inflammation,0.17309,0.20395,0.2094,0,0
+5,Evading Immune Destruction,0.38924,0.16879,0.14884,0,0
+5,Inducing Angiogenesis,0.2806,0.13204,0.16462,0,0
+5,Resisting Cell Death,0.10913,0.12693,0.18313,0,0
+5,Genome Instability and Mutation,0.087061,0.11215,0.12739,0,0

@@ -1,0 +1,6 @@
+archetype #,Feature Name,P value (Hypergeom.),Significant after Benjamini-Hochberg correction?,Is first bin maximal?
+1,subtype: Y,5.891e-10,1,1
+2,subtype: P,6.1515e-12,1,1
+3,subtype: N,1.2825e-10,1,1
+4,subtype: A2,3.6907e-06,1,1
+5,subtype: A,0.0026429,1,1

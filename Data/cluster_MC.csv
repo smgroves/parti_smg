@@ -1,0 +1,121 @@
+,subtype,tissue,treated
+c.COLO668,A2,brain,
+c.CORL24,N,lymph node,No
+c.CORL279,N,lymph node,No, (142.5)
+c.CORL311,P,,Chemotherapy
+c.CORL47,A,lymph node,No
+c.CORL88,A2,pleural effusion,Chemotherapy
+c.CORL95,A2,bronchial biopsy,C
+c.DMS114,Y,mediastinal biopsy,No
+c.DMS153,A2,liver,Chemotherapy
+c.DMS273,N,pleural effusion,Chemotherapy/radiation
+c.DMS454,A,lung, (120.5)
+c.DMS53,A2,mediastinal biopsy,No (123.8)
+c.DMS79,A2,pleural effusion,Chemotherapy/radiation
+c.HCC33,N,pleural effusion,
+c.NCIH1048,P,pleural effusion, (134.22)
+c.NCIH1092,A,bone marrow,
+c.NCIH1105,A2,lymph node,
+c.NCIH1184,A,,
+c.NCIH1339,Y,,
+c.NCIH1341,P,cervix,
+c.NCIH1436,A2,lymph node,
+c.NCIH146,A,bone marrow,Chemotherapy
+c.NCIH1618,A2,bone marrow,
+c.NCIH1694,N,,
+c.NCIH1836,A2,,
+c.NCIH1876,A2,lymph node,
+c.NCIH1930,A,lymph node,
+c.NCIH196,Y,pleural effusion,Chemotherapy/radiation
+c.NCIH1963,A,,
+c.NCIH2029,A2,lymph node,Chemotherapy/radiation
+c.NCIH2066,A,,
+c.NCIH2081,A,lung,
+c.NCIH209,A2,bone marrow,No
+c.NCIH211,P,,Chemotherapy/radiation
+c.NCIH2171,N,pleural effusion,Chemotherapy/radiation
+c.NCIH2196,A2,bone marrow,
+c.NCIH2227,A,,
+c.NCIH2286,Y,,
+c.NCIH446,N,pleural effusion,Chemotherapy
+c.NCIH510,A2,adrenal gland,Chemotherapy
+c.NCIH524,N,lymph node,Chemotherapy/radiation (98.3)
+c.NCIH526,P,bone marrow,No
+c.NCIH69,A,,Chemotherapy (147)
+c.NCIH82,N,pleural effusion,Chemotherapy (130)
+c.NCIH841,Y,,Chemotherapy/radiation (129.6)
+c.NCIH889,A,lymph node,No
+c.SBC5,Y,pleural effusion,
+c.SCLC21H,N,pleural effusion,
+c.SHP77,A2,lung,
+c.SW1271,Y,,
+m.DMS153,A2,,
+m.HCC2433,N,,
+m.HCC33,N,,
+m.HCC4000,A,,
+m.HCC4001,N,,
+m.HCC4002,N,,
+m.HCC4003,A2,,
+m.HCC4004,N,,
+m.HCC4005,N,,
+m.HCC970,N,,
+m.NCIH1048,P,, (122.5)
+m.NCIH1092,A,,
+m.NCIH1184,A,,
+m.NCIH1238,A2,,
+m.NCIH128,A,,Chemotherapy
+m.NCIH1339,A2,,
+m.NCIH1417,A2,,
+m.NCIH1436,A2,,
+m.NCIH1450,P,,
+m.NCIH146,A,,
+m.NCIH1514,A,,
+m.NCIH1522,A,,
+m.NCIH1607,P,,
+m.NCIH1628,A2,,
+m.NCIH1672,A2,,
+m.NCIH1688,A2,,
+m.NCIH1694,N,,
+m.NCIH1836,A2,,
+m.NCIH187,A2,,No
+m.NCIH1870,A2,,
+m.NCIH1876,A2,,
+m.NCIH1882,A2,,
+m.NCIH1926,A,,
+m.NCIH1930,A,,
+m.NCIH1963,A,,
+m.NCIH1994,A2,,
+m.NCIH2029,A2,,
+m.NCIH2081,A,,
+m.NCIH209,A2,,
+m.NCIH2107,A,,
+m.NCIH2108,A,,
+m.NCIH211,P,,
+m.NCIH2141,A2,,
+m.NCIH2171,N,,
+m.NCIH2195,A2,,
+m.NCIH2196,A2,,
+m.NCIH2198,A2,,
+m.NCIH2227,A,,
+m.NCIH250,A2,,No
+m.NCIH2679,P,,
+m.NCIH3282,A2,,
+m.NCIH345,A2,,Chemotherapy
+m.NCIH378,A,,Chemotherapy
+m.NCIH446,N,,
+m.NCIH510,A2,,
+m.NCIH524,N,, (95.3)
+m.NCIH526,P,,
+m.NCIH60,N,pleural effusion,Chemotherapy
+m.NCIH69,A,,
+m.NCIH711,A,,
+m.NCIH735,A2,,
+m.NCIH738,A,,
+m.NCIH740,A2,,
+m.NCIH748,A,,
+m.NCIH774,A2,,
+m.NCIH82,N,, (152.4)
+m.NCIH841,Y,, (133.7)
+m.NCIH865,A2,,
+m.NCIH889,A,,
+m.SHP77,A2,,

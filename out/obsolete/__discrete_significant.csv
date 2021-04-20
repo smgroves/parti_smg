@@ -1,0 +1,20 @@
+archetype #,Feature Name,P value (Hypergeom.),Significant after Benjamini-Hochberg correction?,Is first bin maximal?
+1,NEW 10 2020: Y,2.1039e-11,1,1
+1,10 08 2020: Y,2.1039e-11,1,1
+1,subtype: Y,1.0239e-07,1,1
+1,source: CCLE,0.015621,1,1
+1,subtype: uncl,0.049376,1,1
+2,subtype: P,5.6866e-13,1,1
+2,NEW 10 2020: P,5.6866e-13,1,1
+2,10 08 2020: P,5.6866e-13,1,1
+2,10 08 2020: uncl,0.19076,1,1
+3,10 08 2020: N,1.7264e-13,1,1
+3,NEW 10 2020: N,4.9325e-10,1,1
+3,subtype: N,2.1689e-08,1,1
+3,subtype: uncl,0.049376,1,1
+4,10 08 2020: A2,1.6489e-09,1,1
+4,NEW 10 2020: A2,2.8855e-09,1,1
+4,subtype: A2,4.0658e-08,1,1
+5,NEW 10 2020: A,6.6081e-06,1,1
+5,subtype: A,4.1614e-05,1,1
+5,10 08 2020: A,5.2963e-05,1,1
